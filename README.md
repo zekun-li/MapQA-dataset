@@ -1,5 +1,5 @@
 
-# Open-domain Geospatial Question Answering on Map Data
+# MapQA: Open-domain Geospatial Question Answering on Map Data
 <img width="434" alt="logo1" src="https://github.com/user-attachments/assets/e6c75371-1c7e-42df-a9f1-ecdb5ca8f27c" />
 
 
