@@ -1,0 +1,291 @@
+{
+    "1": {
+        "Michigan Avenue Bridge Dock": {
+            "osm_id": 20217109,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Willis Tower/Union Station Water Taxi Terminal": {
+            "osm_id": 20217442,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Midewin National Tallgrass Prairie @ South Chicago Road": {
+            "osm_id": 30561121,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "2": {
+        "Leisure Village": {
+            "osm_id": 235294118,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Deland Cemetery": {
+            "osm_id": 236817202,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Busse Forest South": {
+            "osm_id": 261177673,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "3": {
+        "Citgo": {
+            "osm_id": 269689382,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Mobil": {
+            "osm_id": 269690907,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Storefront Theater": {
+            "osm_id": 271275603,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "4": {
+        "Auditorium Theatre": {
+            "osm_id": 271275794,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Centrue Bank": {
+            "osm_id": 272579470,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Beck's": {
+            "osm_id": 272579491,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "5": {
+        "McDonald's": {
+            "osm_id": 272580667,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Wise Guys": {
+            "osm_id": 272580983,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Shell": {
+            "osm_id": 272581370,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "6": {
+        "Pizza Hut": {
+            "osm_id": 272981146,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Amcore Bank": {
+            "osm_id": 272984892,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Citizens First National Bank": {
+            "osm_id": 272985983,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "7": {
+        "Master Stirfry": {
+            "osm_id": 273158213,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Jalapenos": {
+            "osm_id": 273162446,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Temple Judea Mizpah": {
+            "osm_id": 286084737,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "8": {
+        "Chipotle": {
+            "osm_id": 286372562,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Panera Bread": {
+            "osm_id": 286482228,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Lincoln Park Postal Store": {
+            "osm_id": 287160478,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "9": {
+        "Siam Terrace": {
+            "osm_id": 287470185,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Downtown Urbana Post Office": {
+            "osm_id": 287774106,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Schnucks Express": {
+            "osm_id": 287966287,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "10": {
+        "BMO": {
+            "osm_id": 289809315,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "McDonald's": {
+            "osm_id": 300051942,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Subway": {
+            "osm_id": 306737605,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "11": {
+        "Jollibee": {
+            "osm_id": 306737694,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Einstein Bros. Bagels": {
+            "osm_id": 306740690,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Bubba Gump Shrimp Company": {
+            "osm_id": 306741002,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "12": {
+        "CVS Pharmacy": {
+            "osm_id": 306742663,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "McDonald's": {
+            "osm_id": 307455970,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Noodles & Company": {
+            "osm_id": 307808094,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "13": {
+        "Subway": {
+            "osm_id": 307813665,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Dunkin'": {
+            "osm_id": 307816962,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Yen Yen": {
+            "osm_id": 307816988,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "14": {
+        "Pompei Pizza & Pasta": {
+            "osm_id": 307816996,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Domino's": {
+            "osm_id": 308430888,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Buffalo Restaurant & Ice Cream Parlor": {
+            "osm_id": 308430900,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "15": {
+        "Mobil": {
+            "osm_id": 308676840,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Branko's Submarines": {
+            "osm_id": 308677177,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Starbucks": {
+            "osm_id": 310502167,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "16": {
+        "Neofuturists": {
+            "osm_id": 311438932,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "BP": {
+            "osm_id": 311443063,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Navy Pier IMAX Theatre": {
+            "osm_id": 313107974,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    },
+    "17": {
+        "Sbarro": {
+            "osm_id": 313771462,
+            "latitude": 41.88914580047775,
+            "longitude": -87.6225168
+        },
+        "Pizano's Pizza & Pasta": {
+            "osm_id": 318274065,
+            "latitude": 41.87906180047695,
+            "longitude": -87.63774019999998
+        },
+        "Jimmy John's": {
+            "osm_id": 318274413,
+            "latitude": 41.39351620043361,
+            "longitude": -88.07791229999998
+        }
+    }
+}

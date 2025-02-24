@@ -1,0 +1,3024 @@
+{
+    "10": {
+        "Big Mini Putt Club": {
+            "osm_id": 11232689033,
+            "latitude": 41.94891350048241,
+            "longitude": -87.649384
+        },
+        "Circuit": {
+            "osm_id": 949092165,
+            "latitude": 41.94864480048238,
+            "longitude": -87.64938309999998
+        }
+    },
+    "29": {
+        "Bank of America": {
+            "osm_id": 2322673336,
+            "latitude": 41.97564110048442,
+            "longitude": -87.90316530000001
+        },
+        "BMO": {
+            "osm_id": 2285134861,
+            "latitude": 41.97564260048442,
+            "longitude": -87.90335609999998
+        }
+    },
+    "37": {
+        "The Arrogant Frog Bar": {
+            "osm_id": 6304066996,
+            "latitude": 41.92511220048057,
+            "longitude": -87.663056
+        },
+        "Faith and Whiskey": {
+            "osm_id": 477087119,
+            "latitude": 41.925133700480565,
+            "longitude": -87.6631281
+        }
+    },
+    "44": {
+        "The Boss Bar": {
+            "osm_id": 5458048963,
+            "latitude": 41.88990020047782,
+            "longitude": -87.63135969999999
+        },
+        "Celeste": {
+            "osm_id": 5457612806,
+            "latitude": 41.8898493004778,
+            "longitude": -87.63162799999999
+        }
+    },
+    "48": {
+        "Features Bar & Grill": {
+            "osm_id": 5399925268,
+            "latitude": 41.77133950046815,
+            "longitude": -88.14834909999999
+        },
+        "Frankie's Blue Room": {
+            "osm_id": 5399925269,
+            "latitude": 41.77134220046814,
+            "longitude": -88.14844459999999
+        }
+    },
+    "51": {
+        "Fudy T\u2019s": {
+            "osm_id": 6291637578,
+            "latitude": 42.008055500486826,
+            "longitude": -87.6665181
+        },
+        "Mission Control Arcade Bar": {
+            "osm_id": 10062117656,
+            "latitude": 42.008034600486845,
+            "longitude": -87.66635859999998
+        }
+    },
+    "66": {
+        "Jerry's Tap Room": {
+            "osm_id": 6439877919,
+            "latitude": 41.32859370042713,
+            "longitude": -89.0921594
+        },
+        "Doc's Bar": {
+            "osm_id": 6439877920,
+            "latitude": 41.32862820042714,
+            "longitude": -89.0917205
+        }
+    },
+    "68": {
+        "Monsen\u2019s Tally Ho Pub": {
+            "osm_id": 6322803004,
+            "latitude": 42.019305900487666,
+            "longitude": -87.67957899999999
+        },
+        "Ward Eight": {
+            "osm_id": 2294091588,
+            "latitude": 42.01959830048769,
+            "longitude": -87.6796983
+        }
+    },
+    "79": {
+        "Apogee": {
+            "osm_id": 5456991665,
+            "latitude": 41.89424980047814,
+            "longitude": -87.6285058
+        },
+        "Leviathan": {
+            "osm_id": 6326472485,
+            "latitude": 41.89434350047815,
+            "longitude": -87.62841199999998
+        }
+    },
+    "83": {
+        "Nisei Lounge": {
+            "osm_id": 5033308929,
+            "latitude": 41.94470830048207,
+            "longitude": -87.65406620000002
+        },
+        "The Graystone Tavern": {
+            "osm_id": 5364425025,
+            "latitude": 41.944790900482076,
+            "longitude": -87.6540921
+        }
+    },
+    "94": {
+        "O'Callaghan's": {
+            "osm_id": 5443133144,
+            "latitude": 41.889885200477806,
+            "longitude": -87.6292037
+        },
+        "Rocbar": {
+            "osm_id": 11167602655,
+            "latitude": 41.889862000477805,
+            "longitude": -87.62910639999998
+        },
+        "Theory": {
+            "osm_id": 5443138701,
+            "latitude": 41.889914100477824,
+            "longitude": -87.62851929999998
+        },
+        "Jojo's Milk Bar": {
+            "osm_id": 6397116085,
+            "latitude": 41.88990910047781,
+            "longitude": -87.62895569999999
+        }
+    },
+    "96": {
+        "The Baton Show Lounge": {
+            "osm_id": 5457219841,
+            "latitude": 41.89025760047784,
+            "longitude": -87.63140209999999
+        },
+        "Parlay": {
+            "osm_id": 6299349213,
+            "latitude": 41.89025770047785,
+            "longitude": -87.63180460000001
+        }
+    },
+    "97": {
+        "Christmas Club": {
+            "osm_id": 6282573940,
+            "latitude": 41.94501340048209,
+            "longitude": -87.6551173
+        },
+        "Lucky's Sandwich Co": {
+            "osm_id": 5364425029,
+            "latitude": 41.94514200048209,
+            "longitude": -87.65504430000001
+        }
+    },
+    "98": {
+        "Replay - Andersonville": {
+            "osm_id": 6321694983,
+            "latitude": 41.97967670048473,
+            "longitude": -87.66849309999999
+        },
+        "Marty\u2019s Martini Bar": {
+            "osm_id": 6321566926,
+            "latitude": 41.979701600484724,
+            "longitude": -87.66873910000001
+        }
+    },
+    "129": {
+        "Iron Horse Social Club": {
+            "osm_id": 4435202992,
+            "latitude": 42.09374990049301,
+            "longitude": -90.1562953
+        },
+        "Hawg Dogs": {
+            "osm_id": 9650599958,
+            "latitude": 42.09422260049303,
+            "longitude": -90.15641019999998
+        },
+        "Rhythm Room of Hawg Dogs": {
+            "osm_id": 9650599664,
+            "latitude": 42.094074400493035,
+            "longitude": -90.1561956
+        }
+    },
+    "133": {
+        "Bodega": {
+            "osm_id": 5455708305,
+            "latitude": 41.89229430047799,
+            "longitude": -87.6274944
+        },
+        "The Berkshire Room": {
+            "osm_id": 6305269184,
+            "latitude": 41.892208800477995,
+            "longitude": -87.6274966
+        },
+        "Broken Shaker Chicago": {
+            "osm_id": 5458040762,
+            "latitude": 41.892276400477996,
+            "longitude": -87.62732009999999
+        }
+    },
+    "139": {
+        "Byline Bank": {
+            "osm_id": 3575357463,
+            "latitude": 41.9100488004794,
+            "longitude": -87.6772988
+        },
+        "Chase": {
+            "osm_id": 11159638317,
+            "latitude": 41.91062350047943,
+            "longitude": -87.6773072
+        },
+        "Bank of America": {
+            "osm_id": 3575362996,
+            "latitude": 41.910366800479416,
+            "longitude": -87.67716749999998
+        }
+    },
+    "186": {
+        "Chicago Ballet Center": {
+            "osm_id": 4089091484,
+            "latitude": 41.95462890048283,
+            "longitude": -87.74851159999999
+        },
+        "Inside Out Art Studio": {
+            "osm_id": 4089091483,
+            "latitude": 41.954529200482824,
+            "longitude": -87.7486055
+        }
+    },
+    "188": {
+        "Chalamo": {
+            "osm_id": 6219040400,
+            "latitude": 39.67696900022275,
+            "longitude": -89.70405429999998
+        },
+        "The Range Bourbon & Brew": {
+            "osm_id": 11253529361,
+            "latitude": 39.676976900222755,
+            "longitude": -89.70381589999998
+        }
+    },
+    "192": {
+        "Gilt Bar": {
+            "osm_id": 5457750245,
+            "latitude": 41.889374500477764,
+            "longitude": -87.6352681
+        },
+        "The Library": {
+            "osm_id": 5458153875,
+            "latitude": 41.889316600477756,
+            "longitude": -87.63526719999999
+        }
+    },
+    "202": {
+        "O'Callaghan's": {
+            "osm_id": 5443133144,
+            "latitude": 41.889885200477806,
+            "longitude": -87.6292037
+        },
+        "Rocbar": {
+            "osm_id": 11167602655,
+            "latitude": 41.889862000477805,
+            "longitude": -87.62910639999998
+        },
+        "Jojo's Milk Bar": {
+            "osm_id": 6397116085,
+            "latitude": 41.88990910047781,
+            "longitude": -87.62895569999999
+        }
+    },
+    "213": {
+        "Major Leagues": {
+            "osm_id": 5371048579,
+            "latitude": 39.5495021002048,
+            "longitude": -89.29383579999998
+        },
+        "Taylorville Tap": {
+            "osm_id": 5371048580,
+            "latitude": 39.54920520020475,
+            "longitude": -89.2939854
+        }
+    },
+    "223": {
+        "Duffy's": {
+            "osm_id": 1929386476,
+            "latitude": 40.94661650038613,
+            "longitude": -90.3698408
+        },
+        "Olyve's": {
+            "osm_id": 1929386556,
+            "latitude": 40.946702400386144,
+            "longitude": -90.36984829999999
+        }
+    },
+    "224": {
+        "O'Callaghan's": {
+            "osm_id": 5443133144,
+            "latitude": 41.889885200477806,
+            "longitude": -87.6292037
+        },
+        "Rocbar": {
+            "osm_id": 11167602655,
+            "latitude": 41.889862000477805,
+            "longitude": -87.62910639999998
+        },
+        "Jojo's Milk Bar": {
+            "osm_id": 6397116085,
+            "latitude": 41.88990910047781,
+            "longitude": -87.62895569999999
+        }
+    },
+    "260": {
+        "Watershed": {
+            "osm_id": 5458159195,
+            "latitude": 41.892624900478026,
+            "longitude": -87.6278913
+        },
+        "Pops For Champagne": {
+            "osm_id": 1668871728,
+            "latitude": 41.892586000478026,
+            "longitude": -87.6279351
+        }
+    },
+    "263": {
+        "Rossi\u2019s Liquors": {
+            "osm_id": 5443100457,
+            "latitude": 41.889778400477795,
+            "longitude": -87.6281827
+        },
+        "Theory": {
+            "osm_id": 5443138701,
+            "latitude": 41.889914100477824,
+            "longitude": -87.62851929999998
+        }
+    },
+    "302": {
+        "Stella's Tap": {
+            "osm_id": 3575025690,
+            "latitude": 41.8986011004785,
+            "longitude": -87.68669889999998
+        },
+        "Stella\u2019s Sports Bar": {
+            "osm_id": 6301725940,
+            "latitude": 41.8986252004785,
+            "longitude": -87.6866105
+        }
+    },
+    "308": {
+        "Stretch Bar & Grill": {
+            "osm_id": 6301794398,
+            "latitude": 41.94578530048215,
+            "longitude": -87.6550852
+        },
+        "Santa Baby Bar": {
+            "osm_id": 9316879717,
+            "latitude": 41.94596920048218,
+            "longitude": -87.6553669
+        }
+    },
+    "318": {
+        "Sound-Bar": {
+            "osm_id": 5457978313,
+            "latitude": 41.893406000478095,
+            "longitude": -87.6354147
+        },
+        "Shay Chicago": {
+            "osm_id": 5457975512,
+            "latitude": 41.893377800478085,
+            "longitude": -87.6350947
+        },
+        "Electric Hotel": {
+            "osm_id": 6286203667,
+            "latitude": 41.893443000478086,
+            "longitude": -87.6350756
+        }
+    },
+    "324": {
+        "Fifth Third Bank": {
+            "osm_id": 10925526299,
+            "latitude": 41.88183310047716,
+            "longitude": -87.63254249999999
+        },
+        "State Bank of India": {
+            "osm_id": 10925578812,
+            "latitude": 41.88184840047717,
+            "longitude": -87.63216879999999
+        }
+    },
+    "339": {
+        "Milk Room": {
+            "osm_id": 4130928515,
+            "latitude": 41.88175560047715,
+            "longitude": -87.62484149999999
+        },
+        "Game Room": {
+            "osm_id": 6291747686,
+            "latitude": 41.88160180047715,
+            "longitude": -87.6248352
+        },
+        "Drawing Room": {
+            "osm_id": 6284779075,
+            "latitude": 41.88175700047716,
+            "longitude": -87.62476
+        }
+    },
+    "351": {
+        "Emporium - Logan Square": {
+            "osm_id": 6286662313,
+            "latitude": 41.924272800480495,
+            "longitude": -87.6990832
+        },
+        "Slippery Slope": {
+            "osm_id": 6298848604,
+            "latitude": 41.92421370048049,
+            "longitude": -87.6989691
+        },
+        "The Heavy Feather": {
+            "osm_id": 3819197957,
+            "latitude": 41.9242490004805,
+            "longitude": -87.69888849999998
+        }
+    },
+    "363": {
+        "United Club - C16": {
+            "osm_id": 6374914136,
+            "latitude": 41.97842610048464,
+            "longitude": -87.910435
+        },
+        "beaudevin": {
+            "osm_id": 3136119459,
+            "latitude": 41.978378800484634,
+            "longitude": -87.9102426
+        }
+    },
+    "365": {
+        "Two Zero Three": {
+            "osm_id": 6307072253,
+            "latitude": 41.885885800477496,
+            "longitude": -87.62609669999999
+        },
+        "Commons Club": {
+            "osm_id": 6283292191,
+            "latitude": 41.885964800477495,
+            "longitude": -87.6259889
+        }
+    },
+    "368": {
+        "Bank of America": {
+            "osm_id": 2322413204,
+            "latitude": 41.97616920048446,
+            "longitude": -87.90159509999998
+        },
+        "BMO": {
+            "osm_id": 2322413171,
+            "latitude": 41.97614800048446,
+            "longitude": -87.90163929999999
+        }
+    },
+    "370": {
+        "Black Beetle": {
+            "osm_id": 1786793085,
+            "latitude": 41.89581850047827,
+            "longitude": -87.69069309999999
+        },
+        "The Beetle Bar and Grill": {
+            "osm_id": 6305259456,
+            "latitude": 41.89596000047829,
+            "longitude": -87.6907321
+        }
+    },
+    "383": {
+        "720 South Bar & Grill": {
+            "osm_id": 6256247554,
+            "latitude": 41.87257220047644,
+            "longitude": -87.62452719999999
+        },
+        "Kitty O\u2019Shea\u2019s": {
+            "osm_id": 6319681793,
+            "latitude": 41.87245790047642,
+            "longitude": -87.6245345
+        }
+    },
+    "389": {
+        "The Sandlot Wrigley": {
+            "osm_id": 5364425027,
+            "latitude": 41.945385400482124,
+            "longitude": -87.65486189999999
+        },
+        "Tinker to Evers, Wrigleyville": {
+            "osm_id": 6304575246,
+            "latitude": 41.94550070048213,
+            "longitude": -87.6547969
+        },
+        "Lucky's Sandwich Co": {
+            "osm_id": 5364425029,
+            "latitude": 41.94514200048209,
+            "longitude": -87.65504430000001
+        }
+    },
+    "392": {
+        "Figo Wine Bar": {
+            "osm_id": 6289950585,
+            "latitude": 41.94024340048173,
+            "longitude": -87.65397539999998
+        },
+        "Cheesie's Pub & Grub": {
+            "osm_id": 5161056765,
+            "latitude": 41.94004860048172,
+            "longitude": -87.65378819999998
+        }
+    },
+    "407": {
+        "Anvil & Forge Brewing Company": {
+            "osm_id": 6074672798,
+            "latitude": 39.80188340024014,
+            "longitude": -89.64690159999999
+        },
+        "Brewhaus": {
+            "osm_id": 7201297332,
+            "latitude": 39.801886700240146,
+            "longitude": -89.6471132
+        }
+    },
+    "412": {
+        "Sparrow": {
+            "osm_id": 6300287486,
+            "latitude": 41.90337230047888,
+            "longitude": -87.62906169999998
+        },
+        "The Hangge-Uppe": {
+            "osm_id": 6315254173,
+            "latitude": 41.90332790047888,
+            "longitude": -87.6292502
+        }
+    },
+    "421": {
+        "The Whistler": {
+            "osm_id": 2761642364,
+            "latitude": 41.92534840048058,
+            "longitude": -87.70104779999998
+        },
+        "Welcome Back Lounge": {
+            "osm_id": 11289374798,
+            "latitude": 41.9253857004806,
+            "longitude": -87.70114289999998
+        },
+        "The Native": {
+            "osm_id": 6315665351,
+            "latitude": 41.925319000480584,
+            "longitude": -87.70085419999998
+        }
+    },
+    "426": {
+        "BankFinancial": {
+            "osm_id": 9843870618,
+            "latitude": 41.79355690047,
+            "longitude": -88.01048909999999
+        },
+        "Citibank": {
+            "osm_id": 9843863409,
+            "latitude": 41.79383250047003,
+            "longitude": -88.0104756
+        }
+    },
+    "444": {
+        "The Drinkingbird": {
+            "osm_id": 3617756790,
+            "latitude": 41.92175800048031,
+            "longitude": -87.6643563
+        },
+        "Whale Tale": {
+            "osm_id": 6316843887,
+            "latitude": 41.92202530048033,
+            "longitude": -87.6645086
+        }
+    },
+    "449": {
+        "Z Bar": {
+            "osm_id": 6317106382,
+            "latitude": 41.89599480047828,
+            "longitude": -87.6251129
+        },
+        "The Lobby": {
+            "osm_id": 6315656599,
+            "latitude": 41.89602530047828,
+            "longitude": -87.62511599999999
+        }
+    },
+    "468": {
+        "Imperial Oak Brewing": {
+            "osm_id": 9683270947,
+            "latitude": 41.81744780047198,
+            "longitude": -87.85849449999999
+        },
+        "Brixies": {
+            "osm_id": 3338971638,
+            "latitude": 41.817558200471986,
+            "longitude": -87.8585182
+        }
+    },
+    "493": {
+        "United Club - C16": {
+            "osm_id": 6374914136,
+            "latitude": 41.97842610048464,
+            "longitude": -87.910435
+        },
+        "beaudevin": {
+            "osm_id": 3136119459,
+            "latitude": 41.978378800484634,
+            "longitude": -87.9102426
+        }
+    },
+    "506": {
+        "Reggie\u2019s Trainwreck Rooftop Deck": {
+            "osm_id": 6300644757,
+            "latitude": 41.85390710047494,
+            "longitude": -87.6268152
+        },
+        "Reggies Music Joint": {
+            "osm_id": 6301056429,
+            "latitude": 41.85399290047495,
+            "longitude": -87.62678469999999
+        }
+    },
+    "512": {
+        "Stretch Bar & Grill": {
+            "osm_id": 6301794398,
+            "latitude": 41.94578530048215,
+            "longitude": -87.6550852
+        },
+        "Santa Baby Bar": {
+            "osm_id": 9316879717,
+            "latitude": 41.94596920048218,
+            "longitude": -87.6553669
+        },
+        "Nola pub": {
+            "osm_id": 6323168600,
+            "latitude": 41.94572610048215,
+            "longitude": -87.655028
+        }
+    },
+    "516": {
+        "OverTime Sports Bar and Grill": {
+            "osm_id": 6324182961,
+            "latitude": 41.93836000048158,
+            "longitude": -87.7940371
+        },
+        "Cafe Prague": {
+            "osm_id": 6269769547,
+            "latitude": 41.938351100481576,
+            "longitude": -87.7938811
+        }
+    },
+    "520": {
+        "Farmers and Merchants Bank": {
+            "osm_id": 4627653471,
+            "latitude": 38.34357700003089,
+            "longitude": -89.38259189999998
+        },
+        "Regions Bank": {
+            "osm_id": 4627653470,
+            "latitude": 38.34332670003084,
+            "longitude": -89.3828387
+        }
+    },
+    "570": {
+        "Eilert's": {
+            "osm_id": 8174656796,
+            "latitude": 42.302494800506615,
+            "longitude": -89.6403913
+        },
+        "Jumpin Joe's": {
+            "osm_id": 8174656795,
+            "latitude": 42.30249040050662,
+            "longitude": -89.640788
+        }
+    },
+    "571": {
+        "Black Beetle": {
+            "osm_id": 1786793085,
+            "latitude": 41.89581850047827,
+            "longitude": -87.69069309999999
+        },
+        "The Beetle Bar and Grill": {
+            "osm_id": 6305259456,
+            "latitude": 41.89596000047829,
+            "longitude": -87.6907321
+        }
+    },
+    "572": {
+        "BMO": {
+            "osm_id": 5061120038,
+            "latitude": 41.78802400046954,
+            "longitude": -87.7421239
+        },
+        "Bank of America": {
+            "osm_id": 5061120036,
+            "latitude": 41.78802520046955,
+            "longitude": -87.7421828
+        }
+    },
+    "578": {
+        "Estereo FM": {
+            "osm_id": 11168677746,
+            "latitude": 41.886568500477544,
+            "longitude": -87.65232659999998
+        },
+        "The Aviary": {
+            "osm_id": 3575173112,
+            "latitude": 41.88651010047754,
+            "longitude": -87.6519209
+        }
+    },
+    "595": {
+        "Milk Room": {
+            "osm_id": 4130928515,
+            "latitude": 41.88175560047715,
+            "longitude": -87.62484149999999
+        },
+        "Game Room": {
+            "osm_id": 6291747686,
+            "latitude": 41.88160180047715,
+            "longitude": -87.6248352
+        },
+        "Drawing Room": {
+            "osm_id": 6284779075,
+            "latitude": 41.88175700047716,
+            "longitude": -87.62476
+        }
+    },
+    "601": {
+        "Monsen\u2019s Tally Ho Pub": {
+            "osm_id": 6322803004,
+            "latitude": 42.019305900487666,
+            "longitude": -87.67957899999999
+        },
+        "Ward Eight": {
+            "osm_id": 2294091588,
+            "latitude": 42.01959830048769,
+            "longitude": -87.6796983
+        }
+    },
+    "605": {
+        "The Dime": {
+            "osm_id": 4045036124,
+            "latitude": 41.92328140048043,
+            "longitude": -87.6454858
+        },
+        "Kelsey's": {
+            "osm_id": 4045036123,
+            "latitude": 41.92332310048043,
+            "longitude": -87.64556869999998
+        }
+    },
+    "614": {
+        "Atmosphere": {
+            "osm_id": 9219709804,
+            "latitude": 41.979660100484715,
+            "longitude": -87.6681133
+        },
+        "Replay - Andersonville": {
+            "osm_id": 6321694983,
+            "latitude": 41.97967670048473,
+            "longitude": -87.66849309999999
+        }
+    },
+    "636": {
+        "The Scout Waterhouse + Kitchen": {
+            "osm_id": 6301970384,
+            "latitude": 41.865651600475886,
+            "longitude": -87.6254846
+        },
+        "The Scout": {
+            "osm_id": 4298062192,
+            "latitude": 41.86561660047588,
+            "longitude": -87.62549379999999
+        }
+    },
+    "648": {
+        "Hydrate": {
+            "osm_id": 949094860,
+            "latitude": 41.945331200482116,
+            "longitude": -87.64958819999998
+        },
+        "Elixir Lounge": {
+            "osm_id": 6286532079,
+            "latitude": 41.94520650048211,
+            "longitude": -87.64962649999998
+        }
+    },
+    "657": {
+        "Hickory Point Bank": {
+            "osm_id": 5280007621,
+            "latitude": 40.08884330027929,
+            "longitude": -88.2549951
+        },
+        "Cheeser Financial": {
+            "osm_id": 5279999816,
+            "latitude": 40.0889274002793,
+            "longitude": -88.2549307
+        }
+    },
+    "661": {
+        "Bottles": {
+            "osm_id": 5256650245,
+            "latitude": 41.675811300459955,
+            "longitude": -87.997798
+        },
+        "Pollyanna Brewing Company": {
+            "osm_id": 5070513014,
+            "latitude": 41.67597740045995,
+            "longitude": -87.9978837
+        }
+    },
+    "665": {
+        "Chase": {
+            "osm_id": 11159638317,
+            "latitude": 41.91062350047943,
+            "longitude": -87.6773072
+        },
+        "Bank of America": {
+            "osm_id": 3575362996,
+            "latitude": 41.910366800479416,
+            "longitude": -87.67716749999998
+        }
+    },
+    "667": {
+        "Hop H\u00e4us": {
+            "osm_id": 2262383294,
+            "latitude": 41.893768000478104,
+            "longitude": -87.6358741
+        },
+        "Concrete Cowboy": {
+            "osm_id": 6283372731,
+            "latitude": 41.89382900047811,
+            "longitude": -87.6358115
+        }
+    },
+    "682": {
+        "Sound-Bar": {
+            "osm_id": 5457978313,
+            "latitude": 41.893406000478095,
+            "longitude": -87.6354147
+        },
+        "Shay Chicago": {
+            "osm_id": 5457975512,
+            "latitude": 41.893377800478085,
+            "longitude": -87.6350947
+        },
+        "Electric Hotel": {
+            "osm_id": 6286203667,
+            "latitude": 41.893443000478086,
+            "longitude": -87.6350756
+        }
+    },
+    "683": {
+        "The Harding Tavern": {
+            "osm_id": 3268302073,
+            "latitude": 41.930770800481,
+            "longitude": -87.7104473
+        },
+        "The Walk In Chicago": {
+            "osm_id": 5759671055,
+            "latitude": 41.93091540048101,
+            "longitude": -87.71017769999999
+        }
+    },
+    "696": {
+        "Leamen's Bar & Grill": {
+            "osm_id": 6646532532,
+            "latitude": 41.45478580043958,
+            "longitude": -90.1560191
+        },
+        "Raelyn's Pub & Eatery": {
+            "osm_id": 6646532396,
+            "latitude": 41.45496830043959,
+            "longitude": -90.1560689
+        }
+    },
+    "707": {
+        "Lark": {
+            "osm_id": 5693977770,
+            "latitude": 41.944889000482085,
+            "longitude": -87.64925089999998
+        },
+        "Replay": {
+            "osm_id": 5693977769,
+            "latitude": 41.94476760048208,
+            "longitude": -87.6492558
+        }
+    },
+    "710": {
+        "Uptown Arcade": {
+            "osm_id": 6315657963,
+            "latitude": 41.970059800484,
+            "longitude": -87.6601561
+        },
+        "Fat Cat": {
+            "osm_id": 2458242043,
+            "latitude": 41.970095600484,
+            "longitude": -87.65995789999998
+        }
+    },
+    "715": {
+        "Chicago News Room": {
+            "osm_id": 2670170030,
+            "latitude": 41.88238650047722,
+            "longitude": -87.6406478
+        },
+        "Madison Tavern": {
+            "osm_id": 6321371838,
+            "latitude": 41.88230990047722,
+            "longitude": -87.6404179
+        },
+        "Rail Club": {
+            "osm_id": 6300567230,
+            "latitude": 41.882369500477225,
+            "longitude": -87.64036479999999
+        }
+    },
+    "721": {
+        "Watershed": {
+            "osm_id": 5458159195,
+            "latitude": 41.892624900478026,
+            "longitude": -87.6278913
+        },
+        "Pops For Champagne": {
+            "osm_id": 1668871728,
+            "latitude": 41.892586000478026,
+            "longitude": -87.6279351
+        }
+    },
+    "726": {
+        "The Drinkingbird": {
+            "osm_id": 3617756790,
+            "latitude": 41.92175800048031,
+            "longitude": -87.6643563
+        },
+        "Whale Tale": {
+            "osm_id": 6316843887,
+            "latitude": 41.92202530048033,
+            "longitude": -87.6645086
+        }
+    },
+    "738": {
+        "Beatnik": {
+            "osm_id": 5460871124,
+            "latitude": 41.89633940047832,
+            "longitude": -87.66770649999998
+        },
+        "Loop Tavern": {
+            "osm_id": 6320612929,
+            "latitude": 41.89628150047832,
+            "longitude": -87.66782159999998
+        }
+    },
+    "747": {
+        "After the Fox": {
+            "osm_id": 4839869597,
+            "latitude": 42.3461412005092,
+            "longitude": -88.26157309999999
+        },
+        "Corkscrew Pointe": {
+            "osm_id": 4512764772,
+            "latitude": 42.34591450050919,
+            "longitude": -88.2616845
+        }
+    },
+    "769": {
+        "THE BAR": {
+            "osm_id": 6305240475,
+            "latitude": 41.886180500477515,
+            "longitude": -87.6210463
+        },
+        "Columbus Tap": {
+            "osm_id": 5825114811,
+            "latitude": 41.88613410047751,
+            "longitude": -87.62091219999999
+        }
+    },
+    "791": {
+        "Christmas Club": {
+            "osm_id": 6282573940,
+            "latitude": 41.94501340048209,
+            "longitude": -87.6551173
+        },
+        "The Sandlot Wrigley": {
+            "osm_id": 5364425027,
+            "latitude": 41.945385400482124,
+            "longitude": -87.65486189999999
+        },
+        "Lucky's Sandwich Co": {
+            "osm_id": 5364425029,
+            "latitude": 41.94514200048209,
+            "longitude": -87.65504430000001
+        }
+    },
+    "792": {
+        "Stella's Tap": {
+            "osm_id": 3575025690,
+            "latitude": 41.8986011004785,
+            "longitude": -87.68669889999998
+        },
+        "Stella\u2019s Sports Bar": {
+            "osm_id": 6301725940,
+            "latitude": 41.8986252004785,
+            "longitude": -87.6866105
+        }
+    },
+    "795": {
+        "The Ravenswood Tavern": {
+            "osm_id": 6300182145,
+            "latitude": 41.96135750048335,
+            "longitude": -87.6755899
+        },
+        "Wolcott Tap": {
+            "osm_id": 6316968107,
+            "latitude": 41.96164010048336,
+            "longitude": -87.6758223
+        }
+    },
+    "798": {
+        "Abe's Hideout & Saloon": {
+            "osm_id": 6384294602,
+            "latitude": 39.80951160024121,
+            "longitude": -89.39800569999998
+        },
+        "Jelleybean Bar & Gaming": {
+            "osm_id": 6384294603,
+            "latitude": 39.80953410024121,
+            "longitude": -89.39824289999999
+        }
+    },
+    "806": {
+        "The Ravenswood Tavern": {
+            "osm_id": 6300182145,
+            "latitude": 41.96135750048335,
+            "longitude": -87.6755899
+        },
+        "Wolcott Tap": {
+            "osm_id": 6316968107,
+            "latitude": 41.96164010048336,
+            "longitude": -87.6758223
+        }
+    },
+    "808": {
+        "D.S. Tequila Company": {
+            "osm_id": 6975177633,
+            "latitude": 41.943349800481975,
+            "longitude": -87.6495032
+        },
+        "Roscoe's Tavern & Cafe": {
+            "osm_id": 949099772,
+            "latitude": 41.94350550048198,
+            "longitude": -87.64950929999999
+        },
+        "Progress Bar Chicago": {
+            "osm_id": 949100448,
+            "latitude": 41.94352270048199,
+            "longitude": -87.64924489999999
+        }
+    },
+    "810": {
+        "BankFinancial": {
+            "osm_id": 9843870618,
+            "latitude": 41.79355690047,
+            "longitude": -88.01048909999999
+        },
+        "Citibank": {
+            "osm_id": 9843863409,
+            "latitude": 41.79383250047003,
+            "longitude": -88.0104756
+        }
+    },
+    "812": {
+        "The Rambler Kitchen & Tap": {
+            "osm_id": 9354635418,
+            "latitude": 41.956748400483,
+            "longitude": -87.6807835
+        },
+        "ROCKS Northcenter": {
+            "osm_id": 9354635417,
+            "latitude": 41.956992900483016,
+            "longitude": -87.68098539999998
+        }
+    },
+    "817": {
+        "Bridges Lobby Grill at London House": {
+            "osm_id": 6269085723,
+            "latitude": 41.88803270047766,
+            "longitude": -87.62506739999999
+        },
+        "LH Rooftop": {
+            "osm_id": 4472140007,
+            "latitude": 41.88792110047766,
+            "longitude": -87.62525119999998
+        }
+    },
+    "851": {
+        "Gilt Bar": {
+            "osm_id": 5457750245,
+            "latitude": 41.889374500477764,
+            "longitude": -87.6352681
+        },
+        "The Library": {
+            "osm_id": 5458153875,
+            "latitude": 41.889316600477756,
+            "longitude": -87.63526719999999
+        }
+    },
+    "857": {
+        "First State Bank": {
+            "osm_id": 6680644631,
+            "latitude": 40.48472680033077,
+            "longitude": -88.94399549999999
+        },
+        "Mortgage Services III": {
+            "osm_id": 6680644630,
+            "latitude": 40.48461260033076,
+            "longitude": -88.9440492
+        }
+    },
+    "903": {
+        "Estereo FM": {
+            "osm_id": 11168677746,
+            "latitude": 41.886568500477544,
+            "longitude": -87.65232659999998
+        },
+        "The Aviary": {
+            "osm_id": 3575173112,
+            "latitude": 41.88651010047754,
+            "longitude": -87.6519209
+        }
+    },
+    "904": {
+        "Art of Imagination": {
+            "osm_id": 9850357044,
+            "latitude": 41.857203400475214,
+            "longitude": -87.6464658
+        },
+        "Strewn": {
+            "osm_id": 9850272301,
+            "latitude": 41.85728130047521,
+            "longitude": -87.64646099999999
+        }
+    },
+    "922": {
+        "BMO": {
+            "osm_id": 2322347708,
+            "latitude": 41.97708700048454,
+            "longitude": -87.89815649999998
+        },
+        "Bank of America": {
+            "osm_id": 2322347713,
+            "latitude": 41.97714040048454,
+            "longitude": -87.8981343
+        }
+    },
+    "930": {
+        "The Baton Show Lounge": {
+            "osm_id": 5457219841,
+            "latitude": 41.89025760047784,
+            "longitude": -87.63140209999999
+        },
+        "Enolo Wine Cafe": {
+            "osm_id": 5458084386,
+            "latitude": 41.89051240047787,
+            "longitude": -87.63128799999998
+        }
+    },
+    "933": {
+        "Chase": {
+            "osm_id": 2481240211,
+            "latitude": 41.88080340047709,
+            "longitude": -87.6350704
+        },
+        "First Northern Credit Union": {
+            "osm_id": 7030182226,
+            "latitude": 41.88108420047712,
+            "longitude": -87.6349059
+        }
+    },
+    "954": {
+        "Sparrow": {
+            "osm_id": 6300287486,
+            "latitude": 41.90337230047888,
+            "longitude": -87.62906169999998
+        },
+        "The Hangge-Uppe": {
+            "osm_id": 6315254173,
+            "latitude": 41.90332790047888,
+            "longitude": -87.6292502
+        }
+    },
+    "955": {
+        "Wrigley Rooftops": {
+            "osm_id": 9657690140,
+            "latitude": 41.9477833004823,
+            "longitude": -87.65393520000002
+        },
+        "The Dugout Bar": {
+            "osm_id": 6322972542,
+            "latitude": 41.94744940048229,
+            "longitude": -87.65393669999999
+        }
+    },
+    "961": {
+        "Wrigley Rooftops": {
+            "osm_id": 9657626208,
+            "latitude": 41.94786830048231,
+            "longitude": -87.6539966
+        },
+        "The Dugout Bar": {
+            "osm_id": 6322972542,
+            "latitude": 41.94744940048229,
+            "longitude": -87.65393669999999
+        }
+    },
+    "974": {
+        "The Wild Goose Bar & Grill": {
+            "osm_id": 6304278992,
+            "latitude": 41.95942350048319,
+            "longitude": -87.6822595
+        },
+        "Gannon\u2019s Pub": {
+            "osm_id": 1557244581,
+            "latitude": 41.9594660004832,
+            "longitude": -87.6826489
+        }
+    },
+    "975": {
+        "Z Bar": {
+            "osm_id": 6317106382,
+            "latitude": 41.89599480047828,
+            "longitude": -87.6251129
+        },
+        "The Lobby": {
+            "osm_id": 6315656599,
+            "latitude": 41.89602530047828,
+            "longitude": -87.62511599999999
+        }
+    },
+    "984": {
+        "The Scout Waterhouse + Kitchen": {
+            "osm_id": 6301970384,
+            "latitude": 41.865651600475886,
+            "longitude": -87.6254846
+        },
+        "The Scout": {
+            "osm_id": 4298062192,
+            "latitude": 41.86561660047588,
+            "longitude": -87.62549379999999
+        }
+    },
+    "997": {
+        "80 Proof": {
+            "osm_id": 6256290024,
+            "latitude": 41.90930000047934,
+            "longitude": -87.6348661
+        },
+        "SUITE Lounge": {
+            "osm_id": 6261025487,
+            "latitude": 41.90901210047931,
+            "longitude": -87.63491999999998
+        }
+    },
+    "1023": {
+        "Smart Bar": {
+            "osm_id": 6298884587,
+            "latitude": 41.94983540048246,
+            "longitude": -87.65890839999999
+        },
+        "The Ginger Man Tavern": {
+            "osm_id": 370884874,
+            "latitude": 41.9501029004825,
+            "longitude": -87.6590892
+        }
+    },
+    "1047": {
+        "Emporium - Logan Square": {
+            "osm_id": 6286662313,
+            "latitude": 41.924272800480495,
+            "longitude": -87.6990832
+        },
+        "Slippery Slope": {
+            "osm_id": 6298848604,
+            "latitude": 41.92421370048049,
+            "longitude": -87.6989691
+        },
+        "The Heavy Feather": {
+            "osm_id": 3819197957,
+            "latitude": 41.9242490004805,
+            "longitude": -87.69888849999998
+        }
+    },
+    "1060": {
+        "Henry's": {
+            "osm_id": 5443134580,
+            "latitude": 41.89025760047784,
+            "longitude": -87.6286217
+        },
+        "The Rec Room": {
+            "osm_id": 5458130326,
+            "latitude": 41.890238700477845,
+            "longitude": -87.62848639999999
+        }
+    },
+    "1066": {
+        "Project Dance Company": {
+            "osm_id": 5379378977,
+            "latitude": 40.459160500327556,
+            "longitude": -90.67006449999998
+        },
+        "West Central Illinois Arts Center": {
+            "osm_id": 5379378975,
+            "latitude": 40.45909160032753,
+            "longitude": -90.67005709999998
+        }
+    },
+    "1087": {
+        "Big Mini Putt Club": {
+            "osm_id": 11232689033,
+            "latitude": 41.94891350048241,
+            "longitude": -87.649384
+        },
+        "Circuit": {
+            "osm_id": 949092165,
+            "latitude": 41.94864480048238,
+            "longitude": -87.64938309999998
+        }
+    },
+    "1089": {
+        "Bank of America": {
+            "osm_id": 2322413204,
+            "latitude": 41.97616920048446,
+            "longitude": -87.90159509999998
+        },
+        "BMO": {
+            "osm_id": 2322413171,
+            "latitude": 41.97614800048446,
+            "longitude": -87.90163929999999
+        }
+    },
+    "1091": {
+        "Farmers and Merchants Bank": {
+            "osm_id": 4627653471,
+            "latitude": 38.34357700003089,
+            "longitude": -89.38259189999998
+        },
+        "Regions Bank": {
+            "osm_id": 4627653470,
+            "latitude": 38.34332670003084,
+            "longitude": -89.3828387
+        }
+    },
+    "1094": {
+        "Tobacco Road Tap Room": {
+            "osm_id": 6305147152,
+            "latitude": 41.9230946004804,
+            "longitude": -87.64512229999998
+        },
+        "The Dime": {
+            "osm_id": 4045036124,
+            "latitude": 41.92328140048043,
+            "longitude": -87.6454858
+        },
+        "Kelsey's": {
+            "osm_id": 4045036123,
+            "latitude": 41.92332310048043,
+            "longitude": -87.64556869999998
+        }
+    },
+    "1115": {
+        "Sound-Bar": {
+            "osm_id": 5457978313,
+            "latitude": 41.893406000478095,
+            "longitude": -87.6354147
+        },
+        "Shay Chicago": {
+            "osm_id": 5457975512,
+            "latitude": 41.893377800478085,
+            "longitude": -87.6350947
+        },
+        "Electric Hotel": {
+            "osm_id": 6286203667,
+            "latitude": 41.893443000478086,
+            "longitude": -87.6350756
+        }
+    },
+    "1139": {
+        "Sluggers World Class Sports Bar": {
+            "osm_id": 6300768348,
+            "latitude": 41.94656960048222,
+            "longitude": -87.65633479999998
+        },
+        "Vines on Clark": {
+            "osm_id": 5252276978,
+            "latitude": 41.94683830048224,
+            "longitude": -87.65641989999999
+        }
+    },
+    "1155": {
+        "Charlie's Chicago": {
+            "osm_id": 949089361,
+            "latitude": 41.94992950048247,
+            "longitude": -87.6490719
+        },
+        "North End": {
+            "osm_id": 1239986384,
+            "latitude": 41.950115200482486,
+            "longitude": -87.649398
+        },
+        "Bobby Love's": {
+            "osm_id": 1239986677,
+            "latitude": 41.94997950048247,
+            "longitude": -87.6494034
+        }
+    },
+    "1157": {
+        "Ballast Point Brewing": {
+            "osm_id": 6026364085,
+            "latitude": 41.886121400477506,
+            "longitude": -87.64884109999998
+        },
+        "Lazy Bird": {
+            "osm_id": 6407444258,
+            "latitude": 41.885878200477485,
+            "longitude": -87.64886780000002
+        }
+    },
+    "1168": {
+        "Chase": {
+            "osm_id": 1052833389,
+            "latitude": 42.01257060048717,
+            "longitude": -87.7668604
+        },
+        "First Financial Credit Union": {
+            "osm_id": 10112347036,
+            "latitude": 42.012571400487175,
+            "longitude": -87.7672335
+        }
+    },
+    "1173": {
+        "Hawg Dogs": {
+            "osm_id": 9650599958,
+            "latitude": 42.09422260049303,
+            "longitude": -90.15641019999998
+        },
+        "Rhythm Room of Hawg Dogs": {
+            "osm_id": 9650599664,
+            "latitude": 42.094074400493035,
+            "longitude": -90.1561956
+        }
+    },
+    "1179": {
+        "The Matchbox": {
+            "osm_id": 6315665345,
+            "latitude": 41.89571120047827,
+            "longitude": -87.65484909999999
+        },
+        "Tiki Tiki at the Silver Palm": {
+            "osm_id": 9167628971,
+            "latitude": 41.89566820047826,
+            "longitude": -87.65480899999999
+        }
+    },
+    "1210": {
+        "720 South Bar & Grill": {
+            "osm_id": 6256247554,
+            "latitude": 41.87257220047644,
+            "longitude": -87.62452719999999
+        },
+        "Kitty O\u2019Shea\u2019s": {
+            "osm_id": 6319681793,
+            "latitude": 41.87245790047642,
+            "longitude": -87.6245345
+        }
+    },
+    "1237": {
+        "Tobacco Road Tap Room": {
+            "osm_id": 6305147152,
+            "latitude": 41.9230946004804,
+            "longitude": -87.64512229999998
+        },
+        "The Dime": {
+            "osm_id": 4045036124,
+            "latitude": 41.92328140048043,
+            "longitude": -87.6454858
+        }
+    },
+    "1251": {
+        "Whiskey Jack's": {
+            "osm_id": 7248679562,
+            "latitude": 39.7993203002398,
+            "longitude": -89.64955049999999
+        },
+        "Bar None": {
+            "osm_id": 4003591688,
+            "latitude": 39.79964000023984,
+            "longitude": -89.6496593
+        }
+    },
+    "1261": {
+        "Bitcoin ATM": {
+            "osm_id": 9874929415,
+            "latitude": 40.10995450028211,
+            "longitude": -88.2393639
+        },
+        "Allpoint": {
+            "osm_id": 9874929416,
+            "latitude": 40.109955000282106,
+            "longitude": -88.239339
+        }
+    },
+    "1262": {
+        "Project Dance Company": {
+            "osm_id": 5379378977,
+            "latitude": 40.459160500327556,
+            "longitude": -90.67006449999998
+        },
+        "West Central Illinois Arts Center": {
+            "osm_id": 5379378975,
+            "latitude": 40.45909160032753,
+            "longitude": -90.67005709999998
+        }
+    },
+    "1271": {
+        "Rossi\u2019s Liquors": {
+            "osm_id": 5443100457,
+            "latitude": 41.889778400477795,
+            "longitude": -87.6281827
+        },
+        "Theory": {
+            "osm_id": 5443138701,
+            "latitude": 41.889914100477824,
+            "longitude": -87.62851929999998
+        },
+        "Jojo's Milk Bar": {
+            "osm_id": 6397116085,
+            "latitude": 41.88990910047781,
+            "longitude": -87.62895569999999
+        },
+        "The Rec Room": {
+            "osm_id": 5458130326,
+            "latitude": 41.890238700477845,
+            "longitude": -87.62848639999999
+        }
+    },
+    "1288": {
+        "Theory": {
+            "osm_id": 5443138701,
+            "latitude": 41.889914100477824,
+            "longitude": -87.62851929999998
+        },
+        "Henry's": {
+            "osm_id": 5443134580,
+            "latitude": 41.89025760047784,
+            "longitude": -87.6286217
+        },
+        "The Rec Room": {
+            "osm_id": 5458130326,
+            "latitude": 41.890238700477845,
+            "longitude": -87.62848639999999
+        }
+    },
+    "1298": {
+        "The Sandlot Wrigley": {
+            "osm_id": 5364425027,
+            "latitude": 41.945385400482124,
+            "longitude": -87.65486189999999
+        },
+        "Tinker to Evers, Wrigleyville": {
+            "osm_id": 6304575246,
+            "latitude": 41.94550070048213,
+            "longitude": -87.6547969
+        },
+        "Nola pub": {
+            "osm_id": 6323168600,
+            "latitude": 41.94572610048215,
+            "longitude": -87.655028
+        }
+    },
+    "1307": {
+        "BMO": {
+            "osm_id": 2322347708,
+            "latitude": 41.97708700048454,
+            "longitude": -87.89815649999998
+        },
+        "Bank of America": {
+            "osm_id": 2322347713,
+            "latitude": 41.97714040048454,
+            "longitude": -87.8981343
+        }
+    },
+    "1326": {
+        "Lark": {
+            "osm_id": 5693977770,
+            "latitude": 41.944889000482085,
+            "longitude": -87.64925089999998
+        },
+        "Replay": {
+            "osm_id": 5693977769,
+            "latitude": 41.94476760048208,
+            "longitude": -87.6492558
+        }
+    },
+    "1338": {
+        "Wrigley Rooftops": {
+            "osm_id": 9657626208,
+            "latitude": 41.94786830048231,
+            "longitude": -87.6539966
+        },
+        "The Dugout Bar": {
+            "osm_id": 6322972542,
+            "latitude": 41.94744940048229,
+            "longitude": -87.65393669999999
+        }
+    },
+    "1348": {
+        "The Gin Mill": {
+            "osm_id": 4003591789,
+            "latitude": 39.799748900239855,
+            "longitude": -89.6496472
+        },
+        "Bar None": {
+            "osm_id": 4003591688,
+            "latitude": 39.79964000023984,
+            "longitude": -89.6496593
+        }
+    },
+    "1361": {
+        "Atmosphere": {
+            "osm_id": 9219709804,
+            "latitude": 41.979660100484715,
+            "longitude": -87.6681133
+        },
+        "Replay - Andersonville": {
+            "osm_id": 6321694983,
+            "latitude": 41.97967670048473,
+            "longitude": -87.66849309999999
+        },
+        "Marty\u2019s Martini Bar": {
+            "osm_id": 6321566926,
+            "latitude": 41.979701600484724,
+            "longitude": -87.66873910000001
+        }
+    },
+    "1380": {
+        "Art of Imagination": {
+            "osm_id": 9850357044,
+            "latitude": 41.857203400475214,
+            "longitude": -87.6464658
+        },
+        "Strewn": {
+            "osm_id": 9850272301,
+            "latitude": 41.85728130047521,
+            "longitude": -87.64646099999999
+        }
+    },
+    "1385": {
+        "Charlie's Chicago": {
+            "osm_id": 949089361,
+            "latitude": 41.94992950048247,
+            "longitude": -87.6490719
+        },
+        "North End": {
+            "osm_id": 1239986384,
+            "latitude": 41.950115200482486,
+            "longitude": -87.649398
+        },
+        "Bobby Love's": {
+            "osm_id": 1239986677,
+            "latitude": 41.94997950048247,
+            "longitude": -87.6494034
+        }
+    },
+    "1394": {
+        "Deadbolt Bar": {
+            "osm_id": 4940842327,
+            "latitude": 41.92509940048056,
+            "longitude": -87.70125989999998
+        },
+        "The Whistler": {
+            "osm_id": 2761642364,
+            "latitude": 41.92534840048058,
+            "longitude": -87.70104779999998
+        },
+        "Welcome Back Lounge": {
+            "osm_id": 11289374798,
+            "latitude": 41.9253857004806,
+            "longitude": -87.70114289999998
+        }
+    },
+    "1414": {
+        "Uptown Arcade": {
+            "osm_id": 6315657963,
+            "latitude": 41.970059800484,
+            "longitude": -87.6601561
+        },
+        "Fat Cat": {
+            "osm_id": 2458242043,
+            "latitude": 41.970095600484,
+            "longitude": -87.65995789999998
+        }
+    },
+    "1452": {
+        "Black Eagle Club": {
+            "osm_id": 9354635432,
+            "latitude": 41.954490700482815,
+            "longitude": -87.6779614
+        },
+        "The Globe Pub": {
+            "osm_id": 5460917346,
+            "latitude": 41.954442400482804,
+            "longitude": -87.6777722
+        }
+    },
+    "1468": {
+        "Collective Pour": {
+            "osm_id": 6828701497,
+            "latitude": 40.119084700283324,
+            "longitude": -88.24295659999999
+        },
+        "Soma UltraLounge": {
+            "osm_id": 1574812820,
+            "latitude": 40.1188788002833,
+            "longitude": -88.2430241
+        }
+    },
+    "1483": {
+        "Whiskey River Saloon": {
+            "osm_id": 7188971498,
+            "latitude": 42.09595210049316,
+            "longitude": -90.1573178
+        },
+        "Green's Tap": {
+            "osm_id": 9896796491,
+            "latitude": 42.09595020049316,
+            "longitude": -90.1569335
+        }
+    },
+    "1499": {
+        "Chalamo": {
+            "osm_id": 6219040400,
+            "latitude": 39.67696900022275,
+            "longitude": -89.70405429999998
+        },
+        "The Range Bourbon & Brew": {
+            "osm_id": 11253529361,
+            "latitude": 39.676976900222755,
+            "longitude": -89.70381589999998
+        }
+    },
+    "1501": {
+        "Charlie's Chicago": {
+            "osm_id": 949089361,
+            "latitude": 41.94992950048247,
+            "longitude": -87.6490719
+        },
+        "North End": {
+            "osm_id": 1239986384,
+            "latitude": 41.950115200482486,
+            "longitude": -87.649398
+        },
+        "Bobby Love's": {
+            "osm_id": 1239986677,
+            "latitude": 41.94997950048247,
+            "longitude": -87.6494034
+        }
+    },
+    "1504": {
+        "Black Eagle Club": {
+            "osm_id": 9354635432,
+            "latitude": 41.954490700482815,
+            "longitude": -87.6779614
+        },
+        "The Globe Pub": {
+            "osm_id": 5460917346,
+            "latitude": 41.954442400482804,
+            "longitude": -87.6777722
+        }
+    },
+    "1511": {
+        "Wang\u2019s": {
+            "osm_id": 6316678035,
+            "latitude": 41.9425564004819,
+            "longitude": -87.6443063
+        },
+        "The Closet": {
+            "osm_id": 4704620392,
+            "latitude": 41.9425068004819,
+            "longitude": -87.6442948
+        }
+    },
+    "1513": {
+        "Bitcoin ATM": {
+            "osm_id": 9874929415,
+            "latitude": 40.10995450028211,
+            "longitude": -88.2393639
+        },
+        "Allpoint": {
+            "osm_id": 9874929416,
+            "latitude": 40.109955000282106,
+            "longitude": -88.239339
+        }
+    },
+    "1519": {
+        "THE BAR": {
+            "osm_id": 6305240475,
+            "latitude": 41.886180500477515,
+            "longitude": -87.6210463
+        },
+        "Columbus Tap": {
+            "osm_id": 5825114811,
+            "latitude": 41.88613410047751,
+            "longitude": -87.62091219999999
+        }
+    },
+    "1523": {
+        "The Boss Bar": {
+            "osm_id": 5458048963,
+            "latitude": 41.88990020047782,
+            "longitude": -87.63135969999999
+        },
+        "Celeste": {
+            "osm_id": 5457612806,
+            "latitude": 41.8898493004778,
+            "longitude": -87.63162799999999
+        }
+    },
+    "1541": {
+        "Movie Mondays at the Drake\u2019s Palm Court": {
+            "osm_id": 6322991225,
+            "latitude": 41.90043210047865,
+            "longitude": -87.6234171
+        },
+        "Palm Court": {
+            "osm_id": 6326487082,
+            "latitude": 41.90039210047863,
+            "longitude": -87.62345549999999
+        }
+    },
+    "1555": {
+        "BMO": {
+            "osm_id": 5061120038,
+            "latitude": 41.78802400046954,
+            "longitude": -87.7421239
+        },
+        "Bank of America": {
+            "osm_id": 5061120036,
+            "latitude": 41.78802520046955,
+            "longitude": -87.7421828
+        }
+    },
+    "1565": {
+        "Pacific Global Bank": {
+            "osm_id": 6723254318,
+            "latitude": 41.85022750047466,
+            "longitude": -87.6318334
+        },
+        "South Central Bank": {
+            "osm_id": 6654380714,
+            "latitude": 41.84999530047462,
+            "longitude": -87.6318184
+        }
+    },
+    "1570": {
+        "Central Park Bar": {
+            "osm_id": 3627809229,
+            "latitude": 41.934529600481284,
+            "longitude": -87.71742279999998
+        },
+        "Podlasie Club": {
+            "osm_id": 3627809230,
+            "latitude": 41.93435000048126,
+            "longitude": -87.71741479999999
+        }
+    },
+    "1582": {
+        "After the Fox": {
+            "osm_id": 4839869597,
+            "latitude": 42.3461412005092,
+            "longitude": -88.26157309999999
+        },
+        "Corkscrew Pointe": {
+            "osm_id": 4512764772,
+            "latitude": 42.34591450050919,
+            "longitude": -88.2616845
+        },
+        "Old Bridge Tavern": {
+            "osm_id": 4512764773,
+            "latitude": 42.34564290050918,
+            "longitude": -88.2618696
+        }
+    },
+    "1587": {
+        "Bank of America": {
+            "osm_id": 2578986748,
+            "latitude": 41.89260310047802,
+            "longitude": -87.6294874
+        },
+        "Chase": {
+            "osm_id": 2578986750,
+            "latitude": 41.89257850047802,
+            "longitude": -87.6299223
+        }
+    },
+    "1621": {
+        "Ballast Point Brewing": {
+            "osm_id": 6026364085,
+            "latitude": 41.886121400477506,
+            "longitude": -87.64884109999998
+        },
+        "Lazy Bird": {
+            "osm_id": 6407444258,
+            "latitude": 41.885878200477485,
+            "longitude": -87.64886780000002
+        }
+    },
+    "1623": {
+        "Duffy's": {
+            "osm_id": 1929386476,
+            "latitude": 40.94661650038613,
+            "longitude": -90.3698408
+        },
+        "Olyve's": {
+            "osm_id": 1929386556,
+            "latitude": 40.946702400386144,
+            "longitude": -90.36984829999999
+        }
+    },
+    "1626": {
+        "Acapulco Night Club": {
+            "osm_id": 3882069859,
+            "latitude": 41.92447870048051,
+            "longitude": -87.71344159999998
+        },
+        "The Burlington": {
+            "osm_id": 1700855339,
+            "latitude": 41.9244801004805,
+            "longitude": -87.713164
+        }
+    },
+    "1631": {
+        "Emmit's Irish Pub": {
+            "osm_id": 3575231494,
+            "latitude": 41.89105740047791,
+            "longitude": -87.6471083
+        },
+        "Richard's Bar": {
+            "osm_id": 3575231495,
+            "latitude": 41.89104360047789,
+            "longitude": -87.64700039999998
+        },
+        "Clover": {
+            "osm_id": 6282897113,
+            "latitude": 41.89134820047793,
+            "longitude": -87.64683520000001
+        }
+    },
+    "1634": {
+        "Connect to Chicago": {
+            "osm_id": 11244826026,
+            "latitude": 41.975968500484456,
+            "longitude": -87.90443609999998
+        },
+        "Connect To Chicago": {
+            "osm_id": 10046174311,
+            "latitude": 41.97608290048446,
+            "longitude": -87.90461889999999
+        }
+    },
+    "1636": {
+        "Imperial Oak Brewing": {
+            "osm_id": 9683270947,
+            "latitude": 41.81744780047198,
+            "longitude": -87.85849449999999
+        },
+        "Brixies": {
+            "osm_id": 3338971638,
+            "latitude": 41.817558200471986,
+            "longitude": -87.8585182
+        }
+    },
+    "1645": {
+        "Bank of America": {
+            "osm_id": 2578986748,
+            "latitude": 41.89260310047802,
+            "longitude": -87.6294874
+        },
+        "Chase": {
+            "osm_id": 2578986750,
+            "latitude": 41.89257850047802,
+            "longitude": -87.6299223
+        }
+    },
+    "1646": {
+        "Jerry's Tap Room": {
+            "osm_id": 6439877919,
+            "latitude": 41.32859370042713,
+            "longitude": -89.0921594
+        },
+        "Doc's Bar": {
+            "osm_id": 6439877920,
+            "latitude": 41.32862820042714,
+            "longitude": -89.0917205
+        }
+    },
+    "1666": {
+        "Central Park Bar": {
+            "osm_id": 3627809229,
+            "latitude": 41.934529600481284,
+            "longitude": -87.71742279999998
+        },
+        "Podlasie Club": {
+            "osm_id": 3627809230,
+            "latitude": 41.93435000048126,
+            "longitude": -87.71741479999999
+        }
+    },
+    "1682": {
+        "Hydrate": {
+            "osm_id": 949094860,
+            "latitude": 41.945331200482116,
+            "longitude": -87.64958819999998
+        },
+        "Elixir Lounge": {
+            "osm_id": 6286532079,
+            "latitude": 41.94520650048211,
+            "longitude": -87.64962649999998
+        }
+    },
+    "1692": {
+        "Strawberry Moon": {
+            "osm_id": 9371537672,
+            "latitude": 42.259514400503996,
+            "longitude": -88.1402883
+        },
+        "Village Inn": {
+            "osm_id": 9371537673,
+            "latitude": 42.259568200503985,
+            "longitude": -88.1403703
+        }
+    },
+    "1695": {
+        "Features Bar & Grill": {
+            "osm_id": 5399925268,
+            "latitude": 41.77133950046815,
+            "longitude": -88.14834909999999
+        },
+        "Frankie's Blue Room": {
+            "osm_id": 5399925269,
+            "latitude": 41.77134220046814,
+            "longitude": -88.14844459999999
+        }
+    },
+    "1700": {
+        "Chase": {
+            "osm_id": 1052833389,
+            "latitude": 42.01257060048717,
+            "longitude": -87.7668604
+        },
+        "First Financial Credit Union": {
+            "osm_id": 10112347036,
+            "latitude": 42.012571400487175,
+            "longitude": -87.7672335
+        }
+    },
+    "1719": {
+        "Fifth Third Bank": {
+            "osm_id": 10925526299,
+            "latitude": 41.88183310047716,
+            "longitude": -87.63254249999999
+        },
+        "State Bank of India": {
+            "osm_id": 10925578812,
+            "latitude": 41.88184840047717,
+            "longitude": -87.63216879999999
+        }
+    },
+    "1729": {
+        "Sidetrack": {
+            "osm_id": 6297839310,
+            "latitude": 41.94334000048197,
+            "longitude": -87.6490311
+        },
+        "Progress Bar Chicago": {
+            "osm_id": 949100448,
+            "latitude": 41.94352270048199,
+            "longitude": -87.64924489999999
+        }
+    },
+    "1753": {
+        "Hook and Ladder": {
+            "osm_id": 6294616307,
+            "latitude": 41.923347500480425,
+            "longitude": -87.6460503
+        },
+        "Halligan Bar": {
+            "osm_id": 477087140,
+            "latitude": 41.923390400480436,
+            "longitude": -87.6460993
+        }
+    },
+    "1754": {
+        "Eilert's": {
+            "osm_id": 8174656796,
+            "latitude": 42.302494800506615,
+            "longitude": -89.6403913
+        },
+        "Jumpin Joe's": {
+            "osm_id": 8174656795,
+            "latitude": 42.30249040050662,
+            "longitude": -89.640788
+        }
+    },
+    "1769": {
+        "The Baton Show Lounge": {
+            "osm_id": 5457219841,
+            "latitude": 41.89025760047784,
+            "longitude": -87.63140209999999
+        },
+        "Parlay": {
+            "osm_id": 6299349213,
+            "latitude": 41.89025770047785,
+            "longitude": -87.63180460000001
+        },
+        "Enolo Wine Cafe": {
+            "osm_id": 5458084386,
+            "latitude": 41.89051240047787,
+            "longitude": -87.63128799999998
+        }
+    },
+    "1770": {
+        "Chicago Ballet Center": {
+            "osm_id": 4089091484,
+            "latitude": 41.95462890048283,
+            "longitude": -87.74851159999999
+        },
+        "Inside Out Art Studio": {
+            "osm_id": 4089091483,
+            "latitude": 41.954529200482824,
+            "longitude": -87.7486055
+        }
+    },
+    "1777": {
+        "The Flat Iron": {
+            "osm_id": 6315217965,
+            "latitude": 41.91006890047938,
+            "longitude": -87.67667819999998
+        },
+        "No Bones Beach Club": {
+            "osm_id": 6323181243,
+            "latitude": 41.91037150047943,
+            "longitude": -87.6767531
+        }
+    },
+    "1796": {
+        "Iron Horse Social Club": {
+            "osm_id": 4435202992,
+            "latitude": 42.09374990049301,
+            "longitude": -90.1562953
+        },
+        "Rhythm Room of Hawg Dogs": {
+            "osm_id": 9650599664,
+            "latitude": 42.094074400493035,
+            "longitude": -90.1561956
+        }
+    },
+    "1807": {
+        "Whiskey Jack's": {
+            "osm_id": 7248679562,
+            "latitude": 39.7993203002398,
+            "longitude": -89.64955049999999
+        },
+        "The Gin Mill": {
+            "osm_id": 4003591789,
+            "latitude": 39.799748900239855,
+            "longitude": -89.6496472
+        },
+        "Bar None": {
+            "osm_id": 4003591688,
+            "latitude": 39.79964000023984,
+            "longitude": -89.6496593
+        }
+    },
+    "1822": {
+        "Reggie\u2019s Trainwreck Rooftop Deck": {
+            "osm_id": 6300644757,
+            "latitude": 41.85390710047494,
+            "longitude": -87.6268152
+        },
+        "Reggies Music Joint": {
+            "osm_id": 6301056429,
+            "latitude": 41.85399290047495,
+            "longitude": -87.62678469999999
+        }
+    },
+    "1824": {
+        "Chicago Union Station Metropolitan Lounge": {
+            "osm_id": 6282530019,
+            "latitude": 41.87863140047692,
+            "longitude": -87.6389955
+        },
+        "The Junction": {
+            "osm_id": 6315617879,
+            "latitude": 41.878672100476926,
+            "longitude": -87.63864089999998
+        }
+    },
+    "1827": {
+        "Hook and Ladder": {
+            "osm_id": 6294616307,
+            "latitude": 41.923347500480425,
+            "longitude": -87.6460503
+        },
+        "Halligan Bar": {
+            "osm_id": 477087140,
+            "latitude": 41.923390400480436,
+            "longitude": -87.6460993
+        }
+    },
+    "1832": {
+        "Bridgeview Bank": {
+            "osm_id": 2623046303,
+            "latitude": 41.918050100480016,
+            "longitude": -87.6486596
+        },
+        "North Community Bank": {
+            "osm_id": 2623046302,
+            "latitude": 41.91833850048004,
+            "longitude": -87.6486877
+        }
+    },
+    "1855": {
+        "Beatnik": {
+            "osm_id": 5460871124,
+            "latitude": 41.89633940047832,
+            "longitude": -87.66770649999998
+        },
+        "Loop Tavern": {
+            "osm_id": 6320612929,
+            "latitude": 41.89628150047832,
+            "longitude": -87.66782159999998
+        }
+    },
+    "1872": {
+        "Chicago Union Station Metropolitan Lounge": {
+            "osm_id": 6282530019,
+            "latitude": 41.87863140047692,
+            "longitude": -87.6389955
+        },
+        "The Junction": {
+            "osm_id": 6315617879,
+            "latitude": 41.878672100476926,
+            "longitude": -87.63864089999998
+        }
+    },
+    "1881": {
+        "Movie Mondays at the Drake\u2019s Palm Court": {
+            "osm_id": 6322991225,
+            "latitude": 41.90043210047865,
+            "longitude": -87.6234171
+        },
+        "Palm Court": {
+            "osm_id": 6326487082,
+            "latitude": 41.90039210047863,
+            "longitude": -87.62345549999999
+        }
+    },
+    "1893": {
+        "Apogee": {
+            "osm_id": 5456991665,
+            "latitude": 41.89424980047814,
+            "longitude": -87.6285058
+        },
+        "Leviathan": {
+            "osm_id": 6326472485,
+            "latitude": 41.89434350047815,
+            "longitude": -87.62841199999998
+        }
+    },
+    "1899": {
+        "Bridges Lobby Grill at London House": {
+            "osm_id": 6269085723,
+            "latitude": 41.88803270047766,
+            "longitude": -87.62506739999999
+        },
+        "LH Rooftop": {
+            "osm_id": 4472140007,
+            "latitude": 41.88792110047766,
+            "longitude": -87.62525119999998
+        }
+    },
+    "1921": {
+        "Rucker Cigar Lounge": {
+            "osm_id": 6301099098,
+            "latitude": 41.67784560046011,
+            "longitude": -87.6712981
+        },
+        "Declan\u2019s Irish Pub": {
+            "osm_id": 6284336366,
+            "latitude": 41.67786050046012,
+            "longitude": -87.6713226
+        }
+    },
+    "1926": {
+        "Emporium - Logan Square": {
+            "osm_id": 6286662313,
+            "latitude": 41.924272800480495,
+            "longitude": -87.6990832
+        },
+        "Slippery Slope": {
+            "osm_id": 6298848604,
+            "latitude": 41.92421370048049,
+            "longitude": -87.6989691
+        },
+        "The Heavy Feather": {
+            "osm_id": 3819197957,
+            "latitude": 41.9242490004805,
+            "longitude": -87.69888849999998
+        }
+    },
+    "1973": {
+        "OverTime Sports Bar and Grill": {
+            "osm_id": 6324182961,
+            "latitude": 41.93836000048158,
+            "longitude": -87.7940371
+        },
+        "Cafe Prague": {
+            "osm_id": 6269769547,
+            "latitude": 41.938351100481576,
+            "longitude": -87.7938811
+        }
+    },
+    "1981": {
+        "D.S. Tequila Company": {
+            "osm_id": 6975177633,
+            "latitude": 41.943349800481975,
+            "longitude": -87.6495032
+        },
+        "Roscoe's Tavern & Cafe": {
+            "osm_id": 949099772,
+            "latitude": 41.94350550048198,
+            "longitude": -87.64950929999999
+        },
+        "Progress Bar Chicago": {
+            "osm_id": 949100448,
+            "latitude": 41.94352270048199,
+            "longitude": -87.64924489999999
+        }
+    },
+    "1983": {
+        "Trader Todd's": {
+            "osm_id": 5178274155,
+            "latitude": 41.940454100481745,
+            "longitude": -87.6542735
+        },
+        "Figo Wine Bar": {
+            "osm_id": 6289950585,
+            "latitude": 41.94024340048173,
+            "longitude": -87.65397539999998
+        },
+        "Cheesie's Pub & Grub": {
+            "osm_id": 5161056765,
+            "latitude": 41.94004860048172,
+            "longitude": -87.65378819999998
+        }
+    },
+    "1990": {
+        "Bank of America": {
+            "osm_id": 2322673336,
+            "latitude": 41.97564110048442,
+            "longitude": -87.90316530000001
+        },
+        "BMO": {
+            "osm_id": 2285134861,
+            "latitude": 41.97564260048442,
+            "longitude": -87.90335609999998
+        }
+    },
+    "1991": {
+        "Fudy T\u2019s": {
+            "osm_id": 6291637578,
+            "latitude": 42.008055500486826,
+            "longitude": -87.6665181
+        },
+        "Mission Control Arcade Bar": {
+            "osm_id": 10062117656,
+            "latitude": 42.008034600486845,
+            "longitude": -87.66635859999998
+        }
+    },
+    "1992": {
+        "Sluggers World Class Sports Bar": {
+            "osm_id": 6300768348,
+            "latitude": 41.94656960048222,
+            "longitude": -87.65633479999998
+        },
+        "Vines on Clark": {
+            "osm_id": 5252276978,
+            "latitude": 41.94683830048224,
+            "longitude": -87.65641989999999
+        }
+    },
+    "2005": {
+        "Chicago News Room": {
+            "osm_id": 2670170030,
+            "latitude": 41.88238650047722,
+            "longitude": -87.6406478
+        },
+        "Madison Tavern": {
+            "osm_id": 6321371838,
+            "latitude": 41.88230990047722,
+            "longitude": -87.6404179
+        },
+        "Rail Club": {
+            "osm_id": 6300567230,
+            "latitude": 41.882369500477225,
+            "longitude": -87.64036479999999
+        }
+    },
+    "2013": {
+        "Rucker Cigar Lounge": {
+            "osm_id": 6301099098,
+            "latitude": 41.67784560046011,
+            "longitude": -87.6712981
+        },
+        "Declan\u2019s Irish Pub": {
+            "osm_id": 6284336366,
+            "latitude": 41.67786050046012,
+            "longitude": -87.6713226
+        }
+    },
+    "2047": {
+        "Tinker to Evers, Wrigleyville": {
+            "osm_id": 6304575246,
+            "latitude": 41.94550070048213,
+            "longitude": -87.6547969
+        },
+        "Stretch Bar & Grill": {
+            "osm_id": 6301794398,
+            "latitude": 41.94578530048215,
+            "longitude": -87.6550852
+        },
+        "Nola pub": {
+            "osm_id": 6323168600,
+            "latitude": 41.94572610048215,
+            "longitude": -87.655028
+        }
+    },
+    "2051": {
+        "Collective Pour": {
+            "osm_id": 6828701497,
+            "latitude": 40.119084700283324,
+            "longitude": -88.24295659999999
+        },
+        "Soma UltraLounge": {
+            "osm_id": 1574812820,
+            "latitude": 40.1188788002833,
+            "longitude": -88.2430241
+        }
+    },
+    "2053": {
+        "Bridgeview Bank": {
+            "osm_id": 2623046303,
+            "latitude": 41.918050100480016,
+            "longitude": -87.6486596
+        },
+        "North Community Bank": {
+            "osm_id": 2623046302,
+            "latitude": 41.91833850048004,
+            "longitude": -87.6486877
+        }
+    },
+    "2061": {
+        "The Flat Iron": {
+            "osm_id": 6315217965,
+            "latitude": 41.91006890047938,
+            "longitude": -87.67667819999998
+        },
+        "No Bones Beach Club": {
+            "osm_id": 6323181243,
+            "latitude": 41.91037150047943,
+            "longitude": -87.6767531
+        }
+    },
+    "2063": {
+        "Connect to Chicago": {
+            "osm_id": 11244826026,
+            "latitude": 41.975968500484456,
+            "longitude": -87.90443609999998
+        },
+        "Connect To Chicago": {
+            "osm_id": 10046174311,
+            "latitude": 41.97608290048446,
+            "longitude": -87.90461889999999
+        }
+    },
+    "2064": {
+        "Leamen's Bar & Grill": {
+            "osm_id": 6646532532,
+            "latitude": 41.45478580043958,
+            "longitude": -90.1560191
+        },
+        "Raelyn's Pub & Eatery": {
+            "osm_id": 6646532396,
+            "latitude": 41.45496830043959,
+            "longitude": -90.1560689
+        }
+    },
+    "2103": {
+        "Hop H\u00e4us": {
+            "osm_id": 2262383294,
+            "latitude": 41.893768000478104,
+            "longitude": -87.6358741
+        },
+        "Concrete Cowboy": {
+            "osm_id": 6283372731,
+            "latitude": 41.89382900047811,
+            "longitude": -87.6358115
+        }
+    },
+    "2145": {
+        "Abe's Hideout & Saloon": {
+            "osm_id": 6384294602,
+            "latitude": 39.80951160024121,
+            "longitude": -89.39800569999998
+        },
+        "Jelleybean Bar & Gaming": {
+            "osm_id": 6384294603,
+            "latitude": 39.80953410024121,
+            "longitude": -89.39824289999999
+        }
+    },
+    "2146": {
+        "Milk Room": {
+            "osm_id": 4130928515,
+            "latitude": 41.88175560047715,
+            "longitude": -87.62484149999999
+        },
+        "Game Room": {
+            "osm_id": 6291747686,
+            "latitude": 41.88160180047715,
+            "longitude": -87.6248352
+        },
+        "Drawing Room": {
+            "osm_id": 6284779075,
+            "latitude": 41.88175700047716,
+            "longitude": -87.62476
+        }
+    },
+    "2148": {
+        "Deadbolt Bar": {
+            "osm_id": 4940842327,
+            "latitude": 41.92509940048056,
+            "longitude": -87.70125989999998
+        },
+        "The Whistler": {
+            "osm_id": 2761642364,
+            "latitude": 41.92534840048058,
+            "longitude": -87.70104779999998
+        },
+        "Welcome Back Lounge": {
+            "osm_id": 11289374798,
+            "latitude": 41.9253857004806,
+            "longitude": -87.70114289999998
+        },
+        "The Native": {
+            "osm_id": 6315665351,
+            "latitude": 41.925319000480584,
+            "longitude": -87.70085419999998
+        }
+    },
+    "2150": {
+        "Pacific Global Bank": {
+            "osm_id": 6723254318,
+            "latitude": 41.85022750047466,
+            "longitude": -87.6318334
+        },
+        "South Central Bank": {
+            "osm_id": 6654380714,
+            "latitude": 41.84999530047462,
+            "longitude": -87.6318184
+        }
+    },
+    "2161": {
+        "Major Leagues": {
+            "osm_id": 5371048579,
+            "latitude": 39.5495021002048,
+            "longitude": -89.29383579999998
+        },
+        "Taylorville Tap": {
+            "osm_id": 5371048580,
+            "latitude": 39.54920520020475,
+            "longitude": -89.2939854
+        }
+    },
+    "2171": {
+        "Two Zero Three": {
+            "osm_id": 6307072253,
+            "latitude": 41.885885800477496,
+            "longitude": -87.62609669999999
+        },
+        "Commons Club": {
+            "osm_id": 6283292191,
+            "latitude": 41.885964800477495,
+            "longitude": -87.6259889
+        }
+    },
+    "2176": {
+        "Acapulco Night Club": {
+            "osm_id": 3882069859,
+            "latitude": 41.92447870048051,
+            "longitude": -87.71344159999998
+        },
+        "The Burlington": {
+            "osm_id": 1700855339,
+            "latitude": 41.9244801004805,
+            "longitude": -87.713164
+        }
+    },
+    "2186": {
+        "80 Proof": {
+            "osm_id": 6256290024,
+            "latitude": 41.90930000047934,
+            "longitude": -87.6348661
+        },
+        "SUITE Lounge": {
+            "osm_id": 6261025487,
+            "latitude": 41.90901210047931,
+            "longitude": -87.63491999999998
+        }
+    },
+    "2203": {
+        "Bodega": {
+            "osm_id": 5455708305,
+            "latitude": 41.89229430047799,
+            "longitude": -87.6274944
+        },
+        "The Berkshire Room": {
+            "osm_id": 6305269184,
+            "latitude": 41.892208800477995,
+            "longitude": -87.6274966
+        },
+        "Broken Shaker Chicago": {
+            "osm_id": 5458040762,
+            "latitude": 41.892276400477996,
+            "longitude": -87.62732009999999
+        }
+    },
+    "2222": {
+        "The Arrogant Frog Bar": {
+            "osm_id": 6304066996,
+            "latitude": 41.92511220048057,
+            "longitude": -87.663056
+        },
+        "Faith and Whiskey": {
+            "osm_id": 477087119,
+            "latitude": 41.925133700480565,
+            "longitude": -87.6631281
+        }
+    },
+    "2224": {
+        "The Matchbox": {
+            "osm_id": 6315665345,
+            "latitude": 41.89571120047827,
+            "longitude": -87.65484909999999
+        },
+        "Tiki Tiki at the Silver Palm": {
+            "osm_id": 9167628971,
+            "latitude": 41.89566820047826,
+            "longitude": -87.65480899999999
+        }
+    },
+    "2227": {
+        "Whiskey River Saloon": {
+            "osm_id": 7188971498,
+            "latitude": 42.09595210049316,
+            "longitude": -90.1573178
+        },
+        "Green's Tap": {
+            "osm_id": 9896796491,
+            "latitude": 42.09595020049316,
+            "longitude": -90.1569335
+        }
+    },
+    "2235": {
+        "Trader Todd's": {
+            "osm_id": 5178274155,
+            "latitude": 41.940454100481745,
+            "longitude": -87.6542735
+        },
+        "Figo Wine Bar": {
+            "osm_id": 6289950585,
+            "latitude": 41.94024340048173,
+            "longitude": -87.65397539999998
+        },
+        "Room 13": {
+            "osm_id": 6301025352,
+            "latitude": 41.940651100481766,
+            "longitude": -87.6543865
+        }
+    },
+    "2241": {
+        "Wang\u2019s": {
+            "osm_id": 6316678035,
+            "latitude": 41.9425564004819,
+            "longitude": -87.6443063
+        },
+        "The Closet": {
+            "osm_id": 4704620392,
+            "latitude": 41.9425068004819,
+            "longitude": -87.6442948
+        }
+    },
+    "2249": {
+        "The Rambler Kitchen & Tap": {
+            "osm_id": 9354635418,
+            "latitude": 41.956748400483,
+            "longitude": -87.6807835
+        },
+        "ROCKS Northcenter": {
+            "osm_id": 9354635417,
+            "latitude": 41.956992900483016,
+            "longitude": -87.68098539999998
+        }
+    },
+    "2292": {
+        "Emmit's Irish Pub": {
+            "osm_id": 3575231494,
+            "latitude": 41.89105740047791,
+            "longitude": -87.6471083
+        },
+        "Richard's Bar": {
+            "osm_id": 3575231495,
+            "latitude": 41.89104360047789,
+            "longitude": -87.64700039999998
+        }
+    },
+    "2298": {
+        "KJ's": {
+            "osm_id": 4046278156,
+            "latitude": 41.356911300429964,
+            "longitude": -88.4247653
+        },
+        "Griffins Pint": {
+            "osm_id": 2491758467,
+            "latitude": 41.357162000429994,
+            "longitude": -88.42454029999999
+        }
+    },
+    "2299": {
+        "Byline Bank": {
+            "osm_id": 3575357463,
+            "latitude": 41.9100488004794,
+            "longitude": -87.6772988
+        },
+        "Bank of America": {
+            "osm_id": 3575362996,
+            "latitude": 41.910366800479416,
+            "longitude": -87.67716749999998
+        }
+    },
+    "2336": {
+        "Bodega": {
+            "osm_id": 5455708305,
+            "latitude": 41.89229430047799,
+            "longitude": -87.6274944
+        },
+        "The Berkshire Room": {
+            "osm_id": 6305269184,
+            "latitude": 41.892208800477995,
+            "longitude": -87.6274966
+        },
+        "Broken Shaker Chicago": {
+            "osm_id": 5458040762,
+            "latitude": 41.892276400477996,
+            "longitude": -87.62732009999999
+        }
+    },
+    "2342": {
+        "Strawberry Moon": {
+            "osm_id": 9371537672,
+            "latitude": 42.259514400503996,
+            "longitude": -88.1402883
+        },
+        "Village Inn": {
+            "osm_id": 9371537673,
+            "latitude": 42.259568200503985,
+            "longitude": -88.1403703
+        }
+    },
+    "2351": {
+        "Anvil & Forge Brewing Company": {
+            "osm_id": 6074672798,
+            "latitude": 39.80188340024014,
+            "longitude": -89.64690159999999
+        },
+        "Brewhaus": {
+            "osm_id": 7201297332,
+            "latitude": 39.801886700240146,
+            "longitude": -89.6471132
+        }
+    },
+    "2364": {
+        "Deadbolt Bar": {
+            "osm_id": 4940842327,
+            "latitude": 41.92509940048056,
+            "longitude": -87.70125989999998
+        },
+        "The Whistler": {
+            "osm_id": 2761642364,
+            "latitude": 41.92534840048058,
+            "longitude": -87.70104779999998
+        },
+        "Welcome Back Lounge": {
+            "osm_id": 11289374798,
+            "latitude": 41.9253857004806,
+            "longitude": -87.70114289999998
+        },
+        "The Native": {
+            "osm_id": 6315665351,
+            "latitude": 41.925319000480584,
+            "longitude": -87.70085419999998
+        }
+    },
+    "2394": {
+        "Chicago News Room": {
+            "osm_id": 2670170030,
+            "latitude": 41.88238650047722,
+            "longitude": -87.6406478
+        },
+        "Madison Tavern": {
+            "osm_id": 6321371838,
+            "latitude": 41.88230990047722,
+            "longitude": -87.6404179
+        },
+        "Rail Club": {
+            "osm_id": 6300567230,
+            "latitude": 41.882369500477225,
+            "longitude": -87.64036479999999
+        }
+    },
+    "2396": {
+        "Chase": {
+            "osm_id": 2481240211,
+            "latitude": 41.88080340047709,
+            "longitude": -87.6350704
+        },
+        "First Northern Credit Union": {
+            "osm_id": 7030182226,
+            "latitude": 41.88108420047712,
+            "longitude": -87.6349059
+        }
+    },
+    "2401": {
+        "Nisei Lounge": {
+            "osm_id": 5033308929,
+            "latitude": 41.94470830048207,
+            "longitude": -87.65406620000002
+        },
+        "The Graystone Tavern": {
+            "osm_id": 5364425025,
+            "latitude": 41.944790900482076,
+            "longitude": -87.6540921
+        }
+    },
+    "2416": {
+        "Bottles": {
+            "osm_id": 5256650245,
+            "latitude": 41.675811300459955,
+            "longitude": -87.997798
+        },
+        "Pollyanna Brewing Company": {
+            "osm_id": 5070513014,
+            "latitude": 41.67597740045995,
+            "longitude": -87.9978837
+        }
+    },
+    "2420": {
+        "Corkscrew Pointe": {
+            "osm_id": 4512764772,
+            "latitude": 42.34591450050919,
+            "longitude": -88.2616845
+        },
+        "Old Bridge Tavern": {
+            "osm_id": 4512764773,
+            "latitude": 42.34564290050918,
+            "longitude": -88.2618696
+        }
+    },
+    "2431": {
+        "Trader Todd's": {
+            "osm_id": 5178274155,
+            "latitude": 41.940454100481745,
+            "longitude": -87.6542735
+        },
+        "Room 13": {
+            "osm_id": 6301025352,
+            "latitude": 41.940651100481766,
+            "longitude": -87.6543865
+        }
+    },
+    "2434": {
+        "Hickory Point Bank": {
+            "osm_id": 5280007621,
+            "latitude": 40.08884330027929,
+            "longitude": -88.2549951
+        },
+        "Cheeser Financial": {
+            "osm_id": 5279999816,
+            "latitude": 40.0889274002793,
+            "longitude": -88.2549307
+        }
+    },
+    "2436": {
+        "First State Bank": {
+            "osm_id": 6680644631,
+            "latitude": 40.48472680033077,
+            "longitude": -88.94399549999999
+        },
+        "Mortgage Services III": {
+            "osm_id": 6680644630,
+            "latitude": 40.48461260033076,
+            "longitude": -88.9440492
+        }
+    },
+    "2438": {
+        "Sidetrack": {
+            "osm_id": 6297839310,
+            "latitude": 41.94334000048197,
+            "longitude": -87.6490311
+        },
+        "D.S. Tequila Company": {
+            "osm_id": 6975177633,
+            "latitude": 41.943349800481975,
+            "longitude": -87.6495032
+        },
+        "Roscoe's Tavern & Cafe": {
+            "osm_id": 949099772,
+            "latitude": 41.94350550048198,
+            "longitude": -87.64950929999999
+        },
+        "Progress Bar Chicago": {
+            "osm_id": 949100448,
+            "latitude": 41.94352270048199,
+            "longitude": -87.64924489999999
+        }
+    },
+    "2441": {
+        "Smart Bar": {
+            "osm_id": 6298884587,
+            "latitude": 41.94983540048246,
+            "longitude": -87.65890839999999
+        },
+        "The Ginger Man Tavern": {
+            "osm_id": 370884874,
+            "latitude": 41.9501029004825,
+            "longitude": -87.6590892
+        }
+    },
+    "2453": {
+        "The Wild Goose Bar & Grill": {
+            "osm_id": 6304278992,
+            "latitude": 41.95942350048319,
+            "longitude": -87.6822595
+        },
+        "Gannon\u2019s Pub": {
+            "osm_id": 1557244581,
+            "latitude": 41.9594660004832,
+            "longitude": -87.6826489
+        }
+    },
+    "2469": {
+        "KJ's": {
+            "osm_id": 4046278156,
+            "latitude": 41.356911300429964,
+            "longitude": -88.4247653
+        },
+        "Griffins Pint": {
+            "osm_id": 2491758467,
+            "latitude": 41.357162000429994,
+            "longitude": -88.42454029999999
+        }
+    },
+    "2493": {
+        "The Harding Tavern": {
+            "osm_id": 3268302073,
+            "latitude": 41.930770800481,
+            "longitude": -87.7104473
+        },
+        "The Walk In Chicago": {
+            "osm_id": 5759671055,
+            "latitude": 41.93091540048101,
+            "longitude": -87.71017769999999
+        }
+    },
+    "2497": {
+        "Richard's Bar": {
+            "osm_id": 3575231495,
+            "latitude": 41.89104360047789,
+            "longitude": -87.64700039999998
+        },
+        "Clover": {
+            "osm_id": 6282897113,
+            "latitude": 41.89134820047793,
+            "longitude": -87.64683520000001
+        }
+    }
+}

@@ -1,0 +1,602 @@
+{
+    "1": {
+        "Aurora Toll Plaza": {
+            "osm_id": 701092,
+            "latitude": 5130596.400668063,
+            "longitude": -9830539.016883787
+        },
+        "null": {
+            "osm_id": 8896903056,
+            "latitude": 41.94157340048184,
+            "longitude": -88.31358219999998
+        }
+    },
+    "2": {
+        "River Road Toll Plaza": {
+            "osm_id": 701654,
+            "latitude": 5158777.529979216,
+            "longitude": -9780241.765129592
+        },
+        "Bank of America": {
+            "osm_id": 2322347713,
+            "latitude": 41.97714040048454,
+            "longitude": -87.8981343
+        }
+    },
+    "3": {
+        "Michigan Avenue Bridge Dock": {
+            "osm_id": 20217109,
+            "latitude": 5144388.459410634,
+            "longitude": -9754093.95220106
+        },
+        "Shell": {
+            "osm_id": 9445865003,
+            "latitude": 41.87739370047682,
+            "longitude": -87.6521921
+        }
+    },
+    "4": {
+        "Downers Grove Main Street": {
+            "osm_id": 25779937,
+            "latitude": 5130401.958949327,
+            "longitude": -9797075.899277518
+        },
+        "Elk Grove Cinema": {
+            "osm_id": 492622344,
+            "latitude": 42.000277600486264,
+            "longitude": -88.00436619999999
+        }
+    },
+    "5": {
+        "Downers Grove": {
+            "osm_id": 25779941,
+            "latitude": 5130123.965817336,
+            "longitude": -9797253.776691858
+        },
+        "Riverbend Commons Ferry Terminal": {
+            "osm_id": 1776464097,
+            "latitude": 41.51458670044527,
+            "longitude": -90.4988137
+        }
+    },
+    "6": {
+        "West Gate": {
+            "osm_id": 26272212,
+            "latitude": 5118429.304409765,
+            "longitude": -9795721.363713546
+        },
+        "Huntington Bank": {
+            "osm_id": 9455440619,
+            "latitude": 41.754099800466705,
+            "longitude": -87.97363639999999
+        }
+    },
+    "7": {
+        "North Gate": {
+            "osm_id": 26661411,
+            "latitude": 5118920.863756771,
+            "longitude": -9793699.367614726
+        },
+        "Rockford Career College": {
+            "osm_id": 8378810046,
+            "latitude": 42.25570980050373,
+            "longitude": -89.0276077
+        }
+    },
+    "8": {
+        "Stone Avenue": {
+            "osm_id": 27440201,
+            "latitude": 5133207.72573804,
+            "longitude": -9782525.295240082
+        },
+        "null": {
+            "osm_id": 8918233720,
+            "latitude": 41.97219670048416,
+            "longitude": -88.3425083
+        }
+    },
+    "9": {
+        "Riverside": {
+            "osm_id": 27440204,
+            "latitude": 5135116.200948733,
+            "longitude": -9776200.93440549
+        },
+        "null": {
+            "osm_id": 9681050840,
+            "latitude": 41.50758770044461,
+            "longitude": -90.57992289999999
+        }
+    },
+    "10": {
+        "Berwyn": {
+            "osm_id": 27440206,
+            "latitude": 5136042.971401956,
+            "longitude": -9773125.132347077
+        },
+        "null": {
+            "osm_id": 6390939943,
+            "latitude": 41.88875420047771,
+            "longitude": -87.7950082
+        }
+    },
+    "11": {
+        "Pulaski": {
+            "osm_id": 27607237,
+            "latitude": 5131042.532573075,
+            "longitude": -9765444.243329627
+        },
+        "Violet's Gaming Cafe": {
+            "osm_id": 10962466461,
+            "latitude": 42.072590500491515,
+            "longitude": -87.839179
+        }
+    },
+    "12": {
+        "Midway": {
+            "osm_id": 27607246,
+            "latitude": 5129081.332073547,
+            "longitude": -9766942.53688401
+        },
+        "null": {
+            "osm_id": 10557678338,
+            "latitude": 41.830632200473055,
+            "longitude": -87.6459976
+        }
+    },
+    "13": {
+        "Irving Park Toll Plaza": {
+            "osm_id": 29053390,
+            "latitude": 5155415.114770413,
+            "longitude": -9782386.724737942
+        },
+        "Interfaith Room": {
+            "osm_id": 11463899256,
+            "latitude": 41.973894800484295,
+            "longitude": -87.8861905
+        }
+    },
+    "14": {
+        "York Road Toll Plaza": {
+            "osm_id": 29053611,
+            "latitude": 5138279.189493774,
+            "longitude": -9789556.134091044
+        },
+        "null": {
+            "osm_id": 9750640292,
+            "latitude": 42.26299810050421,
+            "longitude": -88.1438847
+        }
+    },
+    "15": {
+        "Devon Avenue Toll Plaza": {
+            "osm_id": 29856066,
+            "latitude": 5160771.530721569,
+            "longitude": -9782543.117490558
+        },
+        "Schiller Park Fire Department": {
+            "osm_id": 4207766239,
+            "latitude": 41.95492040048285,
+            "longitude": -87.86478189999998
+        }
+    },
+    "16": {
+        "Elgin Toll Plaza": {
+            "osm_id": 29856337,
+            "latitude": 5171504.215084118,
+            "longitude": -9830255.118786417
+        },
+        "null": {
+            "osm_id": 6961339668,
+            "latitude": 42.13027060049553,
+            "longitude": -88.33258639999998
+        }
+    },
+    "17": {
+        "Huntley": {
+            "osm_id": 29857143,
+            "latitude": 5186816.7281185165,
+            "longitude": -9843639.706817538
+        },
+        "null": {
+            "osm_id": 7115926020,
+            "latitude": 42.19527390049988,
+            "longitude": -88.3290565
+        }
+    },
+    "18": {
+        "Woodstock": {
+            "osm_id": 29885166,
+            "latitude": 5208245.132950254,
+            "longitude": -9845922.891837608
+        },
+        "null": {
+            "osm_id": 10820761019,
+            "latitude": 42.30572990050682,
+            "longitude": -88.4400424
+        }
+    },
+    "19": {
+        "Marengo": {
+            "osm_id": 29885301,
+            "latitude": 5198524.515633772,
+            "longitude": -9863811.945140034
+        },
+        "Belvidere Family Practice Rockford Health Physicians": {
+            "osm_id": 3883975350,
+            "latitude": 42.27505060050494,
+            "longitude": -88.8618194
+        }
+    },
+    "20": {
+        "Belvidere": {
+            "osm_id": 29885845,
+            "latitude": 5199705.148140879,
+            "longitude": -9889816.59007146
+        },
+        "Rosati's": {
+            "osm_id": 6779977787,
+            "latitude": 42.239069700502704,
+            "longitude": -88.8203677
+        }
+    },
+    "21": {
+        "Union": {
+            "osm_id": 29885927,
+            "latitude": 5196030.241294015,
+            "longitude": -9856545.765753588
+        },
+        "Lakewood Dental": {
+            "osm_id": 7838399586,
+            "latitude": 42.20373540050042,
+            "longitude": -88.38134739999998
+        }
+    },
+    "22": {
+        "Cherry Valley": {
+            "osm_id": 29899038,
+            "latitude": 5196892.482513557,
+            "longitude": -9902949.785296524
+        },
+        "Sylvan": {
+            "osm_id": 354240735,
+            "latitude": 42.28668640050567,
+            "longitude": -89.028385
+        }
+    },
+    "23": {
+        "Western": {
+            "osm_id": 34877711,
+            "latitude": 5148335.80085922,
+            "longitude": -9761200.076423643
+        },
+        "Church of the Comforter": {
+            "osm_id": 354238297,
+            "latitude": 41.910587900479435,
+            "longitude": -87.6856108
+        }
+    },
+    "24": {
+        "Country Fair South Shelter": {
+            "osm_id": 37962537,
+            "latitude": 4882453.745337961,
+            "longitude": -9827223.755468728
+        },
+        "CityView Banquet and Meeting Center": {
+            "osm_id": 5824569514,
+            "latitude": 40.11596040028291,
+            "longitude": -88.2411146
+        }
+    },
+    "25": {
+        "Rosemont": {
+            "osm_id": 111045292,
+            "latitude": 5158513.625579502,
+            "longitude": -9780386.313488387
+        },
+        "null": {
+            "osm_id": 9973479012,
+            "latitude": 42.43199280051404,
+            "longitude": -87.8061587
+        }
+    },
+    "26": {
+        "Godfrey": {
+            "osm_id": 151321396,
+            "latitude": 4715314.091361698,
+            "longitude": -10039546.03626677
+        },
+        "White Sea Hookah Lounge": {
+            "osm_id": 5877493387,
+            "latitude": 42.496308500517415,
+            "longitude": -87.95749250000001
+        }
+    },
+    "27": {
+        "Miles Station": {
+            "osm_id": 151325881,
+            "latitude": 4731630.441525669,
+            "longitude": -10030702.103473414
+        },
+        "Preferred Imaging Centers": {
+            "osm_id": 11261436628,
+            "latitude": 42.06313730049084,
+            "longitude": -88.3160823
+        }
+    },
+    "28": {
+        "Andalusia": {
+            "osm_id": 151325943,
+            "latitude": 5077873.680477976,
+            "longitude": -10098930.108811287
+        },
+        "Champs Banquet Venue": {
+            "osm_id": 7676920468,
+            "latitude": 41.78799600046954,
+            "longitude": -89.69537080000002
+        }
+    },
+    "29": {
+        "French Village": {
+            "osm_id": 151326909,
+            "latitude": 4664582.599831677,
+            "longitude": -10024331.968064208
+        },
+        "Shiloh VA Clinic": {
+            "osm_id": 9664564088,
+            "latitude": 38.57286320006396,
+            "longitude": -89.92079589999999
+        }
+    },
+    "30": {
+        "Jacksonville": {
+            "osm_id": 151327521,
+            "latitude": 4827416.358067412,
+            "longitude": -10044222.067137286
+        },
+        "VFW Post": {
+            "osm_id": 11074065454,
+            "latitude": 39.78732520023813,
+            "longitude": -89.6935663
+        }
+    },
+    "31": {
+        "Centerville": {
+            "osm_id": 151328251,
+            "latitude": 5021857.342593693,
+            "longitude": -10024796.771466065
+        },
+        "Olney Elks Lodge #926": {
+            "osm_id": 2248112359,
+            "latitude": 38.72947230008666,
+            "longitude": -88.0867151
+        }
+    },
+    "32": {
+        "Uniontown": {
+            "osm_id": 151332310,
+            "latitude": 4975174.577447267,
+            "longitude": -10029744.677928947
+        },
+        "Marquette Heights Municipal Building": {
+            "osm_id": 368069080,
+            "latitude": 40.61698280034721,
+            "longitude": -89.60232209999998
+        }
+    },
+    "33": {
+        "North Quincy": {
+            "osm_id": 151332317,
+            "latitude": 4861671.1179026235,
+            "longitude": -10174185.234929128
+        },
+        "Laughlin Cemetery": {
+            "osm_id": 354114270,
+            "latitude": 39.96004620026188,
+            "longitude": -91.3373696
+        }
+    },
+    "34": {
+        "Pulaski": {
+            "osm_id": 151332425,
+            "latitude": 4895419.470745432,
+            "longitude": -10123533.085506335
+        },
+        "My Friends Discovery Center": {
+            "osm_id": 7157676518,
+            "latitude": 39.78821240023826,
+            "longitude": -89.71834489999999
+        }
+    },
+    "35": {
+        "Cleveland": {
+            "osm_id": 151333039,
+            "latitude": 5087287.10156631,
+            "longitude": -10053802.879299954
+        },
+        "Roc One Stop": {
+            "osm_id": 8490863578,
+            "latitude": 37.84102819995975,
+            "longitude": -88.60946889999998
+        }
+    },
+    "36": {
+        "North Venice": {
+            "osm_id": 151334546,
+            "latitude": 4676063.424657906,
+            "longitude": -10037288.699632464
+        },
+        "Friendship Baptist Church": {
+            "osm_id": 354231907,
+            "latitude": 38.68171700007973,
+            "longitude": -90.16649849999999
+        }
+    },
+    "37": {
+        "Upper Alton": {
+            "osm_id": 151335851,
+            "latitude": 4708993.553299639,
+            "longitude": -10035526.044551346
+        },
+        "Lincoln Land Animal Clinic": {
+            "osm_id": 5573807859,
+            "latitude": 39.72049090022884,
+            "longitude": -90.2405761
+        }
+    },
+    "38": {
+        "Ormonde": {
+            "osm_id": 151338633,
+            "latitude": 4990983.346245714,
+            "longitude": -10087014.14769025
+        },
+        "Greenbush Townhall": {
+            "osm_id": 368069274,
+            "latitude": 40.666395100353235,
+            "longitude": -90.52177789999999
+        }
+    },
+    "39": {
+        "Briar Bluff": {
+            "osm_id": 151338640,
+            "latitude": 5080394.0265736375,
+            "longitude": -10059214.431441989
+        },
+        "St. Benedict's Abbey": {
+            "osm_id": 5187779632,
+            "latitude": 42.497508900517474,
+            "longitude": -88.07325850000001
+        }
+    },
+    "40": {
+        "Oak Grove": {
+            "osm_id": 151339422,
+            "latitude": 5073547.753856385,
+            "longitude": -10082082.983678784
+        },
+        "Carbon Cliff Village Hall": {
+            "osm_id": 368073708,
+            "latitude": 41.504686500444336,
+            "longitude": -90.3958938
+        }
+    },
+    "41": {
+        "Hamburg": {
+            "osm_id": 151339433,
+            "latitude": 4754677.750068917,
+            "longitude": -10098639.731919553
+        },
+        "Drop off for Morton Public Library": {
+            "osm_id": 2465220392,
+            "latitude": 40.612310700346626,
+            "longitude": -89.4639783
+        }
+    },
+    "42": {
+        "Lemens": {
+            "osm_id": 151339638,
+            "latitude": 4619418.245586229,
+            "longitude": -10034567.828638496
+        },
+        "Randolph County Jail": {
+            "osm_id": 368068329,
+            "latitude": 37.90449629996859,
+            "longitude": -89.8287175
+        }
+    },
+    "43": {
+        "Grand Pass": {
+            "osm_id": 151340617,
+            "latitude": 4787464.969869844,
+            "longitude": -10085126.881571138
+        },
+        "Theater in the park at New Salem": {
+            "osm_id": 3049540564,
+            "latitude": 39.979579300264525,
+            "longitude": -89.8466826
+        }
+    },
+    "44": {
+        "Cuba": {
+            "osm_id": 151341926,
+            "latitude": 4937817.839184534,
+            "longitude": -10039980.215676714
+        },
+        "Walgreens": {
+            "osm_id": 1722538272,
+            "latitude": 40.56724830034108,
+            "longitude": -89.63084259999998
+        }
+    },
+    "45": {
+        "Erie": {
+            "osm_id": 151341933,
+            "latitude": 5109637.3623292465,
+            "longitude": -10027550.259070838
+        },
+        "Head Start": {
+            "osm_id": 1929399061,
+            "latitude": 40.94537240038599,
+            "longitude": -90.36674909999999
+        }
+    },
+    "46": {
+        "Edgemont": {
+            "osm_id": 151343721,
+            "latitude": 4663633.065762382,
+            "longitude": -10025847.20444509
+        },
+        "Clock Tower": {
+            "osm_id": 6992929857,
+            "latitude": 38.80662290009786,
+            "longitude": -89.9499292
+        }
+    },
+    "47": {
+        "Woodburn": {
+            "osm_id": 151346445,
+            "latitude": 4728484.433580604,
+            "longitude": -10020095.493335037
+        },
+        "Bird Cloud Recording": {
+            "osm_id": 2892673959,
+            "latitude": 38.81262170009873,
+            "longitude": -89.95679400000002
+        }
+    },
+    "48": {
+        "Prospect Heights Addition": {
+            "osm_id": 151347354,
+            "latitude": 4948395.139455558,
+            "longitude": -10021364.568925928
+        },
+        "First Aid Station": {
+            "osm_id": 4058881570,
+            "latitude": 39.83359480024454,
+            "longitude": -89.63782099999999
+        }
+    },
+    "49": {
+        "Horton": {
+            "osm_id": 151347361,
+            "latitude": 4803938.711267076,
+            "longitude": -10134912.642529035
+        },
+        "Kumon": {
+            "osm_id": 11294199241,
+            "latitude": 39.76562540023512,
+            "longitude": -89.69301550000002
+        }
+    },
+    "50": {
+        "Old Kane": {
+            "osm_id": 151347678,
+            "latitude": 4748771.281014197,
+            "longitude": -10060233.628171897
+        },
+        "Edwardsville Arts Center": {
+            "osm_id": 8571137078,
+            "latitude": 38.78837980009521,
+            "longitude": -89.973968
+        }
+    }
+}

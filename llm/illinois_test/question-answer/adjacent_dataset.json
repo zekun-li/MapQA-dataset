@@ -1,0 +1,652 @@
+{
+    "1": {
+        "Catfish": {
+            "osm_id": 9819086573,
+            "latitude": 41.718686100463664,
+            "longitude": -87.945732
+        },
+        "Ausrine Schneider, DDS": {
+            "osm_id": 10684383944,
+            "latitude": 41.718506700463664,
+            "longitude": -87.9457775
+        }
+    },
+    "2": {
+        "Ashland & Balmoral": {
+            "osm_id": 8474748807,
+            "latitude": 41.97993440048474,
+            "longitude": -87.66976889999998
+        },
+        "First Slice Pie Cafe": {
+            "osm_id": 6290121597,
+            "latitude": 41.979702000484735,
+            "longitude": -87.66938389999999
+        }
+    },
+    "3": {
+        "E1": {
+            "osm_id": 10743205017,
+            "latitude": 41.97694640048452,
+            "longitude": -87.90637739999998
+        },
+        "Wicker Park Seafood & Sushi Bar": {
+            "osm_id": 6321771534,
+            "latitude": 41.976828800484526,
+            "longitude": -87.90605439999999
+        }
+    },
+    "4": {
+        "North Ave & Oakley WB": {
+            "osm_id": 6662964295,
+            "latitude": 41.910425900479424,
+            "longitude": -87.68517799999998
+        },
+        "Handlebar": {
+            "osm_id": 3575120598,
+            "latitude": 41.91021400047941,
+            "longitude": -87.68531109999999
+        }
+    },
+    "5": {
+        "North Ave & Kingsbury": {
+            "osm_id": 5891576032,
+            "latitude": 41.91083960047945,
+            "longitude": -87.65387139999999
+        },
+        "Peet's Coffee": {
+            "osm_id": 6341811104,
+            "latitude": 41.91109980047948,
+            "longitude": -87.6537471
+        }
+    },
+    "6": {
+        "Comfort Desserts Reimagined": {
+            "osm_id": 2295219827,
+            "latitude": 42.04132090048928,
+            "longitude": -87.68000649999999
+        },
+        "Blind Faith Cafe": {
+            "osm_id": 2139418956,
+            "latitude": 42.041321800489264,
+            "longitude": -87.68016909999999
+        }
+    },
+    "7": {
+        "Halsted & 18th Street": {
+            "osm_id": 4431884538,
+            "latitude": 41.857251400475214,
+            "longitude": -87.64672509999998
+        },
+        "Art of Imagination": {
+            "osm_id": 9850357044,
+            "latitude": 41.857203400475214,
+            "longitude": -87.6464658
+        },
+        "Strewn": {
+            "osm_id": 9850272301,
+            "latitude": 41.85728130047521,
+            "longitude": -87.64646099999999
+        }
+    },
+    "8": {
+        "Belmont & Seminary WB": {
+            "osm_id": 5248082263,
+            "latitude": 41.939956300481704,
+            "longitude": -87.65638179999999
+        },
+        "Ukai Sushi": {
+            "osm_id": 5161056771,
+            "latitude": 41.93977020048169,
+            "longitude": -87.65636549999999
+        },
+        "Jin Asian Cafe": {
+            "osm_id": 5161056770,
+            "latitude": 41.93977470048169,
+            "longitude": -87.65613589999998
+        }
+    },
+    "9": {
+        "Consulate General of the Federal Republic of Germany": {
+            "osm_id": 3575206704,
+            "latitude": 41.8947345004782,
+            "longitude": -87.62469769999998
+        },
+        "676 Restaurant & Bar": {
+            "osm_id": 6256157068,
+            "latitude": 41.89455590047818,
+            "longitude": -87.6247046
+        }
+    },
+    "10": {
+        "La Bodega": {
+            "osm_id": 6127339810,
+            "latitude": 41.88872450047771,
+            "longitude": -87.63082819999998
+        },
+        "Protein Bar": {
+            "osm_id": 5458126355,
+            "latitude": 41.88883710047773,
+            "longitude": -87.63123699999998
+        },
+        "Nonnina": {
+            "osm_id": 5457454076,
+            "latitude": 41.888657700477715,
+            "longitude": -87.6312208
+        }
+    },
+    "11": {
+        "Regions": {
+            "osm_id": 10129234918,
+            "latitude": 38.59226370006676,
+            "longitude": -89.9857986
+        },
+        "Fairview Heights Dentistry": {
+            "osm_id": 10129189516,
+            "latitude": 38.59212710006674,
+            "longitude": -89.98544189999998
+        }
+    },
+    "12": {
+        "Mobil Mart": {
+            "osm_id": 7176120888,
+            "latitude": 41.82613870047269,
+            "longitude": -87.79464179999998
+        },
+        "Mobil": {
+            "osm_id": 9252334032,
+            "latitude": 42.05434110049021,
+            "longitude": -87.8654908
+        }
+    },
+    "13": {
+        "Kim\u2019s Korean Cuisine": {
+            "osm_id": 11227979860,
+            "latitude": 41.943897900482014,
+            "longitude": -87.6453342
+        },
+        "Jacquelines's": {
+            "osm_id": 5693947793,
+            "latitude": 41.943811700482,
+            "longitude": -87.6453073
+        }
+    },
+    "14": {
+        "Ink": {
+            "osm_id": 6344848997,
+            "latitude": 41.78550640046932,
+            "longitude": -87.7425632
+        },
+        "Harry Carry\u2019s Shortstop": {
+            "osm_id": 7256768785,
+            "latitude": 41.78543430046932,
+            "longitude": -87.74285339999999
+        }
+    },
+    "15": {
+        "Verizon": {
+            "osm_id": 9370714346,
+            "latitude": 38.92018300011434,
+            "longitude": -90.1693673
+        },
+        "Starbucks": {
+            "osm_id": 7796865063,
+            "latitude": 40.45920490032756,
+            "longitude": -90.6407217
+        }
+    },
+    "16": {
+        "Bath & Body Works": {
+            "osm_id": 9424269467,
+            "latitude": 41.925941900480616,
+            "longitude": -87.67260749999998
+        },
+        "Corner Bakery": {
+            "osm_id": 2882846303,
+            "latitude": 41.8821919004772,
+            "longitude": -87.6406384
+        },
+        "Starbucks": {
+            "osm_id": 10222965518,
+            "latitude": 41.88241060047723,
+            "longitude": -87.6404265
+        }
+    },
+    "17": {
+        "47th Street & Michigan": {
+            "osm_id": 10564132821,
+            "latitude": 41.8093246004713,
+            "longitude": -87.62308089999999
+        },
+        "Sip & Savor": {
+            "osm_id": 6565212549,
+            "latitude": 41.80942830047131,
+            "longitude": -87.62314709999998
+        }
+    },
+    "18": {
+        "Lebnan Sweets": {
+            "osm_id": 6318304778,
+            "latitude": 41.965828300483686,
+            "longitude": -87.70875189999998
+        },
+        "Salam": {
+            "osm_id": 2149694269,
+            "latitude": 41.965757000483684,
+            "longitude": -87.70873399999999
+        }
+    },
+    "19": {
+        "Dragon Mosaic": {
+            "osm_id": 8005195323,
+            "latitude": 37.686836299938484,
+            "longitude": -89.17514229999999
+        },
+        "Boo Bench": {
+            "osm_id": 8005195333,
+            "latitude": 37.687139999938516,
+            "longitude": -89.1751637
+        }
+    },
+    "20": {
+        "Subway": {
+            "osm_id": 7205109382,
+            "latitude": 41.8018798004707,
+            "longitude": -89.6661742
+        },
+        "Revival Social Club": {
+            "osm_id": 2029403952,
+            "latitude": 41.99444670048583,
+            "longitude": -87.6596921
+        },
+        "Ann Sather": {
+            "osm_id": 2029402892,
+            "latitude": 41.99444280048583,
+            "longitude": -87.66012919999999
+        }
+    },
+    "21": {
+        "Lincoln & Webster": {
+            "osm_id": 7342370196,
+            "latitude": 41.92212150048032,
+            "longitude": -87.6441132
+        },
+        "Bacino's Pizza": {
+            "osm_id": 9940205692,
+            "latitude": 41.922125300480324,
+            "longitude": -87.64438939999998
+        }
+    },
+    "22": {
+        "Sugar Milk Cafe": {
+            "osm_id": 8519287315,
+            "latitude": 41.78057590046892,
+            "longitude": -88.17805859999999
+        },
+        "China Station": {
+            "osm_id": 8519309417,
+            "latitude": 41.780631900468926,
+            "longitude": -88.17786809999998
+        }
+    },
+    "23": {
+        "Artist\u2019s Garden": {
+            "osm_id": 8980777483,
+            "latitude": 41.886791600477565,
+            "longitude": -87.7174453
+        },
+        "Zellij Fountain": {
+            "osm_id": 8980777473,
+            "latitude": 41.88679850047755,
+            "longitude": -87.717798
+        }
+    },
+    "24": {
+        "Metra Police Department": {
+            "osm_id": 7210820784,
+            "latitude": 41.87539490047666,
+            "longitude": -87.63222789999999
+        },
+        "Metra": {
+            "osm_id": 7210820782,
+            "latitude": 41.87539690047665,
+            "longitude": -87.632095
+        }
+    },
+    "25": {
+        "Coinstar": {
+            "osm_id": 9180839564,
+            "latitude": 41.815720800471844,
+            "longitude": -88.2826463
+        },
+        "Redbox": {
+            "osm_id": 9411289461,
+            "latitude": 41.43282210043745,
+            "longitude": -90.1554318
+        }
+    },
+    "26": {
+        "Garfield & Wood": {
+            "osm_id": 4824081275,
+            "latitude": 41.794036400470034,
+            "longitude": -87.66985179999999
+        },
+        "Mays School": {
+            "osm_id": 354234795,
+            "latitude": 41.79420000047004,
+            "longitude": -87.66977369999998
+        },
+        "Saint Basil School": {
+            "osm_id": 354136801,
+            "latitude": 41.79413700047006,
+            "longitude": -87.6701299
+        }
+    },
+    "27": {
+        "Saint Laurence Catholic Church": {
+            "osm_id": 354250240,
+            "latitude": 42.03004650048845,
+            "longitude": -88.2925099
+        },
+        "Saint Laurence School": {
+            "osm_id": 354146644,
+            "latitude": 42.03034420048848,
+            "longitude": -88.2923865
+        }
+    },
+    "28": {
+        "Arnold Cabana": {
+            "osm_id": 368064110,
+            "latitude": 40.49063670033152,
+            "longitude": -88.99302129999998
+        },
+        "Coffee Shoppe": {
+            "osm_id": 9601872035,
+            "latitude": 40.490640200331526,
+            "longitude": -88.9927157
+        }
+    },
+    "29": {
+        "Damen & Foster": {
+            "osm_id": 4858936365,
+            "latitude": 41.97578450048443,
+            "longitude": -87.67949079999998
+        },
+        "Sweet Virginia\u2019s Kitchen": {
+            "osm_id": 6303029665,
+            "latitude": 41.97582380048443,
+            "longitude": -87.6789867
+        }
+    },
+    "30": {
+        "Bold American Fare": {
+            "osm_id": 7726966094,
+            "latitude": 42.166952600498014,
+            "longitude": -88.2925221
+        },
+        "Creekside Tap": {
+            "osm_id": 7726966137,
+            "latitude": 42.166757600497995,
+            "longitude": -88.29239179999999
+        }
+    },
+    "31": {
+        "Londos Eye Center": {
+            "osm_id": 9731074012,
+            "latitude": 41.83476990047338,
+            "longitude": -87.862551
+        },
+        "1st Family Dental": {
+            "osm_id": 9731074011,
+            "latitude": 41.8348659004734,
+            "longitude": -87.8625594
+        }
+    },
+    "32": {
+        "HT Nails": {
+            "osm_id": 8493340785,
+            "latitude": 41.784749800469264,
+            "longitude": -88.16839589999998
+        },
+        "Rise and Bite Cafe": {
+            "osm_id": 8493340788,
+            "latitude": 41.78467660046927,
+            "longitude": -88.1685994
+        }
+    },
+    "33": {
+        "Ashland Ave & McDowell Ave": {
+            "osm_id": 6841997324,
+            "latitude": 41.80885090047128,
+            "longitude": -87.6645469
+        },
+        "PL": {
+            "osm_id": 11277169845,
+            "latitude": 41.80899380047128,
+            "longitude": -87.6647396
+        }
+    },
+    "34": {
+        "Super Wok": {
+            "osm_id": 4470453193,
+            "latitude": 40.0972455002804,
+            "longitude": -88.2752514
+        },
+        "TCBY": {
+            "osm_id": 4470453194,
+            "latitude": 40.0972455002804,
+            "longitude": -88.27500329999998
+        }
+    },
+    "35": {
+        "Trio": {
+            "osm_id": 8711419201,
+            "latitude": 42.10481710049379,
+            "longitude": -88.2587871
+        },
+        "BP": {
+            "osm_id": 3441436594,
+            "latitude": 42.104787800493774,
+            "longitude": -88.2584272
+        }
+    },
+    "36": {
+        "Torrid": {
+            "osm_id": 7790464069,
+            "latitude": 37.735086499945105,
+            "longitude": -89.19010839999999
+        },
+        "Dental Dreams": {
+            "osm_id": 6129603791,
+            "latitude": 42.26522740050434,
+            "longitude": -88.9955966
+        }
+    },
+    "37": {
+        "Gate D": {
+            "osm_id": 6977458170,
+            "latitude": 41.87849910047691,
+            "longitude": -87.6388025
+        },
+        "Pret A Manger": {
+            "osm_id": 6320242859,
+            "latitude": 41.87865770047692,
+            "longitude": -87.6389762
+        },
+        "Auntie Anne's": {
+            "osm_id": 9217234406,
+            "latitude": 41.87856230047691,
+            "longitude": -87.6390685
+        },
+        "Robinson's": {
+            "osm_id": 8199152334,
+            "latitude": 41.87856930047692,
+            "longitude": -87.63902119999999
+        },
+        "Jersey Mike's Subs": {
+            "osm_id": 8199121419,
+            "latitude": 41.87854380047692,
+            "longitude": -87.63869919999999
+        }
+    },
+    "38": {
+        "Madison/Wells": {
+            "osm_id": 11084928273,
+            "latitude": 41.88165910047715,
+            "longitude": -87.6338392
+        },
+        "Mezza": {
+            "osm_id": 10925526276,
+            "latitude": 41.881397600477136,
+            "longitude": -87.63362809999998
+        }
+    },
+    "39": {
+        "Ashland & Blackhawk": {
+            "osm_id": 4741911432,
+            "latitude": 41.90669540047914,
+            "longitude": -87.6677409
+        },
+        "Ashland Ave & Blackhawk St": {
+            "osm_id": 2480304737,
+            "latitude": 41.90706600047917,
+            "longitude": -87.667252
+        }
+    },
+    "40": {
+        "Molly\u2019s Cupcakes": {
+            "osm_id": 2353615733,
+            "latitude": 41.867746100476054,
+            "longitude": -87.62605199999999
+        },
+        "Jet's Pizza": {
+            "osm_id": 11065147596,
+            "latitude": 41.86791820047606,
+            "longitude": -87.62606789999998
+        }
+    },
+    "41": {
+        "Sheridan & Loyola SB (Red Line)": {
+            "osm_id": 3242224950,
+            "latitude": 42.00126840048634,
+            "longitude": -87.66085299999999
+        },
+        "Dunkin'": {
+            "osm_id": 7232094918,
+            "latitude": 42.001036500486315,
+            "longitude": -87.66095419999999
+        }
+    },
+    "42": {
+        "Pepe's Mexican Restaurants": {
+            "osm_id": 4430026086,
+            "latitude": 41.601509700453306,
+            "longitude": -88.1238489
+        },
+        "Weber Medical Center": {
+            "osm_id": 4430026089,
+            "latitude": 41.601307000453296,
+            "longitude": -88.1238363
+        }
+    },
+    "43": {
+        "Oswego Family Restaurant": {
+            "osm_id": 7782669657,
+            "latitude": 41.68389360046065,
+            "longitude": -88.3525758
+        },
+        "Raven Masonic Lodge": {
+            "osm_id": 7782669658,
+            "latitude": 41.68386170046065,
+            "longitude": -88.35260509999999
+        }
+    },
+    "44": {
+        "Allstate": {
+            "osm_id": 8332266679,
+            "latitude": 42.05419670049019,
+            "longitude": -87.8226403
+        },
+        "Goldie\u2019s Pub": {
+            "osm_id": 6292012650,
+            "latitude": 41.9515876004826,
+            "longitude": -87.67675139999999
+        }
+    },
+    "45": {
+        "Bao": {
+            "osm_id": 6688458303,
+            "latitude": 41.97272730048421,
+            "longitude": -88.2062039
+        },
+        "Oberweis": {
+            "osm_id": 8550452733,
+            "latitude": 41.97298420048423,
+            "longitude": -88.20647790000001
+        }
+    },
+    "46": {
+        "Green & Sixth": {
+            "osm_id": 6896877722,
+            "latitude": 40.11035050028216,
+            "longitude": -88.2302789
+        },
+        "Tiger Sugar": {
+            "osm_id": 9579530951,
+            "latitude": 40.110174300282125,
+            "longitude": -88.23091179999999
+        }
+    },
+    "47": {
+        "Old Town Oil": {
+            "osm_id": 2295252469,
+            "latitude": 42.06421120049092,
+            "longitude": -87.69995379999999
+        },
+        "Kanela Breakfast Club": {
+            "osm_id": 10857072632,
+            "latitude": 41.91060060047944,
+            "longitude": -87.6344953
+        }
+    },
+    "48": {
+        "Kedzie & 52nd Street": {
+            "osm_id": 5002382440,
+            "latitude": 41.799095500470465,
+            "longitude": -87.7038133
+        },
+        "Kedzie Ave & 52nd St": {
+            "osm_id": 9548315793,
+            "latitude": 41.79904880047046,
+            "longitude": -87.70340159999999
+        }
+    },
+    "49": {
+        "H&R Block": {
+            "osm_id": 4354606502,
+            "latitude": 42.39727270051214,
+            "longitude": -88.1847568
+        },
+        "Panda Express": {
+            "osm_id": 2819285777,
+            "latitude": 41.88195270047718,
+            "longitude": -87.62698
+        },
+        "Chipotle": {
+            "osm_id": 2819285780,
+            "latitude": 41.8822307004772,
+            "longitude": -87.6270628
+        }
+    },
+    "50": {
+        "Ravenswood Station": {
+            "osm_id": 1627026643,
+            "latitude": 41.967258000483795,
+            "longitude": -87.67891719999999
+        },
+        "Damen Ave & Leland Ave": {
+            "osm_id": 2480304978,
+            "latitude": 41.96712940048378,
+            "longitude": -87.67904139999999
+        }
+    }
+}

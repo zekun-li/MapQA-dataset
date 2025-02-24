@@ -1,0 +1,602 @@
+{
+    "1": {
+        "100th Street & Luella": {
+            "osm_id": 5944856196,
+            "latitude": 41.71348140046322,
+            "longitude": -87.5679051
+        },
+        "106": {
+            "osm_id": 8611614537,
+            "latitude": 41.30773930042503,
+            "longitude": -88.9737412
+        }
+    },
+    "2": {
+        "1275 N Milwaukee Ave": {
+            "osm_id": 4469604021,
+            "latitude": 42.07999790049204,
+            "longitude": -87.86305869999998
+        },
+        "103rd Street & Southwest Hwy": {
+            "osm_id": 6160637802,
+            "latitude": 41.70496750046249,
+            "longitude": -87.78624909999999
+        }
+    },
+    "3": {
+        "11th & Oberlin": {
+            "osm_id": 10012273477,
+            "latitude": 39.77138400023592,
+            "longitude": -89.640839
+        },
+        "11th & Cottonwood": {
+            "osm_id": 10012273449,
+            "latitude": 39.75925700023424,
+            "longitude": -89.639743
+        }
+    },
+    "4": {
+        "111th Street & SW Hwy EB": {
+            "osm_id": 6239039571,
+            "latitude": 41.68953090046114,
+            "longitude": -87.8098096
+        },
+        "10th Street at Walnut": {
+            "osm_id": 5992090140,
+            "latitude": 38.62002010007078,
+            "longitude": -90.15714839999998
+        }
+    },
+    "5": {
+        "11th & South Grand": {
+            "osm_id": 11186735839,
+            "latitude": 39.78705390023811,
+            "longitude": -89.6411735
+        },
+        "11th & Pine": {
+            "osm_id": 11186735837,
+            "latitude": 39.78599480023796,
+            "longitude": -89.6411424
+        }
+    },
+    "6": {
+        "0.78 miles": {
+            "osm_id": 5980038946,
+            "latitude": 42.0638780004909,
+            "longitude": -88.0461143
+        },
+        "10": {
+            "osm_id": 9456575248,
+            "latitude": 42.00284100048644,
+            "longitude": -87.9322074
+        }
+    },
+    "7": {
+        "111th Street & Kedzie WB": {
+            "osm_id": 4493799995,
+            "latitude": 41.69165120046133,
+            "longitude": -87.70064709999998
+        },
+        "10602 S Vincennes NB": {
+            "osm_id": 4493799687,
+            "latitude": 41.701289100462176,
+            "longitude": -87.65796729999998
+        }
+    },
+    "8": {
+        "103rd Street & Ridgeland (Metra)": {
+            "osm_id": 9024009772,
+            "latitude": 41.7050859004625,
+            "longitude": -87.7799533
+        },
+        "1258 S California": {
+            "osm_id": 5192919365,
+            "latitude": 41.86453100047579,
+            "longitude": -87.6959469
+        }
+    },
+    "9": {
+        "11th & Cottonwood": {
+            "osm_id": 10012273471,
+            "latitude": 39.759389500234256,
+            "longitude": -89.64002499999998
+        },
+        "119th Street & Stewart": {
+            "osm_id": 7259548830,
+            "latitude": 41.677921600460124,
+            "longitude": -87.6319856
+        }
+    },
+    "10": {
+        "103rd Street & Aberdeen WB": {
+            "osm_id": 4499014613,
+            "latitude": 41.70693380046266,
+            "longitude": -87.6499694
+        },
+        "111th Street & Washtenaw EB": {
+            "osm_id": 4493799659,
+            "latitude": 41.69164370046133,
+            "longitude": -87.688708
+        }
+    },
+    "11": {
+        "11th & Cornell": {
+            "osm_id": 11186475099,
+            "latitude": 39.77670980023666,
+            "longitude": -89.64087389999999
+        },
+        "127th Street & Pulaski EB": {
+            "osm_id": 9642742863,
+            "latitude": 41.66201310045872,
+            "longitude": -87.7183859
+        }
+    },
+    "12": {
+        "115th Street & State WB": {
+            "osm_id": 4499950126,
+            "latitude": 41.685393300460774,
+            "longitude": -87.6227289
+        },
+        "103rd Street & State EB": {
+            "osm_id": 4499014654,
+            "latitude": 41.70709600046267,
+            "longitude": -87.6237213
+        }
+    },
+    "13": {
+        "111th Street & Champlain": {
+            "osm_id": 7210460242,
+            "latitude": 41.69279780046142,
+            "longitude": -87.60740309999998
+        },
+        "115th Street & Michigan WB": {
+            "osm_id": 4499950119,
+            "latitude": 41.68542520046079,
+            "longitude": -87.6206139
+        }
+    },
+    "14": {
+        "103rd Street & State EB": {
+            "osm_id": 4499014654,
+            "latitude": 41.70709600046267,
+            "longitude": -87.6237213
+        },
+        "111th Street & Rockwell": {
+            "osm_id": 4493800040,
+            "latitude": 41.691826300461344,
+            "longitude": -87.685792
+        }
+    },
+    "15": {
+        "103rd Street & Charles EB": {
+            "osm_id": 4499012871,
+            "latitude": 41.706681000462645,
+            "longitude": -87.6587515
+        },
+        "119th Street & Ashland": {
+            "osm_id": 3920107235,
+            "latitude": 41.677667100460106,
+            "longitude": -87.6611565
+        }
+    },
+    "16": {
+        "105F": {
+            "osm_id": 6283017408,
+            "latitude": 41.90612290047909,
+            "longitude": -87.67108619999999
+        },
+        "106": {
+            "osm_id": 8611614537,
+            "latitude": 41.30773930042503,
+            "longitude": -88.9737412
+        }
+    },
+    "17": {
+        "103rd Street & Wentworth EB": {
+            "osm_id": 4499014615,
+            "latitude": 41.70702400046267,
+            "longitude": -87.62841779999998
+        },
+        "111th Street & Aberdeen WB": {
+            "osm_id": 4503831027,
+            "latitude": 41.69233930046138,
+            "longitude": -87.6495487
+        }
+    },
+    "18": {
+        "103rd Street & St. Lawrence": {
+            "osm_id": 7762571583,
+            "latitude": 41.70738570046268,
+            "longitude": -87.609066
+        },
+        "11th & Knox": {
+            "osm_id": 10012273473,
+            "latitude": 39.762811000234734,
+            "longitude": -89.640042
+        }
+    },
+    "19": {
+        "1112 Gallery": {
+            "osm_id": 3652941318,
+            "latitude": 41.90189360047876,
+            "longitude": -87.664428
+        },
+        "130th Street & Carondolet": {
+            "osm_id": 7212634732,
+            "latitude": 41.65917270045848,
+            "longitude": -87.54977809999998
+        }
+    },
+    "20": {
+        "103rd Street & St. Lawrence": {
+            "osm_id": 7762571583,
+            "latitude": 41.70738570046268,
+            "longitude": -87.609066
+        },
+        "10251 Lincoln Trail": {
+            "osm_id": 6003816053,
+            "latitude": 38.593060900066895,
+            "longitude": -90.00504779999999
+        }
+    },
+    "21": {
+        "0.78 miles": {
+            "osm_id": 5980038946,
+            "latitude": 42.0638780004909,
+            "longitude": -88.0461143
+        },
+        "11th & Pine": {
+            "osm_id": 10012273432,
+            "latitude": 39.78599600023795,
+            "longitude": -89.64105299999999
+        }
+    },
+    "22": {
+        "106th Street & Torrence": {
+            "osm_id": 7113556966,
+            "latitude": 41.70278670046229,
+            "longitude": -87.55934229999998
+        },
+        "11th & Stanford": {
+            "osm_id": 10012273445,
+            "latitude": 39.76674400023528,
+            "longitude": -89.64051799999999
+        }
+    },
+    "23": {
+        "119th Street": {
+            "osm_id": 7131880201,
+            "latitude": 41.675962000459954,
+            "longitude": -87.67258049999998
+        },
+        "128": {
+            "osm_id": 4457146195,
+            "latitude": 41.30566390042482,
+            "longitude": -88.9748487
+        }
+    },
+    "24": {
+        "119th Street & Division": {
+            "osm_id": 7259548857,
+            "latitude": 41.677415000460094,
+            "longitude": -87.66897949999999
+        },
+        "103rd Street & Prospect WB": {
+            "osm_id": 4499012877,
+            "latitude": 41.706771700462646,
+            "longitude": -87.6619227
+        }
+    },
+    "25": {
+        "111th Street (Morgan Park)": {
+            "osm_id": 7131880205,
+            "latitude": 41.692097300461356,
+            "longitude": -87.67062220000001
+        },
+        "11919 S Avenue O": {
+            "osm_id": 4514852492,
+            "latitude": 41.67840920046016,
+            "longitude": -87.53988209999999
+        }
+    },
+    "26": {
+        "11th & Kansas": {
+            "osm_id": 11184794183,
+            "latitude": 39.79064440023859,
+            "longitude": -89.6410889
+        },
+        "100th Street & Calhoun": {
+            "osm_id": 3897744859,
+            "latitude": 41.71363110046323,
+            "longitude": -87.5625257
+        }
+    },
+    "27": {
+        "11th & Cook": {
+            "osm_id": 10012273492,
+            "latitude": 39.79491890023919,
+            "longitude": -89.64109649999999
+        },
+        "11th Street at Baugh": {
+            "osm_id": 6014457654,
+            "latitude": 38.63081620007236,
+            "longitude": -90.14093259999999
+        }
+    },
+    "28": {
+        "11th & Kansas": {
+            "osm_id": 10012273429,
+            "latitude": 39.79028800023854,
+            "longitude": -89.64101
+        },
+        "103rd Street & Kedzie WB": {
+            "osm_id": 4498842570,
+            "latitude": 41.706302100462615,
+            "longitude": -87.7010876
+        }
+    },
+    "29": {
+        "127th Street & Halsted": {
+            "osm_id": 4170867039,
+            "latitude": 41.663332200458846,
+            "longitude": -87.6410609
+        },
+        "1.16 miles": {
+            "osm_id": 5980038936,
+            "latitude": 42.06059300049066,
+            "longitude": -88.04770199999999
+        }
+    },
+    "30": {
+        "10B": {
+            "osm_id": 9460510960,
+            "latitude": 41.9792021004847,
+            "longitude": -87.929867
+        },
+        "11th & Melrose": {
+            "osm_id": 11186475098,
+            "latitude": 39.77517000023646,
+            "longitude": -89.6408395
+        }
+    },
+    "31": {
+        "11th & Spruce": {
+            "osm_id": 11186705333,
+            "latitude": 39.78390230023766,
+            "longitude": -89.64108119999999
+        },
+        "127th Street & Bishop": {
+            "osm_id": 5811538086,
+            "latitude": 41.6629100004588,
+            "longitude": -87.6574317
+        }
+    },
+    "32": {
+        "103": {
+            "osm_id": 8611614534,
+            "latitude": 41.30814630042505,
+            "longitude": -88.97363660000002
+        },
+        "111th Street & SW Hwy WB": {
+            "osm_id": 6239040134,
+            "latitude": 41.689759200461154,
+            "longitude": -87.80914979999999
+        }
+    },
+    "33": {
+        "106th Street & Mackinaw": {
+            "osm_id": 3897942981,
+            "latitude": 41.70285280046231,
+            "longitude": -87.54233569999998
+        },
+        "1280 Central Park": {
+            "osm_id": 6003816491,
+            "latitude": 38.5849437000657,
+            "longitude": -89.9399929
+        }
+    },
+    "34": {
+        "11th & Mason": {
+            "osm_id": 11188168030,
+            "latitude": 39.805042900240586,
+            "longitude": -89.64072019999999
+        },
+        "106th Street & Avenue F": {
+            "osm_id": 7124786907,
+            "latitude": 41.70271390046229,
+            "longitude": -87.5306116
+        }
+    },
+    "35": {
+        "1101 West": {
+            "osm_id": 6003359070,
+            "latitude": 38.53058180005785,
+            "longitude": -89.95831429999998
+        },
+        "103rd Street & Eberhart": {
+            "osm_id": 7762571581,
+            "latitude": 41.707353400462694,
+            "longitude": -87.611122
+        }
+    },
+    "36": {
+        "103rd Street & Corliss": {
+            "osm_id": 3215405451,
+            "latitude": 41.707559100462696,
+            "longitude": -87.6040939
+        },
+        "115th Street & Stewart WB": {
+            "osm_id": 4499950162,
+            "latitude": 41.68527710046077,
+            "longitude": -87.63221719999999
+        }
+    },
+    "37": {
+        "103rd Street & Corliss": {
+            "osm_id": 3215405451,
+            "latitude": 41.707559100462696,
+            "longitude": -87.6040939
+        },
+        "111th Street & Normal EB": {
+            "osm_id": 4503831047,
+            "latitude": 41.6923727004614,
+            "longitude": -87.6353216
+        }
+    },
+    "38": {
+        "119th Street & Laflin": {
+            "osm_id": 3920107226,
+            "latitude": 41.6775116004601,
+            "longitude": -87.6590724
+        },
+        "1100 E 103rd Street": {
+            "osm_id": 7762580693,
+            "latitude": 41.707660100462725,
+            "longitude": -87.59559950000002
+        }
+    },
+    "39": {
+        "119th Street & Laflin": {
+            "osm_id": 3920107244,
+            "latitude": 41.677648900460106,
+            "longitude": -87.65882969999998
+        },
+        "100 Forest Place": {
+            "osm_id": 2582027243,
+            "latitude": 41.88821850047768,
+            "longitude": -87.7999416
+        }
+    },
+    "40": {
+        "112th Street & Avenue B": {
+            "osm_id": 7124786946,
+            "latitude": 41.691805400461334,
+            "longitude": -87.5260411
+        },
+        "107th Street (Beverly Hills)": {
+            "osm_id": 7131880206,
+            "latitude": 41.69788290046187,
+            "longitude": -87.6699167
+        }
+    },
+    "41": {
+        "130th Street & Baltimore": {
+            "osm_id": 4514852566,
+            "latitude": 41.65909430045847,
+            "longitude": -87.5473386
+        },
+        "103rd Street & Western WB": {
+            "osm_id": 4499014656,
+            "latitude": 41.70648070046262,
+            "longitude": -87.6813947
+        }
+    },
+    "42": {
+        "111th Street & Central EB": {
+            "osm_id": 9422068891,
+            "latitude": 41.69045190046122,
+            "longitude": -87.7595727
+        },
+        "119th Street & Perry": {
+            "osm_id": 7259548824,
+            "latitude": 41.67799920046014,
+            "longitude": -87.62485069999998
+        }
+    },
+    "43": {
+        "111th Street (Morgan Park)": {
+            "osm_id": 7131880204,
+            "latitude": 41.69325150046148,
+            "longitude": -87.6704364
+        },
+        "119th Street & Page": {
+            "osm_id": 7259548855,
+            "latitude": 41.6774854004601,
+            "longitude": -87.66530599999999
+        }
+    },
+    "44": {
+        "11": {
+            "osm_id": 234239522,
+            "latitude": 41.993674000485775,
+            "longitude": -88.693648
+        },
+        "111th Street & Lawndale WB": {
+            "osm_id": 4493799683,
+            "latitude": 41.69144220046132,
+            "longitude": -87.71348139999999
+        }
+    },
+    "45": {
+        "112th Street & Avenue M": {
+            "osm_id": 7215532909,
+            "latitude": 41.69184840046135,
+            "longitude": -87.53791909999998
+        },
+        "103rd Street & Calumet": {
+            "osm_id": 3215405984,
+            "latitude": 41.7073747004627,
+            "longitude": -87.6148606
+        }
+    },
+    "46": {
+        "119th Street & Wentworth": {
+            "osm_id": 7259548826,
+            "latitude": 41.677973700460136,
+            "longitude": -87.62720559999998
+        },
+        "115th Street & State EB": {
+            "osm_id": 4499950124,
+            "latitude": 41.68525090046078,
+            "longitude": -87.62307219999998
+        }
+    },
+    "47": {
+        "10th Street at Converse": {
+            "osm_id": 5992090139,
+            "latitude": 38.61809330007051,
+            "longitude": -90.1597991
+        },
+        "11th & Enterprise": {
+            "osm_id": 11188180404,
+            "latitude": 39.812700000241655,
+            "longitude": -89.6406487
+        }
+    },
+    "48": {
+        "103rd Street & Komensky": {
+            "osm_id": 6054077514,
+            "latitude": 41.705968900462565,
+            "longitude": -87.72192249999999
+        },
+        "111th Street & Sacramento WB": {
+            "osm_id": 4493800022,
+            "latitude": 41.69170590046134,
+            "longitude": -87.6957328
+        }
+    },
+    "49": {
+        "107th Street (Beverly Hills)": {
+            "osm_id": 7131880207,
+            "latitude": 41.699134100461976,
+            "longitude": -87.66972629999998
+        },
+        "103rd Street & Hamlin EB": {
+            "osm_id": 4498842555,
+            "latitude": 41.70587650046257,
+            "longitude": -87.7161609
+        }
+    },
+    "50": {
+        "119th Street & Princeton": {
+            "osm_id": 7259548828,
+            "latitude": 41.67794140046014,
+            "longitude": -87.6301673
+        },
+        "103rd Street & Oakley": {
+            "osm_id": 4499014617,
+            "latitude": 41.706475300462614,
+            "longitude": -87.6798492
+        }
+    }
+}

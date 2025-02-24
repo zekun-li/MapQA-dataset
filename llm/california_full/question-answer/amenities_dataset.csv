@@ -1,0 +1,251 @@
+ID,Question,Answer
+1,What amenity is available at Golden Era Productions?,studio
+2,What amenity is present in Jack in the Box?,fast_food
+3,What amenity is available in Yoshinoya?,fast_food
+4,What amenity is present in Jack in the Box?,fast_food
+5,What amenity is available at The Vault?,pub
+6,What amenity is available in Royal Falconer?,pub
+7,What amenity is present within Darby's American Cantina?,pub
+8,What amenity can be found at Circle K & Minimart?,fuel
+9,What amenity is available at Benjarong Thai Cuisine?,restaurant
+10,What amenity can be found at Myung GA Tofu and Korean BBQ?,restaurant
+11,What amenity can be found in Party House Restaurant?,restaurant
+12,What amenity is available in Pho Ha Vietnamese Restaurant?,restaurant
+13,What amenity is present within ḾU?,restaurant
+14,What amenity is present within Ocean Pho?,restaurant
+15,What amenity is featured at Arco?,fuel
+16,What amenity is featured at Taylor's Cocktail Lounge?,pub
+17,What amenity is present within Boiler Room?,pub
+18,What amenity is available in Balboa Island Ferry?,ferry_terminal
+19,What amenity is present within Balboa Island Ferry?,ferry_terminal
+20,What amenity is available at YMCA of the Foothills?,community_centre
+21,What amenity is featured at Lot D?,parking
+22,What amenity can be found at Outdoor Theatre?,theatre
+23,What amenity can be found at Ramona Bowl?,theatre
+24,What amenity is available in Camp Irwin Owen?,school
+25,What amenity is present in Wellington Heights?,cafe
+26,What amenity can be found at Laguna Hills Mobile Home Estates?,trailer_park
+27,What amenity is present in Chevron?,fuel
+28,What amenity is featured at Aquinas High School?,school
+29,What amenity is present in Westchester-Loyola Village Branch Library?,library
+30,What amenity is available at Wells Fargo?,bank
+31,What amenity is featured at The Abbey?,bar
+32,What amenity is present in Pho Dakao?,restaurant
+33,What amenity is available in CVS Pharmacy?,pharmacy
+34,What amenity is present within Wells Fargo?,bank
+35,What amenity is present within City Of San Gabriel Police Department?,police
+36,What amenity can be found at Chevron?,fuel
+37,What amenity can be found at Chipotle?,fast_food
+38,What amenity can be found in Congregation Beth Israel?,place_of_worship
+39,What amenity is available in Leucadia?,restaurant
+40,What amenity is available in Subarashi?,restaurant
+41,What amenity is featured at World?,fuel
+42,What amenity can be found in Shell?,fuel
+43,What amenity can be found at Mobil?,fuel
+44,What amenity is featured at Thai Time III?,restaurant
+45,What amenity is present within Tapioca Express?,cafe
+46,What amenity is featured at Rite Aid?,pharmacy
+47,What amenity can be found at Carl's Jr. / The Green Burrito?,fast_food
+48,What amenity is featured at Clairemont Auto Care?,fuel
+49,What amenity is present in Sipz Fusion Cafe?,restaurant
+50,What amenity is available at California Mission Inn?,nursing_home
+51,What amenity is present in Chevron Mission Car Wash?,fuel
+52,What amenity can be found in Los Primos Mexican Food?,fast_food
+53,What amenity can be found in Shanghai Cafe?,restaurant
+54,What amenity can be found in The Daily Bagel?,cafe
+55,What amenity is available in Yokohama Sushi?,restaurant
+56,What amenity is featured at Bank of America?,bank
+57,What amenity can be found at Citibank?,bank
+58,What amenity is featured at Pete's Coffee and Tea?,cafe
+59,What amenity is present in Snooze?,restaurant
+60,What amenity is present in Flying J?,fuel
+61,What amenity is present in Hope Christian Fellowship?,place_of_worship
+62,What amenity can be found in Dead Horse Trailhead?,parking
+63,What amenity is present in Arco?,fuel
+64,What amenity is featured at Shell?,fuel
+65,What amenity is available in Shell?,fuel
+66,What amenity can be found in Wicked Chicken?,restaurant
+67,What amenity is available in Chevron?,fuel
+68,What amenity is present within Los Angeles County Fire Department Station #23?,fire_station
+69,What amenity is present in Cafe 222?,restaurant
+70,What amenity is present within Los Angeles County Fire Department Station #31?,fire_station
+71,What amenity is available in LB Fire Station #5?,fire_station
+72,What amenity is present within L B Fire Station #17?,fire_station
+73,What amenity is featured at Long Beach Fire Department Station #11?,fire_station
+74,What amenity can be found at Long Beach Fire Department Station #6?,fire_station
+75,What amenity is featured at Terminal Island Fire Station?,fire_station
+76,What amenity is present in Long Beach Fire Station #3?,fire_station
+77,What amenity is available in Long Beach Fire Station #4?,fire_station
+78,What amenity is available in Long Beach Fire Station #7?,fire_station
+79,What amenity is available in Long Beach Fire Station #13?,fire_station
+80,What amenity can be found at Long Beach Fire Station #14?,fire_station
+81,What amenity is available at Long Beach Fire Station #15?,fire_station
+82,What amenity is present in Chevron?,fuel
+83,What amenity is available at Ventura County Sheriffs East Valley Station?,police
+84,What amenity is present within Chevron?,fuel
+85,What amenity is available at Oak View Post Office?,post_office
+86,What amenity is present in Bank of America?,bank
+87,What amenity can be found in NewLife Christian Fellowship?,place_of_worship
+88,What amenity can be found at Bank of the West?,bank
+89,What amenity is present within Applebee's?,restaurant
+90,What amenity is featured at Round Table Pizza?,restaurant
+91,What amenity is present within Dave's Hot Chicken?,fast_food
+92,What amenity is available at Fuddruckers?,restaurant
+93,What amenity is featured at El Torito?,restaurant
+94,What amenity is present within Red Lobster?,restaurant
+95,What amenity is present within Gurudwara San Diego?,place_of_worship
+96,What amenity is present within Roberto's Taco Shop?,fast_food
+97,What amenity is present within Jack in the Box?,fast_food
+98,What amenity can be found at The Hat?,fast_food
+99,What amenity is featured at Starbucks?,cafe
+100,What amenity is present within Yoshinoya?,fast_food
+101,What amenity is present in Ono Hawaiian BBQ?,restaurant
+102,What amenity is present in Togo's?,fast_food
+103,What amenity is available in Baskin-Robbins?,ice_cream
+104,What amenity is available in Pepe's?,fast_food
+105,What amenity is available in Little Caesars?,fast_food
+106,What amenity is present within Rose Donuts?,fast_food
+107,What amenity is available at H. Salt?,fast_food
+108,What amenity is featured at Taco Bell?,fast_food
+109,What amenity is available at El Pollo Loco?,fast_food
+110,What amenity is available in Del Taco?,fast_food
+111,What amenity is present within Mamma's Brick Oven Pizza & Pasta?,fast_food
+112,What amenity is present in Jack in the Box?,fast_food
+113,What amenity is present in Top's?,fast_food
+114,What amenity is available in Roadhouse?,cafe
+115,What amenity is present within Orange Chicken?,fast_food
+116,What amenity is available in Shiki Seafood Buffet?,restaurant
+117,What amenity is available in El Pollo Loco?,fast_food
+118,What amenity is present within McDonald's?,fast_food
+119,What amenity can be found at Carl's Jr.?,fast_food
+120,What amenity can be found in El Pollo Loco?,fast_food
+121,What amenity is featured at Jack in the Box?,fast_food
+122,What amenity is available in McDonald's?,fast_food
+123,What amenity can be found in Starbucks?,cafe
+124,What amenity is featured at Saint Lukes Catholic Church?,place_of_worship
+125,What amenity can be found at Walgreens?,pharmacy
+126,What amenity is available in CVS Pharmacy?,pharmacy
+127,What amenity can be found in Chevron?,fuel
+128,What amenity is present in Mobil?,fuel
+129,What amenity is present within Chase?,bank
+130,What amenity can be found at Kaya Japanese Seafood?,restaurant
+131,What amenity is present within Petrillo's?,restaurant
+132,What amenity is present in 76?,fuel
+133,What amenity is available at Jamba?,fast_food
+134,What amenity can be found at Arco?,fuel
+135,What amenity can be found in Starbucks?,cafe
+136,What amenity is available at Bella Italia?,restaurant
+137,What amenity is featured at El Taco?,fast_food
+138,What amenity can be found in Clearman's Galley?,restaurant
+139,What amenity can be found in Ruth's Chris Steak House?,restaurant
+140,What amenity can be found at San Gabriel Union Church?,place_of_worship
+141,What amenity is featured at Wells Fargo?,atm
+142,What amenity is available at Barbusa?,restaurant
+143,What amenity is available at Subway?,fast_food
+144,What amenity is available in Sunland-Tujunga Library?,library
+145,What amenity can be found in Hidden Springs Cafe (closed)?,restaurant
+146,What amenity is available in Monte Cristo?,fire_station
+147,What amenity is present in Clear Creek Fire Station?,fire_station
+148,What amenity can be found at Saint Anthonys Church and School?,place_of_worship
+149,What amenity is featured at Baja Fresh?,fast_food
+150,What amenity can be found in Jersey Mike's Subs?,fast_food
+151,What amenity is present in Shell?,fuel
+152,What amenity is present in Taco Bell?,fast_food
+153,What amenity is present within Pizza Hut?,restaurant
+154,What amenity is featured at Chilao?,fire_station
+155,What amenity is present within Big Tujunga Station?,fire_station
+156,What amenity is present within Sunland-Tujunga Municipal Building?,townhall
+157,What amenity can be found in kingsburg kitchen?,restaurant
+158,What amenity is present in Pasadena First Church of the Nazarene?,place_of_worship
+159,What amenity is available at Popeyes?,fast_food
+160,What amenity can be found in Petrillos Pizza?,restaurant
+161,What amenity is present within Hakata Ramen?,restaurant
+162,What amenity can be found at Mission 76?,fuel
+163,What amenity is available at Hong Yei?,restaurant
+164,What amenity is available at Fillmore Branch Ventura County Library?,library
+165,What amenity is present within Rite Aid?,pharmacy
+166,What amenity is present within Circle K?,fuel
+167,What amenity is featured at 7-Eleven?,fuel
+168,What amenity can be found in Fire Department?,fire_station
+169,What amenity can be found in Shell?,fuel
+170,What amenity is available at Fenner Camp?,prison
+171,What amenity is available in Rock n' Fish?,restaurant
+172,What amenity can be found at Big Wang's?,restaurant
+173,What amenity is available in Cafe Etc.?,restaurant
+174,What amenity can be found in Baja Fresh?,fast_food
+175,What amenity is featured at Chipotle?,fast_food
+176,What amenity can be found in Luscious Dumplings 潤豐元餃子?,restaurant
+177,What amenity is available at Jerry's Famous Deli?,restaurant
+178,What amenity is present within Bossa Nova?,restaurant
+179,What amenity is available in Gould Mesa Trail Camp?,bear_box
+180,What amenity is available in Camp Hi-Hill?,school
+181,What amenity is present in La Jolla Presbyterian?,place_of_worship
+182,What amenity is featured at Mormon Rocks?,fire_station
+183,What amenity is present within Deep Creek Hot Springs?,public_bath
+184,What amenity is available in Beverly Hills Public Library?,library
+185,What amenity can be found at Einstein Bros. Bagels?,fast_food
+186,What amenity is featured at The Wits End?,restaurant
+187,What amenity is present in The Thai Grill?,restaurant
+188,What amenity can be found at Backdoor Bakery?,cafe
+189,What amenity is available at Pizza Hut?,restaurant
+190,What amenity is available in Subway?,fast_food
+191,What amenity can be found in Chiquita's Mexican Food?,restaurant
+192,What amenity can be found in Flicks?,bar
+193,What amenity is present within Pokéz?,restaurant
+194,What amenity is present in Brand Family Gravesite?,grave_yard
+195,What amenity can be found at Acacia School?,school
+196,What amenity can be found in Academy of our Lady of Peace?,school
+197,What amenity is available in John Adams Elementary School?,school
+198,What amenity can be found in John Adams Elementary School?,school
+199,What amenity can be found at Jane Addams Elementary School?,school
+200,What amenity is featured at Aggeler High School?,school
+201,What amenity is available in Alamo School?,school
+202,What amenity is featured at Alcott Elementary School?,school
+203,What amenity is present in Aldama Elementary School?,school
+204,What amenity can be found at Aliso School?,school
+205,What amenity is present within All Saints School?,school
+206,What amenity can be found in All Souls Catholic School?,school
+207,What amenity is present within Allen Avenue Elementary School?,school
+208,What amenity is present in Ella B Allen-Ann Daly Elementary School?,school
+209,What amenity is present within Alpine Elementary School?,school
+210,What amenity can be found at Alta Loma Elementary School?,school
+211,What amenity can be found at Alta School?,school
+212,What amenity is available in Alvarado Intermediate School?,school
+213,What amenity is available in Alverno Heights Academy?,school
+214,What amenity is present in Alvin Elementary School?,school
+215,What amenity is featured at Alvord Continuation High School?,school
+216,What amenity is featured at Amar School?,school
+217,What amenity is available at Amherst School?,school
+218,What amenity can be found at William Anderson Elementary School?,school
+219,What amenity is available in Annunciation School?,school
+220,What amenity can be found in Anthony School?,school
+221,What amenity can be found in Anza School?,school
+222,What amenity can be found in Apperson Elementary School?,school
+223,What amenity is present within Aragon Avenue Elementary School?,school
+224,What amenity is featured at Arcadia Christian School?,school
+225,What amenity is present in Arizona Middle School?,school
+226,What amenity is available in Arlington Heights Elementary School?,school
+227,What amenity can be found in Arminta Elementary School?,school
+228,What amenity is present in Arroyo School?,school
+229,What amenity is present within Art Center School?,school
+230,What amenity can be found at Artesia School?,school
+231,What amenity can be found at Ascension School?,school
+232,What amenity can be found at Ascension School?,school
+233,What amenity is present within Assumption School?,school
+234,What amenity can be found in Asuncion School?,school
+235,What amenity is available in Avenue School?,school
+236,What amenity is available at Azusa Pacific University?,school
+237,What amenity can be found at Baker Elementary School?,school
+238,What amenity can be found at Jenny T Baker Elementary Shcool?,school
+239,What amenity is present in Bakersfield Junior Academy?,school
+240,What amenity is present within Baldwin Park Christian School?,school
+241,What amenity is featured at Baldwin School?,school
+242,What amenity is available in Baldwin Stocker Elementary School?,school
+243,What amenity is available in Cajon Valley Union School District?,school
+244,What amenity can be found at Bancroft Community School?,school
+245,What amenity is available at Banning School?,school
+246,What amenity is available in Baptist Day School?,school
+247,What amenity is present in Baptist Day School?,school
+248,What amenity can be found at Baptist Theological Seminary?,school
+249,What amenity can be found at Barbara Webster Elementary School?,school
+250,What amenity is present in Barrett School?,school

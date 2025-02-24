@@ -1,0 +1,602 @@
+{
+    "1": {
+        "Hidden Springs State Forest": {
+            "osm_id": -17048617,
+            "latitude": 39.323973718400794,
+            "longitude": -88.68080816282531
+        },
+        "Sylvan": {
+            "osm_id": 354240735,
+            "latitude": 42.28668640050567,
+            "longitude": -89.028385
+        }
+    },
+    "2": {
+        "Hidden Springs State Forest": {
+            "osm_id": -17048617,
+            "latitude": 39.30640702681819,
+            "longitude": -88.71098341732623
+        },
+        "Ignite Gaming": {
+            "osm_id": 7897359809,
+            "latitude": 41.94216890048188,
+            "longitude": -87.702122
+        }
+    },
+    "4": {
+        "Camp Robert Drake": {
+            "osm_id": -17046351,
+            "latitude": 40.09320174266178,
+            "longitude": -87.75429004389112
+        },
+        "American Apparel and Promotions": {
+            "osm_id": 5229539676,
+            "latitude": 42.17553190049859,
+            "longitude": -88.3063217
+        }
+    },
+    "7": {
+        "Collins High School": {
+            "osm_id": -17018514,
+            "latitude": 41.86398032438237,
+            "longitude": -87.7007356681934
+        },
+        "Jeffrey's Meat Market": {
+            "osm_id": 6042657756,
+            "latitude": 39.840442900245485,
+            "longitude": -88.9728816
+        }
+    },
+    "8": {
+        "McCormick Tribune Campus Center": {
+            "osm_id": -17010865,
+            "latitude": 41.835620981767406,
+            "longitude": -87.62588733490753
+        },
+        "Freeburg Public Library": {
+            "osm_id": 5604558171,
+            "latitude": 38.42133270004208,
+            "longitude": -89.9106064
+        }
+    },
+    "9": {
+        "Perlstein Hall": {
+            "osm_id": -17010864,
+            "latitude": 41.83547854852913,
+            "longitude": -87.62714583594168
+        },
+        "Elks Lodge": {
+            "osm_id": 11074283510,
+            "latitude": 39.755859100233785,
+            "longitude": -89.5893212
+        }
+    },
+    "10": {
+        "Am\u00f4wa Forest Preserve": {
+            "osm_id": -16949918,
+            "latitude": 41.5394220100674,
+            "longitude": -90.36012311625801
+        },
+        "Carlyle Lake Wildlife Management Area": {
+            "osm_id": 7787343969,
+            "latitude": 38.842989400103136,
+            "longitude": -89.19313939999999
+        }
+    },
+    "13": {
+        "Kankakee Sands in Illinois": {
+            "osm_id": -16948565,
+            "latitude": 41.07314965265842,
+            "longitude": -87.66588277310582
+        },
+        "Tail Command": {
+            "osm_id": 10633496476,
+            "latitude": 39.76479730023502,
+            "longitude": -89.61921619999998
+        }
+    },
+    "14": {
+        "Holiday Inn Chicago Elk Grove": {
+            "osm_id": -16918724,
+            "latitude": 42.01064700519514,
+            "longitude": -87.96064032681835
+        },
+        "Greyhound Bus Station": {
+            "osm_id": 6113607814,
+            "latitude": 39.800788600240004,
+            "longitude": -89.64101709999998
+        }
+    },
+    "16": {
+        "Unincorporated": {
+            "osm_id": -16917658,
+            "latitude": 41.96498652702481,
+            "longitude": -87.79293611713719
+        },
+        "Freeburg City Hall": {
+            "osm_id": 368070152,
+            "latitude": 38.42532770004265,
+            "longitude": -89.91093619999998
+        }
+    },
+    "18": {
+        "Unincorporatred": {
+            "osm_id": -16917657,
+            "latitude": 42.10459326319238,
+            "longitude": -87.86268773234191
+        },
+        "Villa Maria Retreat Center": {
+            "osm_id": 8176776396,
+            "latitude": 39.702541700226334,
+            "longitude": -89.59284379999998
+        }
+    },
+    "19": {
+        "Unincorporated": {
+            "osm_id": -16917125,
+            "latitude": 41.80374085844174,
+            "longitude": -87.76739421282639
+        },
+        "St. Benedict's Abbey": {
+            "osm_id": 5187779632,
+            "latitude": 42.497508900517474,
+            "longitude": -88.07325850000001
+        }
+    },
+    "20": {
+        "Unincorporated": {
+            "osm_id": -16917116,
+            "latitude": 42.09071970893309,
+            "longitude": -87.86160085254978
+        },
+        "Deja Vu Showgirls": {
+            "osm_id": 7148320658,
+            "latitude": 39.75680110023389,
+            "longitude": -89.6178186
+        }
+    },
+    "22": {
+        "Veterans Memorial": {
+            "osm_id": -16900616,
+            "latitude": 40.901341859170856,
+            "longitude": -89.04020357066867
+        },
+        "Walker\u2019s Bluff Casino Resort": {
+            "osm_id": 11150664894,
+            "latitude": 37.80254169995441,
+            "longitude": -89.1501728
+        }
+    },
+    "23": {
+        "Boulder Hill": {
+            "osm_id": -16897890,
+            "latitude": 41.71127829697472,
+            "longitude": -88.33524259198633
+        },
+        "Cedar Ridge Health and Rehabilitation Center": {
+            "osm_id": 2173789111,
+            "latitude": 38.599250600067776,
+            "longitude": -89.8212912
+        }
+    },
+    "25": {
+        "St. Adalbert Cemetery": {
+            "osm_id": -16874655,
+            "latitude": 42.00444113595434,
+            "longitude": -87.79767865587168
+        },
+        "West Side Music Center": {
+            "osm_id": 4837604121,
+            "latitude": 41.523416300446115,
+            "longitude": -88.10647649999999
+        }
+    },
+    "26": {
+        "St. Adalbert Cemetery": {
+            "osm_id": -16874655,
+            "latitude": 42.004890397184575,
+            "longitude": -87.80362286509067
+        },
+        "Brussels Grade School": {
+            "osm_id": 6751165015,
+            "latitude": 38.94710450011824,
+            "longitude": -90.58789179999998
+        }
+    },
+    "27": {
+        "Left Coast Food + Juice": {
+            "osm_id": -16858142,
+            "latitude": 41.93399800822838,
+            "longitude": -87.66099753686791
+        },
+        "Coinstar": {
+            "osm_id": 9296525108,
+            "latitude": 39.81860070024246,
+            "longitude": -88.88257349999999
+        }
+    },
+    "28": {
+        "Shiloh Park Golf Course": {
+            "osm_id": -16843229,
+            "latitude": 42.45230626496971,
+            "longitude": -87.83674113025528
+        },
+        "Crash Investigation Site": {
+            "osm_id": 10973259297,
+            "latitude": 42.23333760050235,
+            "longitude": -88.89693979999998
+        }
+    },
+    "29": {
+        "Shiloh Park Golf Course": {
+            "osm_id": -16843229,
+            "latitude": 42.44894203829796,
+            "longitude": -87.8370086164371
+        },
+        "Elks Lodge": {
+            "osm_id": 11074283510,
+            "latitude": 39.755859100233785,
+            "longitude": -89.5893212
+        }
+    },
+    "30": {
+        "Evergreen Cemetery": {
+            "osm_id": -16841599,
+            "latitude": 41.73627746291122,
+            "longitude": -87.7089378242995
+        },
+        "Dunkin';Baskin-Robbins": {
+            "osm_id": 9940043100,
+            "latitude": 41.922185600480326,
+            "longitude": -87.6945575
+        }
+    },
+    "31": {
+        "Evergreen Cemetery": {
+            "osm_id": -16841599,
+            "latitude": 41.73173264790288,
+            "longitude": -87.7072192827221
+        },
+        "Sangamon County Circuit Clerk": {
+            "osm_id": 1432681547,
+            "latitude": 39.8000307002399,
+            "longitude": -89.6433277
+        }
+    },
+    "32": {
+        "Casey Fork Subimpoundment Dam": {
+            "osm_id": -16816138,
+            "latitude": 38.1961766073515,
+            "longitude": -88.9281095227809
+        },
+        "Elks Lodge": {
+            "osm_id": 11074283510,
+            "latitude": 39.755859100233785,
+            "longitude": -89.5893212
+        }
+    },
+    "33": {
+        "Sagawau Canyon Nature Preserve": {
+            "osm_id": -16813059,
+            "latitude": 41.69069394512651,
+            "longitude": -87.92173247912196
+        },
+        "Crash Investigation Site": {
+            "osm_id": 10973259297,
+            "latitude": 42.23333760050235,
+            "longitude": -88.89693979999998
+        }
+    },
+    "34": {
+        "Sagawau Canyon Nature Preserve": {
+            "osm_id": -16813059,
+            "latitude": 41.68605031195014,
+            "longitude": -87.9257761615666
+        },
+        "Valmeyer Police Department": {
+            "osm_id": 1683811827,
+            "latitude": 38.30659800002558,
+            "longitude": -90.2769384
+        }
+    },
+    "35": {
+        "Bowes Creek Country Club": {
+            "osm_id": -16795579,
+            "latitude": 41.99661630172497,
+            "longitude": -88.3837210354604
+        },
+        "Envision Dance": {
+            "osm_id": 10968507263,
+            "latitude": 41.78466960046927,
+            "longitude": -88.1619244
+        }
+    },
+    "36": {
+        "Snyder Village Apartments": {
+            "osm_id": -16793007,
+            "latitude": 40.793241752362945,
+            "longitude": -89.34789155523526
+        },
+        "Endres Tavern": {
+            "osm_id": 11074283515,
+            "latitude": 39.766962500235316,
+            "longitude": -89.64123619999998
+        }
+    },
+    "37": {
+        "Snyder Village SV Center": {
+            "osm_id": -16793006,
+            "latitude": 40.79347513229836,
+            "longitude": -89.34804938051276
+        },
+        "Elks Lodge": {
+            "osm_id": 11074283510,
+            "latitude": 39.755859100233785,
+            "longitude": -89.5893212
+        }
+    },
+    "38": {
+        "Synder Village Assisted Living": {
+            "osm_id": -16793005,
+            "latitude": 40.795510705198694,
+            "longitude": -89.34913880876154
+        },
+        "Jeffrey's Meat Market": {
+            "osm_id": 6042657756,
+            "latitude": 39.840442900245485,
+            "longitude": -88.9728816
+        }
+    },
+    "39": {
+        "Snyder Village Health Center": {
+            "osm_id": -16793004,
+            "latitude": 40.792760158447905,
+            "longitude": -89.34886528873497
+        },
+        "Syl's Livery Car Service": {
+            "osm_id": 4556968972,
+            "latitude": 41.69251220046141,
+            "longitude": -87.611463
+        }
+    },
+    "41": {
+        "Meriden Township": {
+            "osm_id": -16792808,
+            "latitude": 41.584019847907875,
+            "longitude": -88.99439825845286
+        },
+        "Brussels Grade School": {
+            "osm_id": 6751165015,
+            "latitude": 38.94710450011824,
+            "longitude": -90.58789179999998
+        }
+    },
+    "42": {
+        "Mendota Township": {
+            "osm_id": -16792807,
+            "latitude": 41.58401504815486,
+            "longitude": -89.10882349379195
+        },
+        "First Aid Station": {
+            "osm_id": 4058881570,
+            "latitude": 39.83359480024454,
+            "longitude": -89.63782099999999
+        }
+    },
+    "43": {
+        "Adams Township": {
+            "osm_id": -16792800,
+            "latitude": 41.587311590676784,
+            "longitude": -88.76442082432256
+        },
+        "Salon Lotus": {
+            "osm_id": 2295226719,
+            "latitude": 42.046777200489664,
+            "longitude": -87.68238949999999
+        }
+    },
+    "46": {
+        "Randhurst Village": {
+            "osm_id": -16770340,
+            "latitude": 42.08396075481292,
+            "longitude": -87.93297524970397
+        },
+        "Julia's Banquet Center": {
+            "osm_id": 4783250261,
+            "latitude": 38.87919350010839,
+            "longitude": -90.1190704
+        }
+    },
+    "47": {
+        "Randhurst Village": {
+            "osm_id": -16770340,
+            "latitude": 42.085393243327886,
+            "longitude": -87.93130945021868
+        },
+        "Lincoln College": {
+            "osm_id": 354198002,
+            "latitude": 40.15698770028836,
+            "longitude": -89.3606515
+        }
+    },
+    "48": {
+        "Randhurst Village": {
+            "osm_id": -16770340,
+            "latitude": 42.085764325934456,
+            "longitude": -87.9318363322654
+        },
+        "Kid's Castle Learning Center III": {
+            "osm_id": 4442312175,
+            "latitude": 39.75496320023363,
+            "longitude": -89.7328819
+        }
+    },
+    "49": {
+        "Randhurst Village": {
+            "osm_id": -16770340,
+            "latitude": 42.085196809416715,
+            "longitude": -87.93258858910282
+        },
+        "Clothing Drop Box": {
+            "osm_id": 9620022189,
+            "latitude": 41.90708690047917,
+            "longitude": -87.65061799999998
+        }
+    },
+    "53": {
+        "Pontiac Township": {
+            "osm_id": -16769618,
+            "latitude": 40.88825858139128,
+            "longitude": -88.6430897533482
+        },
+        "Kim Roth - Fine Art": {
+            "osm_id": 7998504611,
+            "latitude": 41.735329700465094,
+            "longitude": -88.09917969999998
+        }
+    },
+    "54": {
+        "Oak Park": {
+            "osm_id": -16736577,
+            "latitude": 42.057420486430274,
+            "longitude": -88.12691654216079
+        },
+        "AJ's Bar and Grill": {
+            "osm_id": 6751165020,
+            "latitude": 38.94929210011856,
+            "longitude": -90.58696499999999
+        }
+    },
+    "56": {
+        "Nevada Township": {
+            "osm_id": -16736428,
+            "latitude": 41.06435913063163,
+            "longitude": -88.52802422684064
+        },
+        "Brussels Grade School": {
+            "osm_id": 6751165015,
+            "latitude": 38.94710450011824,
+            "longitude": -90.58789179999998
+        }
+    },
+    "57": {
+        "Allen Township": {
+            "osm_id": -16736401,
+            "latitude": 41.15136828797238,
+            "longitude": -88.644321871266
+        },
+        "Golden Eagle Ferry (North Dock)": {
+            "osm_id": 6751093183,
+            "latitude": 38.87149430010729,
+            "longitude": -90.56732619999998
+        }
+    },
+    "59": {
+        "Oak Ridge Marsh Nature Park": {
+            "osm_id": -16733374,
+            "latitude": 42.20297874826598,
+            "longitude": -88.09549539260048
+        },
+        "Boat Drinks": {
+            "osm_id": 9017490690,
+            "latitude": 41.860639700475474,
+            "longitude": -87.612581
+        }
+    },
+    "62": {
+        "Margreth Reimer Reservoir": {
+            "osm_id": -16720221,
+            "latitude": 42.11601859844231,
+            "longitude": -88.06016454257066
+        },
+        "Luthernen Church": {
+            "osm_id": 6898764421,
+            "latitude": 38.95337990011915,
+            "longitude": -90.5989344
+        }
+    },
+    "65": {
+        "Soldier Field": {
+            "osm_id": -16699535,
+            "latitude": 41.86233068277358,
+            "longitude": -87.61609897432082
+        },
+        "Deja Vu Showgirls": {
+            "osm_id": 7148320658,
+            "latitude": 39.75680110023389,
+            "longitude": -89.6178186
+        }
+    },
+    "68": {
+        "Soldier Field": {
+            "osm_id": -16699535,
+            "latitude": 41.86237512274969,
+            "longitude": -87.61554583585769
+        },
+        "The Chicago Tool Library": {
+            "osm_id": 10700491034,
+            "latitude": 41.886327900477525,
+            "longitude": -87.7265328
+        }
+    },
+    "69": {
+        "Long Lake": {
+            "osm_id": -16674993,
+            "latitude": 40.134551180138274,
+            "longitude": -87.72997864904156
+        },
+        "Kid's Castle Learning Center III": {
+            "osm_id": 4442312175,
+            "latitude": 39.75496320023363,
+            "longitude": -89.7328819
+        }
+    },
+    "70": {
+        "Long Lake": {
+            "osm_id": -16674993,
+            "latitude": 40.130964119321725,
+            "longitude": -87.7358568581818
+        },
+        "Blue Jay Services Inc.": {
+            "osm_id": 10005784584,
+            "latitude": 41.878074900476875,
+            "longitude": -87.8913999
+        }
+    },
+    "72": {
+        "Saratoga Township": {
+            "osm_id": -16674669,
+            "latitude": 41.41572438790275,
+            "longitude": -88.42267698256943
+        },
+        "Agora Spa": {
+            "osm_id": 1855119998,
+            "latitude": 42.034078700488756,
+            "longitude": -87.67795779999999
+        }
+    },
+    "74": {
+        "Clear Lake": {
+            "osm_id": -16671103,
+            "latitude": 40.14195668478802,
+            "longitude": -87.7387058433591
+        },
+        "Crash Investigation Site": {
+            "osm_id": 10973259297,
+            "latitude": 42.23333760050235,
+            "longitude": -88.89693979999998
+        }
+    },
+    "75": {
+        "Northville Township": {
+            "osm_id": -16663780,
+            "latitude": 41.588124131537995,
+            "longitude": -88.6594134953979
+        },
+        "Old Point Pub": {
+            "osm_id": 6751192750,
+            "latitude": 38.94833400011842,
+            "longitude": -90.58592489999998
+        }
+    }
+}

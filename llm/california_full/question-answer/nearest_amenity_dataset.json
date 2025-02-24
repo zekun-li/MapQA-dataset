@@ -1,0 +1,3002 @@
+{
+    "1": {
+        "North Dairy Mart Pond": {
+            "osm_id": -17059953,
+            "latitude": 32.55540773334014,
+            "longitude": -117.0649158856199
+        },
+        "Newport Beach Elks Lodge": {
+            "osm_id": 9364566525,
+            "latitude": 33.61965759959212,
+            "longitude": -117.92888619999998
+        }
+    },
+    "2": {
+        "Lied Lake": {
+            "osm_id": -17059910,
+            "latitude": 33.60022116334285,
+            "longitude": -116.59727594965771
+        },
+        "The Church of Jesus Christ of Latter-day Saints": {
+            "osm_id": 358841133,
+            "latitude": 34.874150199643445,
+            "longitude": -117.0217068
+        }
+    },
+    "3": {
+        "Lake Gallher": {
+            "osm_id": -17059907,
+            "latitude": 33.73877864890701,
+            "longitude": -116.73632832002578
+        },
+        "Road One Towing": {
+            "osm_id": 1415299111,
+            "latitude": 32.83176939958879,
+            "longitude": -117.1588452
+        }
+    },
+    "5": {
+        "Quail Lake": {
+            "osm_id": -17059852,
+            "latitude": 34.77204671879877,
+            "longitude": -118.74641602859413
+        },
+        "Kernville Cowork": {
+            "osm_id": 5650138922,
+            "latitude": 35.75550009971212,
+            "longitude": -118.4233727
+        }
+    },
+    "8": {
+        "Nike Missile Site LA-43C": {
+            "osm_id": -17038840,
+            "latitude": 33.712134102338574,
+            "longitude": -118.29415268542108
+        },
+        "Santa Clarita Animal Hospital - Veterinarian": {
+            "osm_id": 10060263450,
+            "latitude": 34.387949499616866,
+            "longitude": -118.53413999999997
+        }
+    },
+    "9": {
+        "East Wing": {
+            "osm_id": -17035608,
+            "latitude": 33.92796127516863,
+            "longitude": -116.81361958384463
+        },
+        "iRepair": {
+            "osm_id": 2374230583,
+            "latitude": 32.870531999588444,
+            "longitude": -117.21150029999998
+        }
+    },
+    "10": {
+        "East Wing": {
+            "osm_id": -17035608,
+            "latitude": 33.927542499791635,
+            "longitude": -116.81420675003346
+        },
+        "Garden's Elderly Care": {
+            "osm_id": 7021856791,
+            "latitude": 33.94529319960001,
+            "longitude": -117.49325499999999
+        }
+    },
+    "11": {
+        "East Wing": {
+            "osm_id": -17035608,
+            "latitude": 33.927155642757974,
+            "longitude": -116.81258166844836
+        },
+        "Road One Towing": {
+            "osm_id": 1415299111,
+            "latitude": 32.83176939958879,
+            "longitude": -117.1588452
+        }
+    },
+    "12": {
+        "East Wing": {
+            "osm_id": -17035608,
+            "latitude": 33.92726377657398,
+            "longitude": -116.8138148223113
+        },
+        "Dove Day School;South Hills Church of Christ": {
+            "osm_id": 358825067,
+            "latitude": 34.066120899603916,
+            "longitude": -117.915896
+        }
+    },
+    "13": {
+        "East Wing": {
+            "osm_id": -17035608,
+            "latitude": 33.92767438016721,
+            "longitude": -116.81312963828188
+        },
+        "Circle K": {
+            "osm_id": 10204733225,
+            "latitude": 34.8765780996436,
+            "longitude": -117.02262499999999
+        }
+    },
+    "14": {
+        "Olive View\u2013UCLA Medical Center": {
+            "osm_id": -17027769,
+            "latitude": 34.32609711657978,
+            "longitude": -118.44832368857983
+        },
+        "Imperial County Courthouse;Imperial County Law Library": {
+            "osm_id": 368167612,
+            "latitude": 32.79240879958919,
+            "longitude": -115.56323429999999
+        }
+    },
+    "15": {
+        "Knollwood United Methodist Church": {
+            "osm_id": -17023015,
+            "latitude": 34.29131576764182,
+            "longitude": -118.50241370368796
+        },
+        "Turkey Legs": {
+            "osm_id": 2822332685,
+            "latitude": 32.76468169958951,
+            "longitude": -117.2262164
+        }
+    },
+    "17": {
+        "MRCA Open Space": {
+            "osm_id": -16951260,
+            "latitude": 34.33359167993545,
+            "longitude": -118.47182032812144
+        },
+        "Semper Solaris": {
+            "osm_id": 10783775227,
+            "latitude": 35.435111899684216,
+            "longitude": -119.071569
+        }
+    },
+    "18": {
+        "Aeropuerto Internacional General Abelardo L. Rodr\u00edguez": {
+            "osm_id": -16948559,
+            "latitude": 32.54578405149552,
+            "longitude": -116.97499224178566
+        },
+        "Mellano Orthopedics": {
+            "osm_id": 10961037193,
+            "latitude": 33.80992809959627,
+            "longitude": -118.3391698
+        }
+    },
+    "20": {
+        "Surf & Sand Resort": {
+            "osm_id": -16942194,
+            "latitude": 33.53093053128742,
+            "longitude": -117.77422185172445
+        },
+        "Zoom Room": {
+            "osm_id": 9833786423,
+            "latitude": 33.86249529959764,
+            "longitude": -118.3531392
+        }
+    },
+    "21": {
+        "Surf & Sand Resort": {
+            "osm_id": -16942194,
+            "latitude": 33.53079879375097,
+            "longitude": -117.77461935780744
+        },
+        "The Anteatery": {
+            "osm_id": 11159843060,
+            "latitude": 33.65105499959271,
+            "longitude": -117.84531199999998
+        }
+    },
+    "23": {
+        "Surf & Sand Resort": {
+            "osm_id": -16942194,
+            "latitude": 33.53113139963876,
+            "longitude": -117.77452219998912
+        },
+        "Riverside Fire Department Station #7": {
+            "osm_id": 368168890,
+            "latitude": 33.943207699599945,
+            "longitude": -117.47630400000001
+        }
+    },
+    "24": {
+        "Surf & Sand Resort": {
+            "osm_id": -16942194,
+            "latitude": 33.53016190634184,
+            "longitude": -117.77392535609614
+        },
+        "Remington Hot Springs": {
+            "osm_id": 6125953137,
+            "latitude": 35.57740279969621,
+            "longitude": -118.54979510000001
+        }
+    },
+    "25": {
+        "Surf & Sand Resort": {
+            "osm_id": -16942194,
+            "latitude": 33.53057354050068,
+            "longitude": -117.77421985463397
+        },
+        "Kaiser Branch Library": {
+            "osm_id": 9420168123,
+            "latitude": 34.05049099960337,
+            "longitude": -117.49238699999997
+        }
+    },
+    "26": {
+        "Crescent Bay Inn": {
+            "osm_id": -16935774,
+            "latitude": 33.54855101122988,
+            "longitude": -117.80162493254025
+        },
+        "Cerritos Library book return": {
+            "osm_id": 5439062584,
+            "latitude": 33.866716599597744,
+            "longitude": -118.06691800000002
+        }
+    },
+    "27": {
+        "Crescent Bay Inn": {
+            "osm_id": -16935774,
+            "latitude": 33.548420475470714,
+            "longitude": -117.80167097664332
+        },
+        "iRepair": {
+            "osm_id": 2374230583,
+            "latitude": 32.870531999588444,
+            "longitude": -117.21150029999998
+        }
+    },
+    "30": {
+        "Sigma Suites": {
+            "osm_id": -16924284,
+            "latitude": 33.65345297313493,
+            "longitude": -117.80981571432477
+        },
+        "San Pedro County Courts Building": {
+            "osm_id": 368167532,
+            "latitude": 33.73918519959457,
+            "longitude": -118.28423769999999
+        }
+    },
+    "32": {
+        "Mahogany Meadows Park": {
+            "osm_id": -16864388,
+            "latitude": 33.616040846682495,
+            "longitude": -117.13133193501464
+        },
+        "Newport Beach Boat Rental": {
+            "osm_id": 4573538441,
+            "latitude": 33.60297609959183,
+            "longitude": -117.89955510000001
+        }
+    },
+    "35": {
+        "Barona Kumeyaay Band / Kwellyemak": {
+            "osm_id": -16849864,
+            "latitude": 32.913773193427716,
+            "longitude": -116.7308823075941
+        },
+        "Dove Day School;South Hills Church of Christ": {
+            "osm_id": 358825067,
+            "latitude": 34.066120899603916,
+            "longitude": -117.915896
+        }
+    },
+    "36": {
+        "Barona Kumeyaay Band / Kwellyemak": {
+            "osm_id": -16849864,
+            "latitude": 32.952084296984324,
+            "longitude": -116.84687048642624
+        },
+        "Jollibee": {
+            "osm_id": 9423788217,
+            "latitude": 35.747583699711384,
+            "longitude": -119.25003450000001
+        }
+    },
+    "38": {
+        "Barona Kumeyaay Band / Kwellyemak": {
+            "osm_id": -16849864,
+            "latitude": 32.927673991428506,
+            "longitude": -116.68261487972893
+        },
+        "California Institution for Men": {
+            "osm_id": 5892091358,
+            "latitude": 33.982834299601166,
+            "longitude": -117.68857279999996
+        }
+    },
+    "39": {
+        "Viejas Band of Kumeyaay Indians": {
+            "osm_id": -16849863,
+            "latitude": 32.92932297350399,
+            "longitude": -116.78474158046924
+        },
+        "Big Bully Turf": {
+            "osm_id": 11348229200,
+            "latitude": 32.72697269958999,
+            "longitude": -117.1646232
+        }
+    },
+    "41": {
+        "Viejas Band of Kumeyaay Indians": {
+            "osm_id": -16849863,
+            "latitude": 32.927673991428506,
+            "longitude": -116.68261487972893
+        },
+        "FedEx World Service Center": {
+            "osm_id": 2378355547,
+            "latitude": 33.83890789959701,
+            "longitude": -116.5049255
+        }
+    },
+    "42": {
+        "Viejas Band of Kumeyaay Indians": {
+            "osm_id": -16849863,
+            "latitude": 32.913773193427716,
+            "longitude": -116.7308823075941
+        },
+        "Silverado Children's Center": {
+            "osm_id": 749468244,
+            "latitude": 33.744512199594695,
+            "longitude": -117.6670489
+        }
+    },
+    "43": {
+        "Barona Off-Reservtion Trust Land": {
+            "osm_id": -16849813,
+            "latitude": 32.934196415844184,
+            "longitude": -116.88869939859083
+        },
+        "Lemonade Small World": {
+            "osm_id": 1233368367,
+            "latitude": 33.81378059959636,
+            "longitude": -117.91804979999999
+        }
+    },
+    "44": {
+        "Barona Off-Reservtion Trust Land": {
+            "osm_id": -16849813,
+            "latitude": 32.93752142453625,
+            "longitude": -116.83474792964145
+        },
+        "U-Haul Truck Rental": {
+            "osm_id": 4113561688,
+            "latitude": 33.902801399598765,
+            "longitude": -118.31722000000002
+        }
+    },
+    "45": {
+        "Barona Off-Reservtion Trust Land": {
+            "osm_id": -16849813,
+            "latitude": 32.92809615365029,
+            "longitude": -116.84361113427697
+        },
+        "Skyway cafe": {
+            "osm_id": 4843932010,
+            "latitude": 35.43485019968419,
+            "longitude": -119.0492695
+        }
+    },
+    "46": {
+        "Viejas Off-Reservation Trust Land": {
+            "osm_id": -16849711,
+            "latitude": 32.859712748782364,
+            "longitude": -116.70524936365173
+        },
+        "Law Office of Raymond Perez": {
+            "osm_id": 10936635285,
+            "latitude": 33.94066189959987,
+            "longitude": -118.13988400000001
+        }
+    },
+    "48": {
+        "Sycuan Off-Reservation Trust Land": {
+            "osm_id": -16847901,
+            "latitude": 32.79807715483529,
+            "longitude": -116.84342728054044
+        },
+        "The Sheared Sheep": {
+            "osm_id": 416100511,
+            "latitude": 33.658708099592864,
+            "longitude": -117.88542109999997
+        }
+    },
+    "49": {
+        "Sycuan Off-Reservation Trust Land": {
+            "osm_id": -16847901,
+            "latitude": 32.788393713249306,
+            "longitude": -116.84281103850222
+        },
+        "Hawthorne Plaza": {
+            "osm_id": 11386525818,
+            "latitude": 33.9213567995993,
+            "longitude": -118.3517828
+        }
+    },
+    "52": {
+        "Little Ewiiaapaayp": {
+            "osm_id": -16844209,
+            "latitude": 32.83607110579122,
+            "longitude": -116.72574365151755
+        },
+        "The Commerce Casino": {
+            "osm_id": 2573291530,
+            "latitude": 33.998295399601666,
+            "longitude": -118.1449294
+        }
+    },
+    "55": {
+        "Baker": {
+            "osm_id": -16841566,
+            "latitude": 35.2658426347944,
+            "longitude": -116.07220161520874
+        },
+        "Jumbo's Clown Room": {
+            "osm_id": 2580201199,
+            "latitude": 34.10197519960517,
+            "longitude": -118.30243099999998
+        }
+    },
+    "56": {
+        "Helendale": {
+            "osm_id": -16838077,
+            "latitude": 34.728796305726334,
+            "longitude": -117.34673985028412
+        },
+        "The Anteatery": {
+            "osm_id": 11159843060,
+            "latitude": 33.65105499959271,
+            "longitude": -117.84531199999998
+        }
+    },
+    "57": {
+        "Hidden Meadows": {
+            "osm_id": -16837460,
+            "latitude": 33.22364619313487,
+            "longitude": -117.11984645154642
+        },
+        "Turkey Legs": {
+            "osm_id": 2822332685,
+            "latitude": 32.76468169958951,
+            "longitude": -117.2262164
+        }
+    },
+    "61": {
+        "Ramona": {
+            "osm_id": -16836098,
+            "latitude": 33.047414633596475,
+            "longitude": -116.8767020040611
+        },
+        "Psychic & Astrology": {
+            "osm_id": 1158364979,
+            "latitude": 33.577811399591376,
+            "longitude": -117.7291904
+        }
+    },
+    "62": {
+        "Descanso": {
+            "osm_id": -16835985,
+            "latitude": 32.86958147032563,
+            "longitude": -116.62789490253304
+        },
+        "EagleRider": {
+            "osm_id": 7621844691,
+            "latitude": 34.67966569963181,
+            "longitude": -118.163148
+        }
+    },
+    "64": {
+        "Mount Laguna": {
+            "osm_id": -16835943,
+            "latitude": 32.87111499645193,
+            "longitude": -116.42470594649905
+        },
+        "Garden's Elderly Care": {
+            "osm_id": 7021856791,
+            "latitude": 33.94529319960001,
+            "longitude": -117.49325499999999
+        }
+    },
+    "65": {
+        "Boulevard": {
+            "osm_id": -16835023,
+            "latitude": 32.664030374570316,
+            "longitude": -116.28962055510114
+        },
+        "Hillcrest Center for the Arts": {
+            "osm_id": 3869631861,
+            "latitude": 34.18698179960833,
+            "longitude": -118.88471339999997
+        }
+    },
+    "66": {
+        "Campo": {
+            "osm_id": -16835018,
+            "latitude": 32.639453391378765,
+            "longitude": -116.47445994400047
+        },
+        "Berlitz Language Services": {
+            "osm_id": 3947031770,
+            "latitude": 34.18520449960827,
+            "longitude": -118.59623619999998
+        }
+    },
+    "68": {
+        "Eucalyptus Hills": {
+            "osm_id": -16835003,
+            "latitude": 32.885054857401,
+            "longitude": -116.94536290611885
+        },
+        "Newport Beach Boat Rental": {
+            "osm_id": 4573538441,
+            "latitude": 33.60297609959183,
+            "longitude": -117.89955510000001
+        }
+    },
+    "70": {
+        "Jamul": {
+            "osm_id": -16833535,
+            "latitude": 32.7184189723825,
+            "longitude": -116.8708881058906
+        },
+        "Joslyn Senior Center": {
+            "osm_id": 8078526032,
+            "latitude": 34.05367439960347,
+            "longitude": -117.1854694
+        }
+    },
+    "71": {
+        "Lincoln Acres": {
+            "osm_id": -16832993,
+            "latitude": 32.665220522623024,
+            "longitude": -117.07468714055983
+        },
+        "McCabe's": {
+            "osm_id": 9046292293,
+            "latitude": 34.02595209960254,
+            "longitude": -118.45756399999999
+        }
+    },
+    "72": {
+        "1st Century Bank": {
+            "osm_id": -16831471,
+            "latitude": 34.06100214961632,
+            "longitude": -118.41498285000114
+        },
+        "Locker Rooms": {
+            "osm_id": 11423245418,
+            "latitude": 33.563383299591145,
+            "longitude": -117.19891039999999
+        }
+    },
+    "74": {
+        "Hidden Springs Golf Course": {
+            "osm_id": -16828936,
+            "latitude": 33.93367046024418,
+            "longitude": -116.48225276464677
+        },
+        "Slab City Internet Caf\u00e9": {
+            "osm_id": 4930953725,
+            "latitude": 33.25816619958784,
+            "longitude": -115.45803619999998
+        }
+    },
+    "75": {
+        "Hidden Springs Golf Course": {
+            "osm_id": -16828936,
+            "latitude": 33.93596727900745,
+            "longitude": -116.4818159850931
+        },
+        "MONTCLAIR": {
+            "osm_id": 7178781085,
+            "latitude": 34.06475449960387,
+            "longitude": -117.69364539999998
+        }
+    },
+    "78": {
+        "Presidential Park": {
+            "osm_id": -16824474,
+            "latitude": 33.92111456132868,
+            "longitude": -117.41999606538252
+        },
+        "YMCA Child Care": {
+            "osm_id": 8119535703,
+            "latitude": 34.40761879961778,
+            "longitude": -118.55674370000001
+        }
+    },
+    "79": {
+        "Arlington South": {
+            "osm_id": -16824448,
+            "latitude": 33.90724368797298,
+            "longitude": -117.44256431977094
+        },
+        "The UPS Store": {
+            "osm_id": 9762983972,
+            "latitude": 33.937767299599784,
+            "longitude": -118.12944999999999
+        }
+    },
+    "81": {
+        "Arco": {
+            "osm_id": -16823926,
+            "latitude": 34.15246707528961,
+            "longitude": -118.36667901254162
+        },
+        "Palm Terrace Care Center": {
+            "osm_id": 358859668,
+            "latitude": 33.9349928995997,
+            "longitude": -117.49854889999999
+        }
+    },
+    "83": {
+        "Arlington": {
+            "osm_id": -16823882,
+            "latitude": 33.92147591990714,
+            "longitude": -117.4500342225801
+        },
+        "Joslyn Senior Center": {
+            "osm_id": 8078526032,
+            "latitude": 34.05367439960347,
+            "longitude": -117.1854694
+        }
+    },
+    "85": {
+        "La Sierra South": {
+            "osm_id": -16821350,
+            "latitude": 33.89307229685095,
+            "longitude": -117.47463723551665
+        },
+        "Jumbo's Clown Room": {
+            "osm_id": 2580201199,
+            "latitude": 34.10197519960517,
+            "longitude": -118.30243099999998
+        }
+    },
+    "88": {
+        "Yucca Valley": {
+            "osm_id": -16820402,
+            "latitude": 34.12339272911236,
+            "longitude": -116.42107034873723
+        },
+        "Samuel Oschin Planetarium": {
+            "osm_id": 8473996362,
+            "latitude": 34.118119999605746,
+            "longitude": -118.300402
+        }
+    },
+    "90": {
+        "Lakeside Middle School": {
+            "osm_id": -16820119,
+            "latitude": 33.68436723275229,
+            "longitude": -117.79532658504779
+        },
+        "Depth Perceptions": {
+            "osm_id": 2910259124,
+            "latitude": 35.248580599669495,
+            "longitude": -120.6829056
+        }
+    },
+    "91": {
+        "Lakeside Middle School": {
+            "osm_id": -16820119,
+            "latitude": 33.68472007672945,
+            "longitude": -117.79552083054506
+        },
+        "Bow Willow Ranger Station": {
+            "osm_id": 11237234521,
+            "latitude": 32.84185709958869,
+            "longitude": -116.22531399999997
+        }
+    },
+    "93": {
+        "Lakeside Middle School": {
+            "osm_id": -16820119,
+            "latitude": 33.68494470405566,
+            "longitude": -117.79507396254503
+        },
+        "Sister Servants of Mary": {
+            "osm_id": 358781122,
+            "latitude": 34.203883899609,
+            "longitude": -119.18659859999995
+        }
+    },
+    "95": {
+        "Lakeside Middle School": {
+            "osm_id": -16820119,
+            "latitude": 33.68450849968481,
+            "longitude": -117.7947379999956
+        },
+        "Maginn's Pub: Beer, Whiskey & Fine Food": {
+            "osm_id": 10048784548,
+            "latitude": 34.38135359961657,
+            "longitude": -118.5292534
+        }
+    },
+    "96": {
+        "Irvine Inn": {
+            "osm_id": -16819993,
+            "latitude": 33.69898751672193,
+            "longitude": -117.82083999107621
+        },
+        "Three Sixty Dentistry: Brian Edwards DDS, Amanda Jenney DDS & Stephanie Colletta DDS": {
+            "osm_id": 10604923325,
+            "latitude": 34.37898229961646,
+            "longitude": -118.54521999999999
+        }
+    },
+    "98": {
+        "Joshua Tree": {
+            "osm_id": -16817298,
+            "latitude": 34.165270899442724,
+            "longitude": -116.27831630694992
+        },
+        "U-Haul Truck Rental": {
+            "osm_id": 4113561688,
+            "latitude": 33.902801399598765,
+            "longitude": -118.31722000000002
+        }
+    },
+    "99": {
+        "Joshua Tree Wilderness": {
+            "osm_id": -16817004,
+            "latitude": 33.912520351347034,
+            "longitude": -116.13445177025555
+        },
+        "California Lutheran University": {
+            "osm_id": 3956252089,
+            "latitude": 34.17795999960799,
+            "longitude": -118.590787
+        }
+    },
+    "101": {
+        "Joshua Tree Wilderness": {
+            "osm_id": -16817004,
+            "latitude": 34.0776650406088,
+            "longitude": -116.12958796561468
+        },
+        "Slo City Midwives": {
+            "osm_id": 5411029807,
+            "latitude": 35.49175179968891,
+            "longitude": -120.66903260000001
+        }
+    },
+    "103": {
+        "Joshua Tree Wilderness": {
+            "osm_id": -16817004,
+            "latitude": 33.989128733520424,
+            "longitude": -115.48480279495763
+        },
+        "Jollibee": {
+            "osm_id": 9423788217,
+            "latitude": 35.747583699711384,
+            "longitude": -119.25003450000001
+        }
+    },
+    "106": {
+        "Joshua Tree Wilderness": {
+            "osm_id": -16817004,
+            "latitude": 33.84626022442672,
+            "longitude": -115.30628755395637
+        },
+        "California Lutheran University": {
+            "osm_id": 3956252089,
+            "latitude": 34.17795999960799,
+            "longitude": -118.590787
+        }
+    },
+    "107": {
+        "Joshua Tree Wilderness": {
+            "osm_id": -16817004,
+            "latitude": 33.99318617616666,
+            "longitude": -116.31591839030867
+        },
+        "Big Joe's Tacos": {
+            "osm_id": 10830669067,
+            "latitude": 35.441145199684705,
+            "longitude": -119.2504094
+        }
+    },
+    "108": {
+        "Richland Community Garden": {
+            "osm_id": -16815641,
+            "latitude": 35.51669017405511,
+            "longitude": -119.2673997847689
+        },
+        "California Lutheran University": {
+            "osm_id": 3956252089,
+            "latitude": 34.17795999960799,
+            "longitude": -118.590787
+        }
+    },
+    "109": {
+        "Richland Community Garden": {
+            "osm_id": -16815641,
+            "latitude": 35.51702667186849,
+            "longitude": -119.26784870203286
+        },
+        "Garden's Elderly Care": {
+            "osm_id": 7021856791,
+            "latitude": 33.94529319960001,
+            "longitude": -117.49325499999999
+        }
+    },
+    "110": {
+        "Friends Fountain": {
+            "osm_id": -16812010,
+            "latitude": 34.149003426668195,
+            "longitude": -118.33711645812264
+        },
+        "Compass Recovery": {
+            "osm_id": 9867705716,
+            "latitude": 33.677798499593244,
+            "longitude": -117.8742432
+        }
+    },
+    "111": {
+        "Sun City": {
+            "osm_id": -16809185,
+            "latitude": 33.713795697825006,
+            "longitude": -117.20286552567232
+        },
+        "The Commerce Casino": {
+            "osm_id": 2573291530,
+            "latitude": 33.998295399601666,
+            "longitude": -118.1449294
+        }
+    },
+    "112": {
+        "Menifee": {
+            "osm_id": -16809147,
+            "latitude": 33.68795048469446,
+            "longitude": -117.1851377431323
+        },
+        "Ticketing | Check In": {
+            "osm_id": 8703874173,
+            "latitude": 33.818106499596475,
+            "longitude": -118.144696
+        }
+    },
+    "114": {
+        "Hill Section": {
+            "osm_id": -16807862,
+            "latitude": 33.88287534913464,
+            "longitude": -118.4002118349848
+        },
+        "Smog Inspection": {
+            "osm_id": 1932381740,
+            "latitude": 34.25761489961117,
+            "longitude": -118.535713
+        }
+    },
+    "115": {
+        "Cibola": {
+            "osm_id": -16785958,
+            "latitude": 33.37338386810934,
+            "longitude": -114.67920458879657
+        },
+        "WVOC High School Equivalency Preparation": {
+            "osm_id": 5154343072,
+            "latitude": 34.183025099608194,
+            "longitude": -118.5697457
+        }
+    },
+    "118": {
+        "Rancho Palos Verdes City Hall": {
+            "osm_id": -16754176,
+            "latitude": 33.74535980051419,
+            "longitude": -118.405075355388
+        },
+        "Slo City Midwives": {
+            "osm_id": 5411029807,
+            "latitude": 35.49175179968891,
+            "longitude": -120.66903260000001
+        }
+    },
+    "119": {
+        "West Hills Neighborhood Council District": {
+            "osm_id": -16741092,
+            "latitude": 34.210038761039634,
+            "longitude": -118.63629464990503
+        },
+        "Feet For Life": {
+            "osm_id": 10775232967,
+            "latitude": 35.33529939967619,
+            "longitude": -119.036795
+        }
+    },
+    "120": {
+        "Alliance Jack H. Skirball Middle School": {
+            "osm_id": -16740884,
+            "latitude": 33.93041419040365,
+            "longitude": -118.26485848631073
+        },
+        "Savers Donation Area": {
+            "osm_id": 9967053643,
+            "latitude": 33.918416099599206,
+            "longitude": -117.994005
+        }
+    },
+    "121": {
+        "Alliance Jack H. Skirball Middle School": {
+            "osm_id": -16740884,
+            "latitude": 33.93025454963387,
+            "longitude": -118.26549680000049
+        },
+        "Manhattan Actor Studio": {
+            "osm_id": 9712763321,
+            "latitude": 33.8937385995985,
+            "longitude": -118.39622780000002
+        }
+    },
+    "123": {
+        "Pala Mesa Golf Course": {
+            "osm_id": -16731384,
+            "latitude": 33.34862532512379,
+            "longitude": -117.16130877489596
+        },
+        "Berlitz Language Services": {
+            "osm_id": 3947031770,
+            "latitude": 34.18520449960827,
+            "longitude": -118.59623619999998
+        }
+    },
+    "124": {
+        "Pala Mesa Golf Course": {
+            "osm_id": -16731384,
+            "latitude": 33.3652794095884,
+            "longitude": -117.169613155502
+        },
+        "LA Community Fridge East Palmdale": {
+            "osm_id": 11134350480,
+            "latitude": 34.579845499626366,
+            "longitude": -118.12060769999998
+        }
+    },
+    "126": {
+        "Reseda Park and Recreation Center": {
+            "osm_id": -16730297,
+            "latitude": 34.18788411834481,
+            "longitude": -118.5341655990328
+        },
+        "Tesla Supercharger": {
+            "osm_id": 11380372647,
+            "latitude": 35.498091599689445,
+            "longitude": -119.5541044
+        }
+    },
+    "127": {
+        "Camposanto": {
+            "osm_id": -16706942,
+            "latitude": 34.27413916522707,
+            "longitude": -118.46197461074848
+        },
+        "West Valley Occupational Center": {
+            "osm_id": 3847446108,
+            "latitude": 34.183861699608215,
+            "longitude": -118.5695414
+        }
+    },
+    "130": {
+        "Woodland Hills Country Club": {
+            "osm_id": -16703152,
+            "latitude": 34.154503597721884,
+            "longitude": -118.59341636637257
+        },
+        "Calico High School": {
+            "osm_id": 358841127,
+            "latitude": 34.86123449964262,
+            "longitude": -116.88989099999998
+        }
+    },
+    "132": {
+        "Baldy Mesa Solar": {
+            "osm_id": -16702962,
+            "latitude": 34.619563824736076,
+            "longitude": -117.45564454324271
+        },
+        "Hillcrest Center for the Arts": {
+            "osm_id": 3869631861,
+            "latitude": 34.18698179960833,
+            "longitude": -118.88471339999997
+        }
+    },
+    "133": {
+        "Baldy Mesa Solar": {
+            "osm_id": -16702962,
+            "latitude": 34.608664452066634,
+            "longitude": -117.45245910374099
+        },
+        "San Pedro County Courts Building": {
+            "osm_id": 368167532,
+            "latitude": 33.73918519959457,
+            "longitude": -118.28423769999999
+        }
+    },
+    "134": {
+        "Baldy Mesa Solar": {
+            "osm_id": -16702962,
+            "latitude": 34.62334614612801,
+            "longitude": -117.47553004029555
+        },
+        "Camarillo City Hall": {
+            "osm_id": 368171721,
+            "latitude": 34.222807099609746,
+            "longitude": -119.0516609
+        }
+    },
+    "135": {
+        "Baldy Mesa Solar": {
+            "osm_id": -16702962,
+            "latitude": 34.61018483762879,
+            "longitude": -117.4555380456452
+        },
+        "Pet Pharmacy": {
+            "osm_id": 9592778044,
+            "latitude": 34.04420969960316,
+            "longitude": -118.37651259999997
+        }
+    },
+    "136": {
+        "Baldy Mesa Solar": {
+            "osm_id": -16702962,
+            "latitude": 34.619126362846195,
+            "longitude": -117.45990401976012
+        },
+        "Remington Hot Springs": {
+            "osm_id": 6125953137,
+            "latitude": 35.57740279969621,
+            "longitude": -118.54979510000001
+        }
+    },
+    "137": {
+        "Estrella Solar": {
+            "osm_id": -16702881,
+            "latitude": 34.81656158838168,
+            "longitude": -118.29457401070744
+        },
+        "HueHue Pronto a Guatemala": {
+            "osm_id": 3936731660,
+            "latitude": 34.2012197996089,
+            "longitude": -118.601037
+        }
+    },
+    "138": {
+        "Estrella Solar": {
+            "osm_id": -16702881,
+            "latitude": 34.80914810795803,
+            "longitude": -118.31909982644719
+        },
+        "Claremont Chefs Academy": {
+            "osm_id": 7020769177,
+            "latitude": 34.09413919960488,
+            "longitude": -117.72118930000002
+        }
+    },
+    "139": {
+        "Mesquite Dry Lake": {
+            "osm_id": -16700007,
+            "latitude": 35.71637774263675,
+            "longitude": -115.58494372246236
+        },
+        "Max Karaoke": {
+            "osm_id": 8461651389,
+            "latitude": 34.045430799603196,
+            "longitude": -118.2383398
+        }
+    },
+    "140": {
+        "Etiwanda Conservation Basins": {
+            "osm_id": -16699463,
+            "latitude": 34.07280128880012,
+            "longitude": -117.52289167202613
+        },
+        "Sister Servants of Mary": {
+            "osm_id": 358781122,
+            "latitude": 34.203883899609,
+            "longitude": -119.18659859999995
+        }
+    },
+    "141": {
+        "Etiwanda Conservation Basins": {
+            "osm_id": -16699463,
+            "latitude": 34.07219659333599,
+            "longitude": -117.52289515018599
+        },
+        "Savers Donation Area": {
+            "osm_id": 9967053643,
+            "latitude": 33.918416099599206,
+            "longitude": -117.994005
+        }
+    },
+    "142": {
+        "Etiwanda Conservation Basins": {
+            "osm_id": -16699463,
+            "latitude": 34.07490755008491,
+            "longitude": -117.52286661923453
+        },
+        "Coinstar": {
+            "osm_id": 9407927222,
+            "latitude": 33.890655999598415,
+            "longitude": -117.5175571
+        }
+    },
+    "143": {
+        "Etiwanda Conservation Basins": {
+            "osm_id": -16699463,
+            "latitude": 34.074278685871754,
+            "longitude": -117.52292588433647
+        },
+        "Mostly Saxes": {
+            "osm_id": 8122192761,
+            "latitude": 34.40381999961761,
+            "longitude": -118.54513429999997
+        }
+    },
+    "146": {
+        "Raceway Solar": {
+            "osm_id": -16693904,
+            "latitude": 34.84579204631413,
+            "longitude": -118.28220172355118
+        },
+        "Stanley": {
+            "osm_id": 1316828438,
+            "latitude": 33.80531859959615,
+            "longitude": -117.91841799999997
+        }
+    },
+    "148": {
+        "Bevel Apartments": {
+            "osm_id": -16691400,
+            "latitude": 32.745201824042574,
+            "longitude": -117.2027996789861
+        },
+        "Prometric Testing Center": {
+            "osm_id": 11212540644,
+            "latitude": 33.98963269960138,
+            "longitude": -118.38007619999998
+        }
+    },
+    "149": {
+        "Bell Canyon": {
+            "osm_id": -16687017,
+            "latitude": 34.20687726061181,
+            "longitude": -118.68718312721371
+        },
+        "Vapor": {
+            "osm_id": 3171373183,
+            "latitude": 32.67937059959067,
+            "longitude": -117.12017169999999
+        }
+    },
+    "150": {
+        "SSFL South Buffer": {
+            "osm_id": -16687016,
+            "latitude": 34.22038065096631,
+            "longitude": -118.69005862635862
+        },
+        "Gould Mesa Trail Camp": {
+            "osm_id": 351493860,
+            "latitude": 34.22192679960971,
+            "longitude": -118.17833579999999
+        }
+    },
+    "153": {
+        "Box Canyon": {
+            "osm_id": -16686968,
+            "latitude": 34.249642920138356,
+            "longitude": -118.64606284306635
+        },
+        "Chevron": {
+            "osm_id": 1224094960,
+            "latitude": 34.06938599960402,
+            "longitude": -118.028137
+        }
+    },
+    "154": {
+        "Oak Park": {
+            "osm_id": -16686515,
+            "latitude": 34.18245110322445,
+            "longitude": -118.76779096861135
+        },
+        "Ciara Dance Studio": {
+            "osm_id": 3956252097,
+            "latitude": 34.17645349960794,
+            "longitude": -118.59368780000001
+        }
+    },
+    "155": {
+        "Lynn Ranch": {
+            "osm_id": -16686419,
+            "latitude": 34.19543766597399,
+            "longitude": -118.9010093322205
+        },
+        "Island Packers": {
+            "osm_id": 1401732097,
+            "latitude": 34.24417909961061,
+            "longitude": -119.265294
+        }
+    },
+    "156": {
+        "Rolling Oaks Ranch": {
+            "osm_id": -16686342,
+            "latitude": 34.170530833782685,
+            "longitude": -118.86495391732306
+        },
+        "YMCA Child Care": {
+            "osm_id": 8119535703,
+            "latitude": 34.40761879961778,
+            "longitude": -118.55674370000001
+        }
+    },
+    "157": {
+        "Casa Conejo": {
+            "osm_id": -16686243,
+            "latitude": 34.18471159348119,
+            "longitude": -118.94453786091985
+        },
+        "Chevron": {
+            "osm_id": 1224094960,
+            "latitude": 34.06938599960402,
+            "longitude": -118.028137
+        }
+    },
+    "159": {
+        "76": {
+            "osm_id": -16686112,
+            "latitude": 34.20077634344777,
+            "longitude": -118.518809374767
+        },
+        "Mostly Saxes": {
+            "osm_id": 8122192761,
+            "latitude": 34.40381999961761,
+            "longitude": -118.54513429999997
+        }
+    },
+    "160": {
+        "76": {
+            "osm_id": -16686112,
+            "latitude": 34.200765045566804,
+            "longitude": -118.5189915250103
+        },
+        "Road One Towing": {
+            "osm_id": 1415299111,
+            "latitude": 32.83176939958879,
+            "longitude": -117.1588452
+        }
+    },
+    "161": {
+        "Anteater Recreation Center": {
+            "osm_id": -16676405,
+            "latitude": 33.64235473737766,
+            "longitude": -117.82604448301863
+        },
+        "Popcorn Small World": {
+            "osm_id": 2149453148,
+            "latitude": 33.813628999596354,
+            "longitude": -117.9179845
+        }
+    },
+    "163": {
+        "Edwards Air Force Base": {
+            "osm_id": -16664742,
+            "latitude": 34.90457148096839,
+            "longitude": -117.92951284461545
+        },
+        "Mostly Saxes": {
+            "osm_id": 8122192761,
+            "latitude": 34.40381999961761,
+            "longitude": -118.54513429999997
+        }
+    },
+    "164": {
+        "Cagney Ranch Estates": {
+            "osm_id": -16640437,
+            "latitude": 34.29538572289961,
+            "longitude": -118.53622679616362
+        },
+        "Feet For Life": {
+            "osm_id": 10775232967,
+            "latitude": 35.33529939967619,
+            "longitude": -119.036795
+        }
+    },
+    "168": {
+        "Northridge View Estates": {
+            "osm_id": -16618870,
+            "latitude": 34.28065549667352,
+            "longitude": -118.53234348802069
+        },
+        "Ventura County Animal Services": {
+            "osm_id": 8837454173,
+            "latitude": 34.209302699609225,
+            "longitude": -119.08539000000002
+        }
+    },
+    "170": {
+        "Ocean View Hills": {
+            "osm_id": -16617118,
+            "latitude": 32.58705862414441,
+            "longitude": -117.02505722831464
+        },
+        "Prometric Testing Center": {
+            "osm_id": 11212540644,
+            "latitude": 33.98963269960138,
+            "longitude": -118.38007619999998
+        }
+    },
+    "172": {
+        "Santa Felicia Dam": {
+            "osm_id": -16551265,
+            "latitude": 34.460949907110894,
+            "longitude": -118.75170393119136
+        },
+        "Big Bully Turf": {
+            "osm_id": 11348229200,
+            "latitude": 32.72697269958999,
+            "longitude": -117.1646232
+        }
+    },
+    "175": {
+        "Southwest Industrial Park": {
+            "osm_id": -16529113,
+            "latitude": 34.04056923570105,
+            "longitude": -117.5154299951267
+        },
+        "San Pedro County Courts Building": {
+            "osm_id": 368167532,
+            "latitude": 33.73918519959457,
+            "longitude": -118.28423769999999
+        }
+    },
+    "176": {
+        "Coyote Canyon": {
+            "osm_id": -16529059,
+            "latitude": 34.16245594387841,
+            "longitude": -117.47380348471312
+        },
+        "Kern County Sherrif's Department": {
+            "osm_id": 3247328166,
+            "latitude": 35.420290399683,
+            "longitude": -119.0478725
+        }
+    },
+    "177": {
+        "Elsmere Canyon": {
+            "osm_id": -16529017,
+            "latitude": 34.33404325046171,
+            "longitude": -118.48936314754012
+        },
+        "Zoom Room": {
+            "osm_id": 9833786423,
+            "latitude": 33.86249529959764,
+            "longitude": -118.3531392
+        }
+    },
+    "178": {
+        "Elsmere Canyon": {
+            "osm_id": -16529017,
+            "latitude": 34.34439363155202,
+            "longitude": -118.48847250497809
+        },
+        "Newbury Park Bike Shop": {
+            "osm_id": 3843852265,
+            "latitude": 34.1834729996082,
+            "longitude": -118.9150585
+        }
+    },
+    "179": {
+        "Whitney Canyon Park": {
+            "osm_id": -16528940,
+            "latitude": 34.3659244397138,
+            "longitude": -118.49948529814806
+        },
+        "Chevron": {
+            "osm_id": 1224094960,
+            "latitude": 34.06938599960402,
+            "longitude": -118.028137
+        }
+    },
+    "180": {
+        "Whitney Canyon Park": {
+            "osm_id": -16528940,
+            "latitude": 34.36309296110283,
+            "longitude": -118.48217610430943
+        },
+        "Cerritos Library book return": {
+            "osm_id": 5439062584,
+            "latitude": 33.866716599597744,
+            "longitude": -118.06691800000002
+        }
+    },
+    "184": {
+        "Basin 4": {
+            "osm_id": -16468952,
+            "latitude": 34.25850621519568,
+            "longitude": -118.44927035132766
+        },
+        "Remington Hot Springs": {
+            "osm_id": 6125953137,
+            "latitude": 35.57740279969621,
+            "longitude": -118.54979510000001
+        }
+    },
+    "186": {
+        "Basin 2": {
+            "osm_id": -16468951,
+            "latitude": 34.2553468215458,
+            "longitude": -118.4469765024129
+        },
+        "Compass Recovery": {
+            "osm_id": 9867705716,
+            "latitude": 33.677798499593244,
+            "longitude": -117.8742432
+        }
+    },
+    "187": {
+        "Burbank Bridge (L.A. River)": {
+            "osm_id": -16466868,
+            "latitude": 34.17076912387341,
+            "longitude": -118.47786697450996
+        },
+        "Newbury Park Bike Shop": {
+            "osm_id": 3843852265,
+            "latitude": 34.1834729996082,
+            "longitude": -118.9150585
+        }
+    },
+    "190": {
+        "San Diego-La Jolla Underwater Park": {
+            "osm_id": -16466267,
+            "latitude": 32.916456650349154,
+            "longitude": -117.27572896848784
+        },
+        "Claremont Chefs Academy": {
+            "osm_id": 7020769177,
+            "latitude": 34.09413919960488,
+            "longitude": -117.72118930000002
+        }
+    },
+    "191": {
+        "Hole #2 Fairway": {
+            "osm_id": -16463180,
+            "latitude": 33.162435716969476,
+            "longitude": -117.09184153364323
+        },
+        "Depth Perceptions": {
+            "osm_id": 2910259124,
+            "latitude": 35.248580599669495,
+            "longitude": -120.6829056
+        }
+    },
+    "193": {
+        "Hole #1 fairway": {
+            "osm_id": -16463178,
+            "latitude": 33.164465546367374,
+            "longitude": -117.09119880220759
+        },
+        "Sister Servants of Mary": {
+            "osm_id": 358781122,
+            "latitude": 34.203883899609,
+            "longitude": -119.18659859999995
+        }
+    },
+    "195": {
+        "Gates King Open Space": {
+            "osm_id": -16441916,
+            "latitude": 34.351369584016815,
+            "longitude": -118.518773923704
+        },
+        "Academy of Motion Picture Arts and Sciences Film Archive": {
+            "osm_id": 10129151216,
+            "latitude": 34.09513969960492,
+            "longitude": -118.327046
+        }
+    },
+    "196": {
+        "Table Mountain ACEC": {
+            "osm_id": -16436145,
+            "latitude": 32.65610197396277,
+            "longitude": -116.15032371547026
+        },
+        "Long Beach Civic Center": {
+            "osm_id": 9499199604,
+            "latitude": 33.76791209959522,
+            "longitude": -118.19776189999999
+        }
+    },
+    "197": {
+        "In-Ko-Pah Mountains ACEC": {
+            "osm_id": -16436119,
+            "latitude": 32.75650775945975,
+            "longitude": -116.26930751905408
+        },
+        "Disneyland Resort Casting Center": {
+            "osm_id": 1878979657,
+            "latitude": 33.81757989959645,
+            "longitude": -117.91854840000002
+        }
+    },
+    "198": {
+        "Cedar Canyon ACEC": {
+            "osm_id": -16435866,
+            "latitude": 32.626512730143574,
+            "longitude": -116.82864374060499
+        },
+        "Locker Rooms": {
+            "osm_id": 11423245418,
+            "latitude": 33.563383299591145,
+            "longitude": -117.19891039999999
+        }
+    },
+    "199": {
+        "Lake Lindero Golf Course": {
+            "osm_id": -16417006,
+            "latitude": 34.1528139984396,
+            "longitude": -118.79141564583095
+        },
+        "Kernville Cowork": {
+            "osm_id": 5650138922,
+            "latitude": 35.75550009971212,
+            "longitude": -118.4233727
+        }
+    },
+    "200": {
+        "Lake Lindero Golf Course": {
+            "osm_id": -16417006,
+            "latitude": 34.15772778291335,
+            "longitude": -118.79018144256553
+        },
+        "Ventura County Animal Services": {
+            "osm_id": 8837454173,
+            "latitude": 34.209302699609225,
+            "longitude": -119.08539000000002
+        }
+    },
+    "201": {
+        "Lake Lindero Golf Course": {
+            "osm_id": -16417006,
+            "latitude": 34.15823094867807,
+            "longitude": -118.78897609631349
+        },
+        "Samuel Oschin Planetarium": {
+            "osm_id": 8473996362,
+            "latitude": 34.118119999605746,
+            "longitude": -118.300402
+        }
+    },
+    "203": {
+        "Bluff Park": {
+            "osm_id": -16397785,
+            "latitude": 33.761643284972415,
+            "longitude": -118.15648220496809
+        },
+        "Turkey Legs": {
+            "osm_id": 2822332685,
+            "latitude": 32.76468169958951,
+            "longitude": -117.2262164
+        }
+    },
+    "204": {
+        "Bluff Park": {
+            "osm_id": -16397785,
+            "latitude": 33.762985836088056,
+            "longitude": -118.16488610520223
+        },
+        "BizMilk - Orange County Web Design": {
+            "osm_id": 10696763348,
+            "latitude": 33.8496756995973,
+            "longitude": -117.915728
+        }
+    },
+    "205": {
+        "Bluff Park": {
+            "osm_id": -16397785,
+            "latitude": 33.76355778641044,
+            "longitude": -118.16713835876735
+        },
+        "Bikes and Brew": {
+            "osm_id": 6563400006,
+            "latitude": 34.179463199608044,
+            "longitude": -118.8731156
+        }
+    },
+    "206": {
+        "Lot 10": {
+            "osm_id": -16394630,
+            "latitude": 34.28110433050064,
+            "longitude": -118.44126783633796
+        },
+        "Operating Engineers Training Trust - Devore": {
+            "osm_id": 10247989325,
+            "latitude": 34.18703639960833,
+            "longitude": -117.39826700000002
+        }
+    },
+    "207": {
+        "Lot 8": {
+            "osm_id": -16394629,
+            "latitude": 34.2813640241851,
+            "longitude": -118.44177749961946
+        },
+        "U-Haul Truck Rental": {
+            "osm_id": 4113561688,
+            "latitude": 33.902801399598765,
+            "longitude": -118.31722000000002
+        }
+    },
+    "208": {
+        "Belmont Shore": {
+            "osm_id": -16393014,
+            "latitude": 33.75914891569493,
+            "longitude": -118.13655512594988
+        },
+        "Chevron": {
+            "osm_id": 560374100,
+            "latitude": 33.97662369960097,
+            "longitude": -117.90915799999998
+        }
+    },
+    "209": {
+        "Belmont Shore": {
+            "osm_id": -16393014,
+            "latitude": 33.75980169607116,
+            "longitude": -118.14870988433607
+        },
+        "The UPS Store": {
+            "osm_id": 9762983972,
+            "latitude": 33.937767299599784,
+            "longitude": -118.12944999999999
+        }
+    },
+    "210": {
+        "San Elijo Lagoon": {
+            "osm_id": -16377576,
+            "latitude": 33.01355261257058,
+            "longitude": -117.25344412396343
+        },
+        "Claremont Chefs Academy": {
+            "osm_id": 7020769177,
+            "latitude": 34.09413919960488,
+            "longitude": -117.72118930000002
+        }
+    },
+    "211": {
+        "San Elijo Lagoon": {
+            "osm_id": -16377576,
+            "latitude": 33.00842800989506,
+            "longitude": -117.27380959249882
+        },
+        "Circle K": {
+            "osm_id": 10204733225,
+            "latitude": 34.8765780996436,
+            "longitude": -117.02262499999999
+        }
+    },
+    "212": {
+        "San Elijo Lagoon": {
+            "osm_id": -16377576,
+            "latitude": 33.01216062409917,
+            "longitude": -117.27404953382718
+        },
+        "Los Angeles County Coroner": {
+            "osm_id": 855626219,
+            "latitude": 34.060452499603706,
+            "longitude": -118.21354999999997
+        }
+    },
+    "213": {
+        "San Elijo Lagoon": {
+            "osm_id": -16377576,
+            "latitude": 33.00854564107462,
+            "longitude": -117.26500469693518
+        },
+        "KKJZ 88.1 campus radio": {
+            "osm_id": 6305042926,
+            "latitude": 33.777802099595476,
+            "longitude": -118.11416970000002
+        }
+    },
+    "216": {
+        "San Elijo Lagoon": {
+            "osm_id": -16377576,
+            "latitude": 33.00746156400814,
+            "longitude": -117.26416766260532
+        },
+        "The Kitchen Station": {
+            "osm_id": 11361225234,
+            "latitude": 33.56101519959111,
+            "longitude": -117.21188019999998
+        }
+    },
+    "218": {
+        "Lot 4": {
+            "osm_id": -16376877,
+            "latitude": 34.282451561407164,
+            "longitude": -118.44028587967361
+        },
+        "West LA Academy of Dance": {
+            "osm_id": 11136786443,
+            "latitude": 34.038646399602975,
+            "longitude": -118.46722570000001
+        }
+    },
+    "219": {
+        "San Fernando Mall": {
+            "osm_id": -16371842,
+            "latitude": 34.28285826725139,
+            "longitude": -118.44154818632875
+        },
+        "Road One Towing": {
+            "osm_id": 1415299111,
+            "latitude": 32.83176939958879,
+            "longitude": -117.1588452
+        }
+    },
+    "222": {
+        "Arco": {
+            "osm_id": -16339761,
+            "latitude": 34.257433674282076,
+            "longitude": -118.45386533652047
+        },
+        "Taft Senior Quad Stage": {
+            "osm_id": 6268995822,
+            "latitude": 34.168856499607635,
+            "longitude": -118.57164299999997
+        }
+    },
+    "223": {
+        "Arco": {
+            "osm_id": -16339761,
+            "latitude": 34.25754687687877,
+            "longitude": -118.45406310010085
+        },
+        "Slab City Internet Caf\u00e9": {
+            "osm_id": 4930953725,
+            "latitude": 33.25816619958784,
+            "longitude": -115.45803619999998
+        }
+    },
+    "225": {
+        "Recreation Park 9 Golf Course": {
+            "osm_id": -16318153,
+            "latitude": 33.774395129814565,
+            "longitude": -118.13166948263866
+        },
+        "Guest Services": {
+            "osm_id": 9976015511,
+            "latitude": 33.61606619959205,
+            "longitude": -117.87495129999998
+        }
+    },
+    "229": {
+        "El Monte": {
+            "osm_id": -16310540,
+            "latitude": 34.07394998449482,
+            "longitude": -118.02907292037635
+        },
+        "Olson Cemetery": {
+            "osm_id": 358790052,
+            "latitude": 34.22667109960991,
+            "longitude": -118.86870709999998
+        }
+    },
+    "230": {
+        "Brookside Golf Club": {
+            "osm_id": -16307627,
+            "latitude": 34.176807842739315,
+            "longitude": -118.17207607991199
+        },
+        "Psychic & Astrology": {
+            "osm_id": 1158364979,
+            "latitude": 33.577811399591376,
+            "longitude": -117.7291904
+        }
+    },
+    "233": {
+        "Ponderosa Park Family Resource Center": {
+            "osm_id": -16246681,
+            "latitude": 33.795828380346414,
+            "longitude": -117.9042900087599
+        },
+        "Joslyn Senior Center": {
+            "osm_id": 8078526032,
+            "latitude": 34.05367439960347,
+            "longitude": -117.1854694
+        }
+    },
+    "237": {
+        "Oxnard Power Plant": {
+            "osm_id": -16228168,
+            "latitude": 34.195716499874855,
+            "longitude": -119.16654566666668
+        },
+        "Zipcar": {
+            "osm_id": 3835381395,
+            "latitude": 34.096835699604995,
+            "longitude": -117.71281599999999
+        }
+    },
+    "239": {
+        "Quail Springs Wetlands": {
+            "osm_id": -16207529,
+            "latitude": 33.65774246771449,
+            "longitude": -117.78106023745613
+        },
+        "BW Spa": {
+            "osm_id": 3806218331,
+            "latitude": 34.18432969960824,
+            "longitude": -118.60456379999997
+        }
+    },
+    "240": {
+        "Quail Springs Wetlands": {
+            "osm_id": -16207529,
+            "latitude": 33.65708608898806,
+            "longitude": -117.78100889750019
+        },
+        "Los Angeles County Coroner": {
+            "osm_id": 855626219,
+            "latitude": 34.060452499603706,
+            "longitude": -118.21354999999997
+        }
+    },
+    "241": {
+        "Quail Springs Wetlands": {
+            "osm_id": -16207529,
+            "latitude": 33.65642388249286,
+            "longitude": -117.78096742461813
+        },
+        "Industrial Fabrications": {
+            "osm_id": 1671166137,
+            "latitude": 34.441787199619405,
+            "longitude": -117.3990548
+        }
+    },
+    "242": {
+        "UCI Medical Center - Irvine - North Campus": {
+            "osm_id": -16180888,
+            "latitude": 33.66253753431096,
+            "longitude": -117.85534871295191
+        },
+        "7-Eleven": {
+            "osm_id": 10602942466,
+            "latitude": 33.74506179959471,
+            "longitude": -117.87680030000001
+        }
+    },
+    "243": {
+        "UCI Medical Center - North Campus": {
+            "osm_id": -16180887,
+            "latitude": 33.66254348138616,
+            "longitude": -117.85533899569904
+        },
+        "Xai Verandah Lounge and hookah": {
+            "osm_id": 4284863789,
+            "latitude": 34.098241799605034,
+            "longitude": -118.35696999999999
+        }
+    },
+    "244": {
+        "Alsace LA": {
+            "osm_id": -16170350,
+            "latitude": 34.032170278771304,
+            "longitude": -118.35509748599074
+        },
+        "The Anteatery": {
+            "osm_id": 11159843060,
+            "latitude": 33.65105499959271,
+            "longitude": -117.84531199999998
+        }
+    },
+    "245": {
+        "Calico Estates": {
+            "osm_id": -16153669,
+            "latitude": 35.25514212120348,
+            "longitude": -116.70581534967238
+        },
+        "Riverside University Health System - Arlington Mental Health Facility": {
+            "osm_id": 943239969,
+            "latitude": 33.919096299599225,
+            "longitude": -117.4597252
+        }
+    },
+    "246": {
+        "Calico Estates": {
+            "osm_id": -16153669,
+            "latitude": 35.25129254046302,
+            "longitude": -116.70329276653598
+        },
+        "Locker Rooms": {
+            "osm_id": 11423245418,
+            "latitude": 33.563383299591145,
+            "longitude": -117.19891039999999
+        }
+    },
+    "248": {
+        "Huntington Beach Wetlands": {
+            "osm_id": -16137595,
+            "latitude": 33.64254435119635,
+            "longitude": -117.97499442098162
+        },
+        "BizMilk - Orange County Web Design": {
+            "osm_id": 10696763348,
+            "latitude": 33.8496756995973,
+            "longitude": -117.915728
+        }
+    },
+    "250": {
+        "Huntington Beach Wetlands": {
+            "osm_id": -16137595,
+            "latitude": 33.63892238928693,
+            "longitude": -117.9684482308346
+        },
+        "Collab&Play": {
+            "osm_id": 4474668551,
+            "latitude": 34.12344849960594,
+            "longitude": -118.254819
+        }
+    },
+    "252": {
+        "Southeast-Rio Vista YMCA": {
+            "osm_id": -16124676,
+            "latitude": 33.98807014373548,
+            "longitude": -118.17803628853038
+        },
+        "Kernville Cowork": {
+            "osm_id": 5650138922,
+            "latitude": 35.75550009971212,
+            "longitude": -118.4233727
+        }
+    },
+    "253": {
+        "The Church of Jesus Christ of Latter-day Saints": {
+            "osm_id": -16105736,
+            "latitude": 33.93244222964493,
+            "longitude": -117.92040488286693
+        },
+        "La Michoacana USA": {
+            "osm_id": 11292514363,
+            "latitude": 34.041686099603076,
+            "longitude": -117.484261
+        }
+    },
+    "256": {
+        "Culligan of Los Angeles": {
+            "osm_id": -16090679,
+            "latitude": 34.3113826068735,
+            "longitude": -118.47063575891457
+        },
+        "BizMilk - Orange County Web Design": {
+            "osm_id": 10696763348,
+            "latitude": 33.8496756995973,
+            "longitude": -117.915728
+        }
+    },
+    "257": {
+        "Saint Augustine": {
+            "osm_id": -16070874,
+            "latitude": 34.32541986749526,
+            "longitude": -118.49072308493724
+        },
+        "The Bone Adventure": {
+            "osm_id": 363637701,
+            "latitude": 33.67346539959315,
+            "longitude": -117.888343
+        }
+    },
+    "258": {
+        "Saint Augustine": {
+            "osm_id": -16070874,
+            "latitude": 34.32484375125772,
+            "longitude": -118.48985895503027
+        },
+        "The Sheared Sheep": {
+            "osm_id": 416100511,
+            "latitude": 33.658708099592864,
+            "longitude": -117.88542109999997
+        }
+    },
+    "259": {
+        "Glen Oaks": {
+            "osm_id": -16070873,
+            "latitude": 34.322423079552905,
+            "longitude": -118.49401459013762
+        },
+        "Stanley": {
+            "osm_id": 1316828438,
+            "latitude": 33.80531859959615,
+            "longitude": -117.91841799999997
+        }
+    },
+    "260": {
+        "Torrey Pines": {
+            "osm_id": -16070872,
+            "latitude": 34.32401609587846,
+            "longitude": -118.49381999401643
+        },
+        "West LA Academy of Dance": {
+            "osm_id": 11136786443,
+            "latitude": 34.038646399602975,
+            "longitude": -118.46722570000001
+        }
+    },
+    "261": {
+        "Torrey Pines": {
+            "osm_id": -16070872,
+            "latitude": 34.32331925663913,
+            "longitude": -118.49468302469438
+        },
+        "Xai Verandah Lounge and hookah": {
+            "osm_id": 4284863789,
+            "latitude": 34.098241799605034,
+            "longitude": -118.35696999999999
+        }
+    },
+    "262": {
+        "Torrey Pines": {
+            "osm_id": -16070872,
+            "latitude": 34.32483116420977,
+            "longitude": -118.49436710807284
+        },
+        "Nubia Cafe": {
+            "osm_id": 8424846081,
+            "latitude": 33.832915199596854,
+            "longitude": -117.9458116
+        }
+    },
+    "263": {
+        "Torrey Pines": {
+            "osm_id": -16070872,
+            "latitude": 34.325162699639286,
+            "longitude": -118.49351274077709
+        },
+        "Goodwill": {
+            "osm_id": 3281423161,
+            "latitude": 32.89228579958827,
+            "longitude": -117.20731350000001
+        }
+    },
+    "264": {
+        "Torrey Pines": {
+            "osm_id": -16070872,
+            "latitude": 34.32439027352539,
+            "longitude": -118.49481101634576
+        },
+        "Three Sixty Dentistry: Brian Edwards DDS, Amanda Jenney DDS & Stephanie Colletta DDS": {
+            "osm_id": 10604923325,
+            "latitude": 34.37898229961646,
+            "longitude": -118.54521999999999
+        }
+    },
+    "266": {
+        "Wilbur-Tampa Park": {
+            "osm_id": -16064922,
+            "latitude": 34.28909094939471,
+            "longitude": -118.55664252956478
+        },
+        "Compass Recovery": {
+            "osm_id": 9867705716,
+            "latitude": 33.677798499593244,
+            "longitude": -117.8742432
+        }
+    },
+    "268": {
+        "Rancho Park Golf Course": {
+            "osm_id": -16064599,
+            "latitude": 34.043806288852586,
+            "longitude": -118.41315113296187
+        },
+        "West Valley Occupational Center": {
+            "osm_id": 3847446108,
+            "latitude": 34.183861699608215,
+            "longitude": -118.5695414
+        }
+    },
+    "269": {
+        "Wilson Golf Course": {
+            "osm_id": -16036393,
+            "latitude": 34.136799900819476,
+            "longitude": -118.27898358391673
+        },
+        "Santa Clarita Animal Hospital - Veterinarian": {
+            "osm_id": 10060263450,
+            "latitude": 34.387949499616866,
+            "longitude": -118.53413999999997
+        }
+    },
+    "271": {
+        "Upper Van Norman Lake": {
+            "osm_id": -15992342,
+            "latitude": 34.30385439542865,
+            "longitude": -118.49313149276878
+        },
+        "Big Bully Turf": {
+            "osm_id": 11348229200,
+            "latitude": 32.72697269958999,
+            "longitude": -117.1646232
+        }
+    },
+    "272": {
+        "Upper Van Norman Lake": {
+            "osm_id": -15992342,
+            "latitude": 34.30590945924917,
+            "longitude": -118.49406219146874
+        },
+        "Riverside University Health System - Arlington Mental Health Facility": {
+            "osm_id": 943239969,
+            "latitude": 33.919096299599225,
+            "longitude": -117.4597252
+        }
+    },
+    "274": {
+        "Upper Van Norman Lake": {
+            "osm_id": -15992342,
+            "latitude": 34.3040392757618,
+            "longitude": -118.49139868208785
+        },
+        "Calvary Chapel Children's Church": {
+            "osm_id": 1485703432,
+            "latitude": 35.56427949969506,
+            "longitude": -121.09537529999997
+        }
+    },
+    "276": {
+        "Upper Van Norman Lake": {
+            "osm_id": -15992342,
+            "latitude": 34.30496908909018,
+            "longitude": -118.49136764294161
+        },
+        "Calico High School": {
+            "osm_id": 358841127,
+            "latitude": 34.86123449964262,
+            "longitude": -116.88989099999998
+        }
+    },
+    "277": {
+        "Upper Van Norman Lake": {
+            "osm_id": -15992342,
+            "latitude": 34.304969736309516,
+            "longitude": -118.49267340352564
+        },
+        "Semper Solaris": {
+            "osm_id": 10783775227,
+            "latitude": 35.435111899684216,
+            "longitude": -119.071569
+        }
+    },
+    "278": {
+        "Upper Van Norman Lake": {
+            "osm_id": -15992342,
+            "latitude": 34.30500625132864,
+            "longitude": -118.49403580951054
+        },
+        "Depth Perceptions": {
+            "osm_id": 2910259124,
+            "latitude": 35.248580599669495,
+            "longitude": -120.6829056
+        }
+    },
+    "280": {
+        "Bryant Street Fire Station 551": {
+            "osm_id": -15990641,
+            "latitude": 34.04631117041507,
+            "longitude": -117.03495741920729
+        },
+        "Vapor": {
+            "osm_id": 3171373183,
+            "latitude": 32.67937059959067,
+            "longitude": -117.12017169999999
+        }
+    },
+    "281": {
+        "Van Norman Lakes Reservoir": {
+            "osm_id": -15986342,
+            "latitude": 34.28013060387543,
+            "longitude": -118.48132045760381
+        },
+        "Three Sixty Dentistry: Brian Edwards DDS, Amanda Jenney DDS & Stephanie Colletta DDS": {
+            "osm_id": 10604923325,
+            "latitude": 34.37898229961646,
+            "longitude": -118.54521999999999
+        }
+    },
+    "284": {
+        "View Park-Windsor Hills": {
+            "osm_id": -15983599,
+            "latitude": 33.99556292922243,
+            "longitude": -118.34837998173639
+        },
+        "Southern Lites Collective": {
+            "osm_id": 2388988268,
+            "latitude": 32.82109229958889,
+            "longitude": -117.1493671
+        }
+    },
+    "285": {
+        "Harbor Gateway": {
+            "osm_id": -15983526,
+            "latitude": 33.85283036341835,
+            "longitude": -118.29817047512425
+        },
+        "HearUSA": {
+            "osm_id": 5309264374,
+            "latitude": 33.52267379959051,
+            "longitude": -117.687371
+        }
+    },
+    "287": {
+        "N2 Tank Farm": {
+            "osm_id": -15983514,
+            "latitude": 34.76402461979569,
+            "longitude": -120.62420908563176
+        },
+        "McCabe's": {
+            "osm_id": 9046292293,
+            "latitude": 34.02595209960254,
+            "longitude": -118.45756399999999
+        }
+    },
+    "289": {
+        "N2 Tank Farm": {
+            "osm_id": -15983514,
+            "latitude": 34.76401790662345,
+            "longitude": -120.62426278689067
+        },
+        "Daggett Post Office": {
+            "osm_id": 358841139,
+            "latitude": 34.862207699642696,
+            "longitude": -116.8861476
+        }
+    },
+    "292": {
+        "La Rambla": {
+            "osm_id": -15982207,
+            "latitude": 33.74074461122171,
+            "longitude": -118.30193465887331
+        },
+        "Palm Terrace Care Center": {
+            "osm_id": 358859668,
+            "latitude": 33.9349928995997,
+            "longitude": -117.49854889999999
+        }
+    },
+    "293": {
+        "Altadena": {
+            "osm_id": -15982136,
+            "latitude": 34.19127101213121,
+            "longitude": -118.13463648195254
+        },
+        "Vineyard Car Wash": {
+            "osm_id": 1165054545,
+            "latitude": 34.02887989960265,
+            "longitude": -117.61041029999997
+        }
+    },
+    "296": {
+        "Battery Humphreys Commander Station": {
+            "osm_id": -15966215,
+            "latitude": 32.67057932196797,
+            "longitude": -117.24147415007161
+        },
+        "The Kitchen Station": {
+            "osm_id": 11361225234,
+            "latitude": 33.56101519959111,
+            "longitude": -117.21188019999998
+        }
+    },
+    "297": {
+        "Fire Control Station": {
+            "osm_id": -15966214,
+            "latitude": 32.670421541591395,
+            "longitude": -117.2416194856947
+        },
+        "Pet Pharmacy": {
+            "osm_id": 9592778044,
+            "latitude": 34.04420969960316,
+            "longitude": -118.37651259999997
+        }
+    },
+    "301": {
+        "Building 251": {
+            "osm_id": -15909505,
+            "latitude": 32.71179607272878,
+            "longitude": -117.19897152019755
+        },
+        "Avila Beach Paddlesports": {
+            "osm_id": 4011587617,
+            "latitude": 35.172392299663805,
+            "longitude": -120.75577350000002
+        }
+    },
+    "302": {
+        "Building 251": {
+            "osm_id": -15909505,
+            "latitude": 32.71178577748266,
+            "longitude": -117.19867025840334
+        },
+        "Unplug Meditation": {
+            "osm_id": 11331644130,
+            "latitude": 34.041739599603076,
+            "longitude": -118.4707107
+        }
+    },
+    "305": {
+        "Building 252": {
+            "osm_id": -15909504,
+            "latitude": 32.711092705338494,
+            "longitude": -117.19900880334164
+        },
+        "California Lutheran University": {
+            "osm_id": 3956252089,
+            "latitude": 34.17795999960799,
+            "longitude": -118.590787
+        }
+    },
+    "307": {
+        "Fleet Weather Center San Diego": {
+            "osm_id": -15909337,
+            "latitude": 32.71094422371449,
+            "longitude": -117.20010450247598
+        },
+        "Calvary Chapel Children's Church": {
+            "osm_id": 1485703432,
+            "latitude": 35.56427949969506,
+            "longitude": -121.09537529999997
+        }
+    },
+    "308": {
+        "Building 11": {
+            "osm_id": -15909250,
+            "latitude": 32.71170243708913,
+            "longitude": -117.19575830579004
+        },
+        "CVS Pharmacy": {
+            "osm_id": 4518598637,
+            "latitude": 34.2728292996118,
+            "longitude": -118.50337999999999
+        }
+    },
+    "310": {
+        "Anacapa Canyon": {
+            "osm_id": -15907692,
+            "latitude": 34.171127812955206,
+            "longitude": -119.03357374672221
+        },
+        "Laguna Hills Mobile Home Estates": {
+            "osm_id": 150969684,
+            "latitude": 33.62307829959219,
+            "longitude": -117.72144149999997
+        }
+    },
+    "311": {
+        "Pacoima Neighborhood Council": {
+            "osm_id": -15899804,
+            "latitude": 34.265623678904,
+            "longitude": -118.40927262074857
+        },
+        "Road One Towing": {
+            "osm_id": 1415299111,
+            "latitude": 32.83176939958879,
+            "longitude": -117.1588452
+        }
+    },
+    "315": {
+        "Bait Barges": {
+            "osm_id": -15882728,
+            "latitude": 32.69382467037601,
+            "longitude": -117.23552208152465
+        },
+        "Newbury Park Bike Shop": {
+            "osm_id": 3843852265,
+            "latitude": 34.1834729996082,
+            "longitude": -118.9150585
+        }
+    },
+    "316": {
+        "Bait Barges": {
+            "osm_id": -15882728,
+            "latitude": 32.69415541985812,
+            "longitude": -117.23617625159203
+        },
+        "Calico High School": {
+            "osm_id": 358841127,
+            "latitude": 34.86123449964262,
+            "longitude": -116.88989099999998
+        }
+    },
+    "318": {
+        "Bait Barges": {
+            "osm_id": -15882728,
+            "latitude": 32.69483408780256,
+            "longitude": -117.23605659374884
+        },
+        "Chevron": {
+            "osm_id": 1224094960,
+            "latitude": 34.06938599960402,
+            "longitude": -118.028137
+        }
+    },
+    "320": {
+        "MRCA Open Space": {
+            "osm_id": -15875322,
+            "latitude": 34.26871268831847,
+            "longitude": -118.63301859750274
+        },
+        "3-Point Basketball Shoot": {
+            "osm_id": 3667906333,
+            "latitude": 34.42586649961864,
+            "longitude": -118.59852769999999
+        }
+    },
+    "321": {
+        "MRCA Open Space": {
+            "osm_id": -15875322,
+            "latitude": 34.26403426605625,
+            "longitude": -118.6326122662823
+        },
+        "BW Spa": {
+            "osm_id": 3806218331,
+            "latitude": 34.18432969960824,
+            "longitude": -118.60456379999997
+        }
+    },
+    "322": {
+        "Catalina Solar Project (Phase 2)": {
+            "osm_id": -15866775,
+            "latitude": 34.92633078834269,
+            "longitude": -118.34250051276501
+        },
+        "Locker Rooms": {
+            "osm_id": 11423245418,
+            "latitude": 33.563383299591145,
+            "longitude": -117.19891039999999
+        }
+    },
+    "324": {
+        "Catalina Solar Project (Phase 2)": {
+            "osm_id": -15866775,
+            "latitude": 34.93902642447402,
+            "longitude": -118.33126908331461
+        },
+        "Maginn's Pub: Beer, Whiskey & Fine Food": {
+            "osm_id": 10048784548,
+            "latitude": 34.38135359961657,
+            "longitude": -118.5292534
+        }
+    },
+    "325": {
+        "Reed Park": {
+            "osm_id": -15865476,
+            "latitude": 34.10999779382544,
+            "longitude": -117.43548164217395
+        },
+        "Operating Engineers Training Trust - Devore": {
+            "osm_id": 10247989325,
+            "latitude": 34.18703639960833,
+            "longitude": -117.39826700000002
+        }
+    },
+    "326": {
+        "Reed Park": {
+            "osm_id": -15865476,
+            "latitude": 34.10957306607747,
+            "longitude": -117.43546766268571
+        },
+        "Berlitz Language Services": {
+            "osm_id": 3947031770,
+            "latitude": 34.18520449960827,
+            "longitude": -118.59623619999998
+        }
+    },
+    "328": {
+        "Quarters F": {
+            "osm_id": -15855002,
+            "latitude": 32.711372882841,
+            "longitude": -117.19759111317882
+        },
+        "MONTCLAIR": {
+            "osm_id": 7178781085,
+            "latitude": 34.06475449960387,
+            "longitude": -117.69364539999998
+        }
+    },
+    "332": {
+        "Rancho Simi RPD Open Space": {
+            "osm_id": -15851549,
+            "latitude": 34.26479196987463,
+            "longitude": -118.6488016446157
+        },
+        "iRepair": {
+            "osm_id": 2374230583,
+            "latitude": 32.870531999588444,
+            "longitude": -117.21150029999998
+        }
+    },
+    "333": {
+        "Speedway Industrial District": {
+            "osm_id": -15848550,
+            "latitude": 34.07297924042034,
+            "longitude": -117.49106796137237
+        },
+        "U-Haul Truck Rental": {
+            "osm_id": 4113561688,
+            "latitude": 33.902801399598765,
+            "longitude": -118.31722000000002
+        }
+    },
+    "337": {
+        "Slover East Industrial District": {
+            "osm_id": -15848525,
+            "latitude": 34.05476405551066,
+            "longitude": -117.46035919363646
+        },
+        "West LA Academy of Dance": {
+            "osm_id": 11136786443,
+            "latitude": 34.038646399602975,
+            "longitude": -118.46722570000001
+        }
+    },
+    "338": {
+        "Slover East Industrial District": {
+            "osm_id": -15848525,
+            "latitude": 34.06053128299475,
+            "longitude": -117.46905816912889
+        },
+        "GoldMax": {
+            "osm_id": 1717372837,
+            "latitude": 32.83297729958878,
+            "longitude": -117.1530134
+        }
+    },
+    "340": {
+        "Slover East Industrial District": {
+            "osm_id": -15848525,
+            "latitude": 34.06200976407841,
+            "longitude": -117.45645827910288
+        },
+        "Collab&Play": {
+            "osm_id": 4474668551,
+            "latitude": 34.12344849960594,
+            "longitude": -118.254819
+        }
+    },
+    "341": {
+        "Slover East Industrial District": {
+            "osm_id": -15848525,
+            "latitude": 34.056958935024106,
+            "longitude": -117.469050133906
+        },
+        "Cerritos Library book return": {
+            "osm_id": 5439062584,
+            "latitude": 33.866716599597744,
+            "longitude": -118.06691800000002
+        }
+    },
+    "342": {
+        "Slover East Industrial District": {
+            "osm_id": -15848525,
+            "latitude": 34.05322093368637,
+            "longitude": -117.4560453899724
+        },
+        "Guest Services": {
+            "osm_id": 9976015511,
+            "latitude": 33.61606619959205,
+            "longitude": -117.87495129999998
+        }
+    },
+    "344": {
+        "Slover East Industrial District": {
+            "osm_id": -15848525,
+            "latitude": 34.052916174426514,
+            "longitude": -117.46907542445678
+        },
+        "Cabana at Oasis Pool": {
+            "osm_id": 8973673856,
+            "latitude": 33.808409699596226,
+            "longitude": -117.9070255
+        }
+    },
+    "345": {
+        "Slover East Industrial District": {
+            "osm_id": -15848525,
+            "latitude": 34.05938133726777,
+            "longitude": -117.46035848304068
+        },
+        "California Lutheran University": {
+            "osm_id": 3956252089,
+            "latitude": 34.17795999960799,
+            "longitude": -118.590787
+        }
+    },
+    "346": {
+        "Ecke YMCA": {
+            "osm_id": -15848340,
+            "latitude": 33.05182942742003,
+            "longitude": -117.28650300958466
+        },
+        "Kern County Sherrif's Department": {
+            "osm_id": 3247328166,
+            "latitude": 35.420290399683,
+            "longitude": -119.0478725
+        }
+    },
+    "347": {
+        "Slover Central Manufacturing / Industrial District": {
+            "osm_id": -15833140,
+            "latitude": 34.05917944177662,
+            "longitude": -117.48654996143823
+        },
+        "EagleRider": {
+            "osm_id": 7621844691,
+            "latitude": 34.67966569963181,
+            "longitude": -118.163148
+        }
+    },
+    "348": {
+        "Slover Central Manufacturing / Industrial District": {
+            "osm_id": -15833140,
+            "latitude": 34.051146200590324,
+            "longitude": -117.47797523101256
+        },
+        "Riverside Fire Department Station #7": {
+            "osm_id": 368168890,
+            "latitude": 33.943207699599945,
+            "longitude": -117.47630400000001
+        }
+    },
+    "350": {
+        "Slover Central Manufacturing / Industrial District": {
+            "osm_id": -15833140,
+            "latitude": 34.059202932563004,
+            "longitude": -117.48236328897622
+        },
+        "Circle K": {
+            "osm_id": 10204733225,
+            "latitude": 34.8765780996436,
+            "longitude": -117.02262499999999
+        }
+    },
+    "351": {
+        "Slover Central Manufacturing / Industrial District": {
+            "osm_id": -15833140,
+            "latitude": 34.05931956239586,
+            "longitude": -117.4756810735977
+        },
+        "Operating Engineers Training Trust - Devore": {
+            "osm_id": 10247989325,
+            "latitude": 34.18703639960833,
+            "longitude": -117.39826700000002
+        }
+    },
+    "352": {
+        "Slover Central Manufacturing / Industrial District": {
+            "osm_id": -15833140,
+            "latitude": 34.053766152059524,
+            "longitude": -117.48241017615422
+        },
+        "iRepair": {
+            "osm_id": 2374230583,
+            "latitude": 32.870531999588444,
+            "longitude": -117.21150029999998
+        }
+    },
+    "354": {
+        "Slover Central Manufacturing / Industrial District": {
+            "osm_id": -15833140,
+            "latitude": 34.06422968156902,
+            "longitude": -117.47761848625271
+        },
+        "Island Packers": {
+            "osm_id": 1401732097,
+            "latitude": 34.24417909961061,
+            "longitude": -119.265294
+        }
+    },
+    "358": {
+        "Freeway Industrial / Commercial District": {
+            "osm_id": -15833139,
+            "latitude": 34.064710235137866,
+            "longitude": -117.48265385257379
+        },
+        "California Lutheran University": {
+            "osm_id": 3956252089,
+            "latitude": 34.17795999960799,
+            "longitude": -118.590787
+        }
+    },
+    "359": {
+        "Freeway Industrial / Commercial District": {
+            "osm_id": -15833139,
+            "latitude": 34.06349765542962,
+            "longitude": -117.48075148680162
+        },
+        "La Michoacana USA": {
+            "osm_id": 11292514363,
+            "latitude": 34.041686099603076,
+            "longitude": -117.484261
+        }
+    },
+    "360": {
+        "Freeway Industrial / Commercial District": {
+            "osm_id": -15833139,
+            "latitude": 34.064652009032535,
+            "longitude": -117.4644502177386
+        },
+        "Jumbo's Clown Room": {
+            "osm_id": 2580201199,
+            "latitude": 34.10197519960517,
+            "longitude": -118.30243099999998
+        }
+    },
+    "361": {
+        "Freeway Industrial / Commercial District": {
+            "osm_id": -15833139,
+            "latitude": 34.06393122302639,
+            "longitude": -117.46080006488495
+        },
+        "Watermill Express": {
+            "osm_id": 2990316453,
+            "latitude": 32.819940099588905,
+            "longitude": -117.17484239999999
+        }
+    },
+    "362": {
+        "Freeway Industrial / Commercial District": {
+            "osm_id": -15833139,
+            "latitude": 34.06403195147629,
+            "longitude": -117.49770533341695
+        },
+        "Depth Perceptions": {
+            "osm_id": 2910259124,
+            "latitude": 35.248580599669495,
+            "longitude": -120.6829056
+        }
+    },
+    "363": {
+        "Slover West Industrial District": {
+            "osm_id": -15833138,
+            "latitude": 34.05920314497904,
+            "longitude": -117.49782629985218
+        },
+        "California Institution for Men": {
+            "osm_id": 5892091358,
+            "latitude": 33.982834299601166,
+            "longitude": -117.68857279999996
+        }
+    },
+    "364": {
+        "Slover West Industrial District": {
+            "osm_id": -15833138,
+            "latitude": 34.05464938201026,
+            "longitude": -117.49121125543704
+        },
+        "Newbury Park Bike Shop": {
+            "osm_id": 3843852265,
+            "latitude": 34.1834729996082,
+            "longitude": -118.9150585
+        }
+    },
+    "366": {
+        "Jurupa North Research and Development District": {
+            "osm_id": -15833019,
+            "latitude": 34.05182107950627,
+            "longitude": -117.50014696174337
+        },
+        "JT Salon": {
+            "osm_id": 369159875,
+            "latitude": 34.279979599612105,
+            "longitude": -119.29327970000001
+        }
+    },
+    "367": {
+        "Jurupa North Research and Development District": {
+            "osm_id": -15833019,
+            "latitude": 34.050129329119166,
+            "longitude": -117.48243773807637
+        },
+        "U-Haul Truck Rental": {
+            "osm_id": 4113561688,
+            "latitude": 33.902801399598765,
+            "longitude": -118.31722000000002
+        }
+    },
+    "369": {
+        "Jurupa North Research and Development District": {
+            "osm_id": -15833019,
+            "latitude": 34.050165096789435,
+            "longitude": -117.48670686208489
+        },
+        "The Anteatery": {
+            "osm_id": 11159843060,
+            "latitude": 33.65105499959271,
+            "longitude": -117.84531199999998
+        }
+    },
+    "370": {
+        "Jurupa North Research and Development District": {
+            "osm_id": -15833019,
+            "latitude": 34.04927667073884,
+            "longitude": -117.4647708713541
+        },
+        "Calvary Chapel Children's Church": {
+            "osm_id": 1485703432,
+            "latitude": 35.56427949969506,
+            "longitude": -121.09537529999997
+        }
+    },
+    "371": {
+        "Jurupa North Research and Development District": {
+            "osm_id": -15833019,
+            "latitude": 34.049316042873166,
+            "longitude": -117.45661521875954
+        },
+        "Vapor": {
+            "osm_id": 3171373183,
+            "latitude": 32.67937059959067,
+            "longitude": -117.12017169999999
+        }
+    },
+    "372": {
+        "Jurupa North Research and Development District": {
+            "osm_id": -15833019,
+            "latitude": 34.04929461929533,
+            "longitude": -117.47798836956308
+        },
+        "Newport Beach Boat Rental": {
+            "osm_id": 4573538441,
+            "latitude": 33.60297609959183,
+            "longitude": -117.89955510000001
+        }
+    },
+    "373": {
+        "Jurupa North Research and Development District": {
+            "osm_id": -15833019,
+            "latitude": 34.0528701832308,
+            "longitude": -117.49122097081445
+        },
+        "Silverado Children's Center": {
+            "osm_id": 749468244,
+            "latitude": 33.744512199594695,
+            "longitude": -117.6670489
+        }
+    },
+    "375": {
+        "Jurupa South Industrial District": {
+            "osm_id": -15833018,
+            "latitude": 34.043312742928,
+            "longitude": -117.51118495457247
+        },
+        "Hesperia/Joshua Street": {
+            "osm_id": 11000844450,
+            "latitude": 34.40620489961771,
+            "longitude": -117.39679540000002
+        }
+    },
+    "376": {
+        "Jurupa South Industrial District": {
+            "osm_id": -15833018,
+            "latitude": 34.04710943019758,
+            "longitude": -117.51110962869318
+        },
+        "Samuel Oschin Planetarium": {
+            "osm_id": 8473996362,
+            "latitude": 34.118119999605746,
+            "longitude": -118.300402
+        }
+    },
+    "377": {
+        "Jurupa South Industrial District": {
+            "osm_id": -15833018,
+            "latitude": 34.04415005196996,
+            "longitude": -117.5171812977995
+        },
+        "West Coast Surrogacy": {
+            "osm_id": 1158365038,
+            "latitude": 33.57830759959139,
+            "longitude": -117.7292293
+        }
+    },
+    "378": {
+        "Jurupa South Industrial District": {
+            "osm_id": -15833018,
+            "latitude": 34.03712389126619,
+            "longitude": -117.51123748618183
+        },
+        "HearUSA": {
+            "osm_id": 5309264374,
+            "latitude": 33.52267379959051,
+            "longitude": -117.687371
+        }
+    },
+    "380": {
+        "Jurupa South Industrial District": {
+            "osm_id": -15833018,
+            "latitude": 34.04376925869168,
+            "longitude": -117.52132674519335
+        },
+        "Collab&Play": {
+            "osm_id": 4474668551,
+            "latitude": 34.12344849960594,
+            "longitude": -118.254819
+        }
+    },
+    "382": {
+        "Ontario Ranch": {
+            "osm_id": -15829570,
+            "latitude": 34.01126221265792,
+            "longitude": -117.58664964026588
+        },
+        "CSL Rm 333 Auditorium": {
+            "osm_id": 7223295784,
+            "latitude": 32.77639119958938,
+            "longitude": -117.06887200000001
+        }
+    },
+    "383": {
+        "Ontario Ranch": {
+            "osm_id": -15829570,
+            "latitude": 34.00084344106785,
+            "longitude": -117.58878459817673
+        },
+        "WVOC High School Equivalency Preparation": {
+            "osm_id": 5154343072,
+            "latitude": 34.183025099608194,
+            "longitude": -118.5697457
+        }
+    },
+    "387": {
+        "Ontario Ranch": {
+            "osm_id": -15829570,
+            "latitude": 34.01125236393484,
+            "longitude": -117.58284731265368
+        },
+        "Guest Services": {
+            "osm_id": 9976015511,
+            "latitude": 33.61606619959205,
+            "longitude": -117.87495129999998
+        }
+    },
+    "388": {
+        "Ontario Ranch": {
+            "osm_id": -15829570,
+            "latitude": 33.98479343446884,
+            "longitude": -117.58357179118187
+        },
+        "Berlitz Language Services": {
+            "osm_id": 3947031770,
+            "latitude": 34.18520449960827,
+            "longitude": -118.59623619999998
+        }
+    },
+    "390": {
+        "Ontario Ranch": {
+            "osm_id": -15829570,
+            "latitude": 34.00282984703688,
+            "longitude": -117.57303672242837
+        },
+        "Jumbo's Clown Room": {
+            "osm_id": 2580201199,
+            "latitude": 34.10197519960517,
+            "longitude": -118.30243099999998
+        }
+    },
+    "391": {
+        "Ontario Ranch": {
+            "osm_id": -15829570,
+            "latitude": 33.98811907456253,
+            "longitude": -117.58721391154009
+        },
+        "Guest Services": {
+            "osm_id": 9976015511,
+            "latitude": 33.61606619959205,
+            "longitude": -117.87495129999998
+        }
+    }
+}

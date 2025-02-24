@@ -1,0 +1,3337 @@
+{
+    "1": {
+        "Hayama": {
+            "osm_id": 9742148508,
+            "latitude": 34.04369149960314,
+            "longitude": -118.4462718
+        },
+        "Plan Check": {
+            "osm_id": 8356082493,
+            "latitude": 34.043906699603156,
+            "longitude": -118.44599299999999
+        }
+    },
+    "2": {
+        "Surfdog's Java Hot": {
+            "osm_id": 4654147578,
+            "latitude": 33.03750839958753,
+            "longitude": -117.29282580000002
+        },
+        "Union Kitchen & Tap": {
+            "osm_id": 3744660951,
+            "latitude": 33.03785429958753,
+            "longitude": -117.2929502
+        }
+    },
+    "3": {
+        "Denise Carolyn": {
+            "osm_id": 5742849522,
+            "latitude": 34.046758099603245,
+            "longitude": -118.52546609999999
+        },
+        "The Coffee Bean & Tea Leaf": {
+            "osm_id": 5742849222,
+            "latitude": 34.04677089960325,
+            "longitude": -118.52556699999998
+        }
+    },
+    "4": {
+        "Cinespace": {
+            "osm_id": 2165639857,
+            "latitude": 34.10139249960515,
+            "longitude": -118.3285174
+        },
+        "Beso Hollywood": {
+            "osm_id": 2165639844,
+            "latitude": 34.10139359960515,
+            "longitude": -118.3283254
+        }
+    },
+    "5": {
+        "Chuze Fitness": {
+            "osm_id": 9971240961,
+            "latitude": 32.84222679958869,
+            "longitude": -116.98668559999999
+        },
+        "Gor Gai Thai Kitchen": {
+            "osm_id": 9971240962,
+            "latitude": 32.84240949958869,
+            "longitude": -116.9867678
+        }
+    },
+    "6": {
+        "University Barber Shop": {
+            "osm_id": 1775720133,
+            "latitude": 35.29452399967301,
+            "longitude": -120.6698701
+        },
+        "Scout Coffee Co.": {
+            "osm_id": 4423745891,
+            "latitude": 35.294416799673,
+            "longitude": -120.669871
+        }
+    },
+    "7": {
+        "Barsha": {
+            "osm_id": 9128373727,
+            "latitude": 33.86587999959772,
+            "longitude": -118.38722870000001
+        },
+        "El Gringo": {
+            "osm_id": 9421585733,
+            "latitude": 33.885319199598264,
+            "longitude": -118.39635379999997
+        }
+    },
+    "8": {
+        "Morado": {
+            "osm_id": 5695534787,
+            "latitude": 33.98878389960136,
+            "longitude": -118.47520099999998
+        },
+        "Pizza Pizza": {
+            "osm_id": 5695534785,
+            "latitude": 33.98889289960136,
+            "longitude": -118.47528850000002
+        }
+    },
+    "9": {
+        "Subway": {
+            "osm_id": 6835625649,
+            "latitude": 32.75253349958966,
+            "longitude": -117.2060013
+        },
+        "ZPizza": {
+            "osm_id": 1868215368,
+            "latitude": 32.76488609958951,
+            "longitude": -117.1971707
+        }
+    },
+    "10": {
+        "900 Degrees": {
+            "osm_id": 6045590141,
+            "latitude": 33.62844359959228,
+            "longitude": -117.7254541
+        },
+        "Snooty Fox": {
+            "osm_id": 677280598,
+            "latitude": 33.62820079959228,
+            "longitude": -117.7257247
+        },
+        "Baja Fish Tacos": {
+            "osm_id": 10612376229,
+            "latitude": 33.628406799592284,
+            "longitude": -117.7250994
+        }
+    },
+    "11": {
+        "Cafe Rio": {
+            "osm_id": 3008138956,
+            "latitude": 33.84914019959729,
+            "longitude": -118.143155
+        },
+        "Blaze Pizza": {
+            "osm_id": 10650234846,
+            "latitude": 33.68643899959342,
+            "longitude": -117.1682212
+        }
+    },
+    "12": {
+        "North Hollywood Interfaith Food Pantry": {
+            "osm_id": 3646962244,
+            "latitude": 34.14998879960693,
+            "longitude": -118.38728709999997
+        },
+        "First Christian Church": {
+            "osm_id": 358853766,
+            "latitude": 34.15027779960693,
+            "longitude": -118.3875
+        }
+    },
+    "13": {
+        "UCLA External Affairs": {
+            "osm_id": 4552801753,
+            "latitude": 34.05820599960363,
+            "longitude": -118.44462000000001
+        },
+        "Trimana": {
+            "osm_id": 4160746189,
+            "latitude": 34.05831299960363,
+            "longitude": -118.444579
+        }
+    },
+    "14": {
+        "Sunset & Sunset Plaza": {
+            "osm_id": 5133454794,
+            "latitude": 34.09255829960483,
+            "longitude": -118.37946499999998
+        },
+        "Wahlburgers": {
+            "osm_id": 5133454770,
+            "latitude": 34.09265079960483,
+            "longitude": -118.37955399999998
+        }
+    },
+    "15": {
+        "Scripps Performing Arts Academy": {
+            "osm_id": 10895084940,
+            "latitude": 32.93816339958795,
+            "longitude": -117.23243789999997
+        },
+        "Avis": {
+            "osm_id": 2184863600,
+            "latitude": 32.93807119958795,
+            "longitude": -117.23271199999999
+        }
+    },
+    "16": {
+        "Tobacco Leaf": {
+            "osm_id": 11292454526,
+            "latitude": 34.04916209960333,
+            "longitude": -117.43382150000001
+        },
+        "Yummys Donuts": {
+            "osm_id": 11292454523,
+            "latitude": 34.048972399603315,
+            "longitude": -117.4338162
+        },
+        "Juice It Up!": {
+            "osm_id": 11292454529,
+            "latitude": 34.04939319960334,
+            "longitude": -117.43389820000002
+        }
+    },
+    "17": {
+        "Burton": {
+            "osm_id": 9280781004,
+            "latitude": 34.015075799602194,
+            "longitude": -118.49389379999997
+        },
+        "Capital One": {
+            "osm_id": 9280781010,
+            "latitude": 34.0153398996022,
+            "longitude": -118.4936482
+        }
+    },
+    "18": {
+        "H&R Block": {
+            "osm_id": 5640792824,
+            "latitude": 33.79230009959582,
+            "longitude": -118.14196349999999
+        },
+        "Frank's Pizza Joint": {
+            "osm_id": 9366452599,
+            "latitude": 32.747393499589734,
+            "longitude": -116.9596713
+        },
+        "Subway": {
+            "osm_id": 9366452600,
+            "latitude": 32.74738429958973,
+            "longitude": -116.95960209999998
+        },
+        "Natural Delights Juice Bar": {
+            "osm_id": 9366452605,
+            "latitude": 32.74730649958973,
+            "longitude": -116.95901689999998
+        }
+    },
+    "19": {
+        "The Deck at Moonshine Flats": {
+            "osm_id": 596004653,
+            "latitude": 32.70879499959025,
+            "longitude": -117.15890600000002
+        },
+        "Meze Greek Fusion": {
+            "osm_id": 596922891,
+            "latitude": 32.70893599959024,
+            "longitude": -117.15890600000002
+        },
+        "The Broken Yolk Cafe": {
+            "osm_id": 596605690,
+            "latitude": 32.70907499959023,
+            "longitude": -117.158907
+        },
+        "Lucky's Lunch Counter": {
+            "osm_id": 2384789773,
+            "latitude": 32.70880049959025,
+            "longitude": -117.15852700000002
+        }
+    },
+    "20": {
+        "Santa Monica & 20th": {
+            "osm_id": 6280581616,
+            "latitude": 34.02845059960264,
+            "longitude": -118.48050200000002
+        },
+        "Socalo": {
+            "osm_id": 10301566273,
+            "latitude": 34.028432399602636,
+            "longitude": -118.480055
+        }
+    },
+    "21": {
+        "Wells Fargo": {
+            "osm_id": 448863567,
+            "latitude": 34.41175159961798,
+            "longitude": -119.84791300000002
+        },
+        "Redbox": {
+            "osm_id": 1437930722,
+            "latitude": 33.478358899589885,
+            "longitude": -117.1018467
+        },
+        "California Lottery": {
+            "osm_id": 1437930705,
+            "latitude": 33.47850779958989,
+            "longitude": -117.10169190000002
+        }
+    },
+    "22": {
+        "7-Eleven": {
+            "osm_id": 8891227501,
+            "latitude": 34.039804199603005,
+            "longitude": -118.46296099999999
+        },
+        "Faith Baptist Church": {
+            "osm_id": 358841053,
+            "latitude": 34.11606899960568,
+            "longitude": -116.45846379999999
+        }
+    },
+    "23": {
+        "Nordstrom Rack": {
+            "osm_id": 8309794624,
+            "latitude": 34.188938599608406,
+            "longitude": -118.32881399999997
+        },
+        "HSBC": {
+            "osm_id": 8416566138,
+            "latitude": 34.04954369960334,
+            "longitude": -118.2608963
+        }
+    },
+    "24": {
+        "Drugtown": {
+            "osm_id": 2336112464,
+            "latitude": 34.026604299602575,
+            "longitude": -118.501762
+        },
+        "Charles C Wood D D S": {
+            "osm_id": 5209121407,
+            "latitude": 34.026341499602566,
+            "longitude": -118.50202100000001
+        }
+    },
+    "25": {
+        "Happy Nails": {
+            "osm_id": 1153889720,
+            "latitude": 33.72332459959421,
+            "longitude": -117.7713776
+        },
+        "Round Table Pizza": {
+            "osm_id": 1153889726,
+            "latitude": 33.72345399959421,
+            "longitude": -117.77158139999999
+        },
+        "Gen Sushi": {
+            "osm_id": 1153889716,
+            "latitude": 33.72336489959421,
+            "longitude": -117.7714232
+        },
+        "Pan of Asia": {
+            "osm_id": 1153889723,
+            "latitude": 33.723491999594216,
+            "longitude": -117.7716351
+        }
+    },
+    "26": {
+        "Elite Barber": {
+            "osm_id": 9191852476,
+            "latitude": 34.12400889960596,
+            "longitude": -117.6715427
+        },
+        "The Bulldog Pub": {
+            "osm_id": 9191852477,
+            "latitude": 34.12401009960597,
+            "longitude": -117.6717104
+        }
+    },
+    "27": {
+        "76": {
+            "osm_id": 11383152846,
+            "latitude": 34.00270489960178,
+            "longitude": -118.26494169999998
+        },
+        "Auto wash": {
+            "osm_id": 1943701793,
+            "latitude": 34.23514169961027,
+            "longitude": -118.4746641
+        }
+    },
+    "28": {
+        "Inyokern Town Hall": {
+            "osm_id": 368171815,
+            "latitude": 35.648843499702465,
+            "longitude": -117.8142341
+        },
+        "Bethel Missionary Baptist Church": {
+            "osm_id": 358840014,
+            "latitude": 35.648843499702465,
+            "longitude": -117.81395639999998
+        }
+    },
+    "29": {
+        "Indulgence Body and Skin Care Center": {
+            "osm_id": 9278994730,
+            "latitude": 33.81838149959648,
+            "longitude": -118.38707830000001
+        },
+        "Little sister": {
+            "osm_id": 6231546697,
+            "latitude": 33.818337299596486,
+            "longitude": -118.3869093
+        }
+    },
+    "30": {
+        "UnityShoppe": {
+            "osm_id": 2509930256,
+            "latitude": 34.42369629961854,
+            "longitude": -119.70518669999997
+        },
+        "The Good Lion": {
+            "osm_id": 11211306440,
+            "latitude": 34.423776199618544,
+            "longitude": -119.7047601
+        }
+    },
+    "31": {
+        "The Butcher's Daughter": {
+            "osm_id": 4278753916,
+            "latitude": 33.99160379960145,
+            "longitude": -118.46920800000001
+        },
+        "Sweetfin": {
+            "osm_id": 10728948050,
+            "latitude": 33.991337199601425,
+            "longitude": -118.4692108
+        }
+    },
+    "32": {
+        "Fish Gaucho": {
+            "osm_id": 5272612560,
+            "latitude": 35.627667199700596,
+            "longitude": -120.6900317
+        },
+        "The Naked Fish": {
+            "osm_id": 5272586225,
+            "latitude": 35.62794689970062,
+            "longitude": -120.68988700000001
+        },
+        "Next Door Bistro": {
+            "osm_id": 5272612554,
+            "latitude": 35.6276890997006,
+            "longitude": -120.68962239999999
+        },
+        "F. McLintocks Saloon": {
+            "osm_id": 5272612562,
+            "latitude": 35.62745029970057,
+            "longitude": -120.68999580000002
+        }
+    },
+    "33": {
+        "Arizona & 5th": {
+            "osm_id": 7930410220,
+            "latitude": 34.01833079960231,
+            "longitude": -118.495907
+        },
+        "626 Night Market Mini": {
+            "osm_id": 9906973046,
+            "latitude": 34.018040099602295,
+            "longitude": -118.49570239999997
+        }
+    },
+    "34": {
+        "Attitudes Salon": {
+            "osm_id": 6296426502,
+            "latitude": 34.5879198996268,
+            "longitude": -118.145566
+        },
+        "Ginos": {
+            "osm_id": 6296426503,
+            "latitude": 34.58791479962679,
+            "longitude": -118.145849
+        }
+    },
+    "35": {
+        "Impression Hair Salon": {
+            "osm_id": 8923216721,
+            "latitude": 34.05136729960341,
+            "longitude": -118.43242850000001
+        },
+        "Tuscan Son": {
+            "osm_id": 8842968423,
+            "latitude": 34.05150999960341,
+            "longitude": -118.4322063
+        }
+    },
+    "36": {
+        "Lake Arrowhead Village (Upper) East": {
+            "osm_id": 9268882280,
+            "latitude": 34.250279799610865,
+            "longitude": -117.1899912
+        },
+        "Lake Arrowhead Post Office": {
+            "osm_id": 9364615822,
+            "latitude": 34.250196499610865,
+            "longitude": -117.1899746
+        }
+    },
+    "37": {
+        "O Sushi": {
+            "osm_id": 5438714849,
+            "latitude": 34.04742819960327,
+            "longitude": -118.44356099999997
+        },
+        "Jamba": {
+            "osm_id": 5438714848,
+            "latitude": 34.04748919960328,
+            "longitude": -118.443363
+        },
+        "Zankou Chicken": {
+            "osm_id": 5438702331,
+            "latitude": 34.047174399603264,
+            "longitude": -118.443684
+        },
+        "Al's Hot Chicken": {
+            "osm_id": 5444426621,
+            "latitude": 34.04746039960327,
+            "longitude": -118.44345699999997
+        },
+        "Fatburger": {
+            "osm_id": 5438702330,
+            "latitude": 34.047384399603274,
+            "longitude": -118.44374699999999
+        }
+    },
+    "38": {
+        "The Habit Burger Grill": {
+            "osm_id": 8579514586,
+            "latitude": 33.95246639960022,
+            "longitude": -118.1839673
+        },
+        "Wingstop": {
+            "osm_id": 9894287466,
+            "latitude": 34.095349999604935,
+            "longitude": -118.1259415
+        }
+    },
+    "39": {
+        "Katella-Harbor": {
+            "osm_id": 2138686598,
+            "latitude": 33.803138799596084,
+            "longitude": -117.9148753
+        },
+        "Walgreens": {
+            "osm_id": 10137965341,
+            "latitude": 33.80296469959609,
+            "longitude": -117.9147986
+        }
+    },
+    "40": {
+        "Laemmle Town Center 5": {
+            "osm_id": 6923629209,
+            "latitude": 34.15998409960731,
+            "longitude": -118.50769579999998
+        },
+        "Yamato": {
+            "osm_id": 4148069468,
+            "latitude": 34.159926099607304,
+            "longitude": -118.50726030000001
+        },
+        "Philly's Best": {
+            "osm_id": 4148069467,
+            "latitude": 34.16006959960731,
+            "longitude": -118.5078903
+        },
+        "Pieology Pizzeria": {
+            "osm_id": 4148069465,
+            "latitude": 34.1600021996073,
+            "longitude": -118.5075824
+        }
+    },
+    "41": {
+        "First Baptist Church of Chula Vista": {
+            "osm_id": 358859872,
+            "latitude": 32.64256349959124,
+            "longitude": -117.08899730000002
+        },
+        "Pilgrim Lutheran School": {
+            "osm_id": 358860933,
+            "latitude": 32.64278619959125,
+            "longitude": -117.0892348
+        },
+        "Christian Academy of Chula Vista": {
+            "osm_id": 358860393,
+            "latitude": 32.64256349959124,
+            "longitude": -117.08899730000002
+        }
+    },
+    "42": {
+        "Urbane Cafe": {
+            "osm_id": 5879662991,
+            "latitude": 34.92412979964664,
+            "longitude": -120.4240856
+        },
+        "WaBa Grill": {
+            "osm_id": 10616570759,
+            "latitude": 32.90695999958816,
+            "longitude": -117.1723761
+        }
+    },
+    "43": {
+        "South of Baldwin Avenue Eastbound": {
+            "osm_id": 10716009461,
+            "latitude": 34.12604029960603,
+            "longitude": -118.054517
+        },
+        "Wells Fargo": {
+            "osm_id": 4224888194,
+            "latitude": 34.12600989960603,
+            "longitude": -118.05467200000001
+        },
+        "Wachovia Bank": {
+            "osm_id": 856084998,
+            "latitude": 34.12586209960603,
+            "longitude": -118.0546147
+        }
+    },
+    "44": {
+        "Culver City Farmers' Market": {
+            "osm_id": 9130489297,
+            "latitude": 34.02462769960251,
+            "longitude": -118.39439950000002
+        },
+        "The Auld Fella": {
+            "osm_id": 8790183852,
+            "latitude": 34.02479879960252,
+            "longitude": -118.39410229999997
+        }
+    },
+    "45": {
+        "Ono Hawaiian BBQ": {
+            "osm_id": 4888334908,
+            "latitude": 34.07307769960415,
+            "longitude": -117.882014
+        },
+        "Chipotle": {
+            "osm_id": 9892963003,
+            "latitude": 34.07721579960429,
+            "longitude": -117.37078779999997
+        },
+        "Jersey Mike's Subs": {
+            "osm_id": 9892963017,
+            "latitude": 34.0774262996043,
+            "longitude": -117.3708102
+        }
+    },
+    "46": {
+        "Jerome's Furniture": {
+            "osm_id": 7624446148,
+            "latitude": 33.911244399599006,
+            "longitude": -117.46160100000002
+        },
+        "Starbucks": {
+            "osm_id": 1489074105,
+            "latitude": 33.911321199599,
+            "longitude": -117.46144770000001
+        }
+    },
+    "47": {
+        "Violet Boutique": {
+            "osm_id": 10617347122,
+            "latitude": 33.54241859959081,
+            "longitude": -117.78295229999999
+        },
+        "Chantilly\u2019s Ice Cream": {
+            "osm_id": 10295447277,
+            "latitude": 33.5421905995908,
+            "longitude": -117.7830687
+        }
+    },
+    "48": {
+        "Mykita": {
+            "osm_id": 6486183114,
+            "latitude": 34.04270649960311,
+            "longitude": -118.25596529999999
+        },
+        "Il Caffe": {
+            "osm_id": 6486148023,
+            "latitude": 34.042542199603105,
+            "longitude": -118.25610459999997
+        }
+    },
+    "49": {
+        "Pico Branch Library": {
+            "osm_id": 10593326125,
+            "latitude": 34.02117489960239,
+            "longitude": -118.468054
+        },
+        "Thelma Terry Building": {
+            "osm_id": 10593326181,
+            "latitude": 34.02135299960239,
+            "longitude": -118.46827769999997
+        }
+    },
+    "50": {
+        "Orange Bone": {
+            "osm_id": 3833300154,
+            "latitude": 34.083545099604514,
+            "longitude": -118.3551498
+        },
+        "Blown Out": {
+            "osm_id": 3833300147,
+            "latitude": 34.08353939960451,
+            "longitude": -118.35520459999996
+        }
+    },
+    "51": {
+        "15th St. Surf Shop": {
+            "osm_id": 6770856896,
+            "latitude": 33.614564799592024,
+            "longitude": -117.93170750000002
+        },
+        "Wells Fargo": {
+            "osm_id": 6770856895,
+            "latitude": 33.61470069959203,
+            "longitude": -117.93147179999997
+        }
+    },
+    "52": {
+        "Rick's": {
+            "osm_id": 5629661792,
+            "latitude": 34.14091329960658,
+            "longitude": -118.22479509999998
+        },
+        "Leelin Bakery and Cafe": {
+            "osm_id": 5629661796,
+            "latitude": 34.14122839960661,
+            "longitude": -118.22456250000002
+        }
+    },
+    "53": {
+        "Ethiopian Evangelical Christian Fellowship Church": {
+            "osm_id": 358860229,
+            "latitude": 32.73743679958986,
+            "longitude": -117.07982290000001
+        },
+        "Calvary Evangelical Lutheran Church": {
+            "osm_id": 358860085,
+            "latitude": 32.73743679958986,
+            "longitude": -117.07982290000001
+        }
+    },
+    "54": {
+        "Color Me Mine": {
+            "osm_id": 5636450438,
+            "latitude": 33.75992079959505,
+            "longitude": -118.13368489999999
+        },
+        "Restore Hyper Wellness": {
+            "osm_id": 5589171645,
+            "latitude": 33.72474209959424,
+            "longitude": -117.7939092
+        }
+    },
+    "55": {
+        "Colegio Mexicoamericano Secundaria": {
+            "osm_id": 3802697747,
+            "latitude": 32.66328779959091,
+            "longitude": -115.4677103
+        },
+        "Colegio Vizcaya": {
+            "osm_id": 3802697942,
+            "latitude": 32.663426699590914,
+            "longitude": -115.4677042
+        },
+        "Instituto Maral": {
+            "osm_id": 3802702917,
+            "latitude": 32.6634006995909,
+            "longitude": -115.4677063
+        },
+        "Preparatoria Heroes de Mexico": {
+            "osm_id": 3802706847,
+            "latitude": 32.66328729959092,
+            "longitude": -115.4677773
+        }
+    },
+    "56": {
+        "Revol Nail & Salon": {
+            "osm_id": 4762210992,
+            "latitude": 33.95961099960045,
+            "longitude": -117.5909321
+        },
+        "My Store 3:16 Boba Express": {
+            "osm_id": 4762210993,
+            "latitude": 33.95961099960045,
+            "longitude": -117.59102100000001
+        }
+    },
+    "57": {
+        "TEC Cafe": {
+            "osm_id": 3385340434,
+            "latitude": 32.88593189958832,
+            "longitude": -117.240569
+        },
+        "Ridgewalk Social": {
+            "osm_id": 3385340433,
+            "latitude": 32.88563569958832,
+            "longitude": -117.24057509999997
+        }
+    },
+    "58": {
+        "The Grain Cafe": {
+            "osm_id": 9052024461,
+            "latitude": 33.85296679959738,
+            "longitude": -118.39032709999998
+        },
+        "Happy Veggie": {
+            "osm_id": 9104480075,
+            "latitude": 33.85300579959738,
+            "longitude": -118.39010070000002
+        },
+        "Bollywood Zaika": {
+            "osm_id": 9052024462,
+            "latitude": 33.85269449959737,
+            "longitude": -118.39033180000001
+        }
+    },
+    "59": {
+        "Lucky's Cafe": {
+            "osm_id": 9159297271,
+            "latitude": 34.09018939960476,
+            "longitude": -117.68928339999997
+        },
+        "WaBa Grill": {
+            "osm_id": 9159297268,
+            "latitude": 34.09018919960475,
+            "longitude": -117.68909999999998
+        }
+    },
+    "60": {
+        "Rosalva's": {
+            "osm_id": 9287249562,
+            "latitude": 34.235214499610244,
+            "longitude": -117.18011709999999
+        },
+        "LouEddie's Pizza": {
+            "osm_id": 9287249561,
+            "latitude": 34.235188799610256,
+            "longitude": -117.18040849999998
+        }
+    },
+    "61": {
+        "Chapter One": {
+            "osm_id": 9330257479,
+            "latitude": 33.74695469959475,
+            "longitude": -117.86946650000002
+        },
+        "Proof": {
+            "osm_id": 9330257483,
+            "latitude": 33.74660819959473,
+            "longitude": -117.8695358
+        }
+    },
+    "62": {
+        "Romantix Adult Book & Video": {
+            "osm_id": 10583625348,
+            "latitude": 32.74828269958971,
+            "longitude": -117.1509675
+        },
+        "Baja Betty's": {
+            "osm_id": 10583625350,
+            "latitude": 32.748286499589724,
+            "longitude": -117.15066760000002
+        }
+    },
+    "63": {
+        "Daiso Japan": {
+            "osm_id": 6658260485,
+            "latitude": 34.039306199603,
+            "longitude": -118.44194500000002
+        },
+        "The Coffee Bean & Tea Leaf": {
+            "osm_id": 8461651380,
+            "latitude": 34.04549479960321,
+            "longitude": -118.23846129999997
+        }
+    },
+    "64": {
+        "5": {
+            "osm_id": 633018984,
+            "latitude": 32.634805599591374,
+            "longitude": -117.13272220000002
+        },
+        "Philz Coffee": {
+            "osm_id": 6486074594,
+            "latitude": 34.046534899603245,
+            "longitude": -118.25934899999997
+        }
+    },
+    "65": {
+        "WeHo Sausage Company": {
+            "osm_id": 9968370878,
+            "latitude": 34.02519729960254,
+            "longitude": -118.39418099999999
+        },
+        "Bar Bohemien": {
+            "osm_id": 9968370879,
+            "latitude": 34.02503139960252,
+            "longitude": -118.3940847
+        }
+    },
+    "66": {
+        "Cheap Vintage": {
+            "osm_id": 4977831201,
+            "latitude": 33.73765029959454,
+            "longitude": -118.28810470000002
+        },
+        "Casa Garibay": {
+            "osm_id": 4977831202,
+            "latitude": 33.73752539959453,
+            "longitude": -118.2877587
+        }
+    },
+    "67": {
+        "Manchester & Isis": {
+            "osm_id": 10023268551,
+            "latitude": 33.95978139960045,
+            "longitude": -118.3754751
+        },
+        "Arco": {
+            "osm_id": 2858234440,
+            "latitude": 33.959668899600445,
+            "longitude": -118.37567079999998
+        }
+    },
+    "68": {
+        "Sunglass Hut": {
+            "osm_id": 5642679124,
+            "latitude": 33.67996469959329,
+            "longitude": -117.86133170000001
+        },
+        "Mezzet": {
+            "osm_id": 5850036966,
+            "latitude": 33.69223329959354,
+            "longitude": -117.89256369999998
+        }
+    },
+    "69": {
+        "Platinum Financial Management": {
+            "osm_id": 5113578780,
+            "latitude": 34.089950299604745,
+            "longitude": -118.39258619999998
+        },
+        "Boa Steakhouse": {
+            "osm_id": 5113578782,
+            "latitude": 34.089992399604746,
+            "longitude": -118.3924988
+        }
+    },
+    "70": {
+        "Vons": {
+            "osm_id": 1956776715,
+            "latitude": 34.13732529960645,
+            "longitude": -117.871569
+        },
+        "Action Urgent Care": {
+            "osm_id": 5146477494,
+            "latitude": 35.11984689966,
+            "longitude": -120.6103872
+        }
+    },
+    "71": {
+        "The Wee Loft": {
+            "osm_id": 7087319585,
+            "latitude": 33.48950089959004,
+            "longitude": -117.6993201
+        },
+        "Gary's New York Deli": {
+            "osm_id": 9363217412,
+            "latitude": 33.5960569995917,
+            "longitude": -117.87092109999998
+        }
+    },
+    "72": {
+        "Kin Los Angeles": {
+            "osm_id": 5145895688,
+            "latitude": 34.09356359960486,
+            "longitude": -118.3782829
+        },
+        "Sunset Plaza Dental": {
+            "osm_id": 5145895703,
+            "latitude": 34.09375039960488,
+            "longitude": -118.37802899999998
+        }
+    },
+    "73": {
+        "James Perse": {
+            "osm_id": 10728948013,
+            "latitude": 33.98991089960139,
+            "longitude": -118.46344339999997
+        },
+        "The Tasting Kitchen": {
+            "osm_id": 5152834034,
+            "latitude": 33.98966489960138,
+            "longitude": -118.4631592
+        },
+        "Piccolo": {
+            "osm_id": 10728948014,
+            "latitude": 33.989671299601376,
+            "longitude": -118.46366329999998
+        }
+    },
+    "74": {
+        "Vips": {
+            "osm_id": 7188811490,
+            "latitude": 34.167504499607595,
+            "longitude": -118.5323176
+        },
+        "Starbucks": {
+            "osm_id": 11047671729,
+            "latitude": 32.54534739959298,
+            "longitude": -116.9767913
+        }
+    },
+    "75": {
+        "Carpet Corner": {
+            "osm_id": 9844455053,
+            "latitude": 33.86279889959766,
+            "longitude": -118.35227099999999
+        },
+        "Cali Smiles": {
+            "osm_id": 9844455050,
+            "latitude": 33.86286629959765,
+            "longitude": -118.35227139999998
+        }
+    },
+    "76": {
+        "Harbor Island Light": {
+            "osm_id": 633019113,
+            "latitude": 32.72417669959004,
+            "longitude": -117.2131683
+        },
+        "Tom Ham's Lighthouse": {
+            "osm_id": 622204661,
+            "latitude": 32.72409299959004,
+            "longitude": -117.21306200000001
+        }
+    },
+    "77": {
+        "U-Zen": {
+            "osm_id": 10122690299,
+            "latitude": 34.04153639960306,
+            "longitude": -118.46153319999999
+        },
+        "Envios Monte Alban": {
+            "osm_id": 10596939622,
+            "latitude": 34.04164809960307,
+            "longitude": -118.46124170000002
+        }
+    },
+    "78": {
+        "Chinatown": {
+            "osm_id": 7310117324,
+            "latitude": 34.06384019960383,
+            "longitude": -118.2358676
+        },
+        "Nanay Gloria's": {
+            "osm_id": 10226702525,
+            "latitude": 33.90546279959884,
+            "longitude": -117.47451719999997
+        },
+        "Mamma Mia": {
+            "osm_id": 10226702526,
+            "latitude": 33.90534479959883,
+            "longitude": -117.47468890000002
+        }
+    },
+    "79": {
+        "Golden China": {
+            "osm_id": 4972867063,
+            "latitude": 33.7315771995944,
+            "longitude": -117.82746340000001
+        },
+        "The Jerk Spot": {
+            "osm_id": 8699215400,
+            "latitude": 34.02751979960261,
+            "longitude": -118.390899
+        }
+    },
+    "80": {
+        "Tanor": {
+            "osm_id": 5673600626,
+            "latitude": 33.8037528995961,
+            "longitude": -117.9146491
+        },
+        "Subway": {
+            "osm_id": 1761193613,
+            "latitude": 33.8038000995961,
+            "longitude": -117.91460509999999
+        }
+    },
+    "81": {
+        "Helen's Wine Shop": {
+            "osm_id": 7594225185,
+            "latitude": 34.07865259960434,
+            "longitude": -118.3612803
+        },
+        "Cofax Coffee Fairfax": {
+            "osm_id": 7439769485,
+            "latitude": 34.078920599604345,
+            "longitude": -118.36131910000002
+        }
+    },
+    "82": {
+        "T-Mobile": {
+            "osm_id": 2939954020,
+            "latitude": 33.85411659959741,
+            "longitude": -118.1398425
+        },
+        "Little Caesars": {
+            "osm_id": 3357311962,
+            "latitude": 33.810927099596285,
+            "longitude": -118.1058325
+        }
+    },
+    "83": {
+        "Ono Hawaiian BBQ": {
+            "osm_id": 8301099770,
+            "latitude": 34.00091549960174,
+            "longitude": -118.39462289999997
+        },
+        "Chipotle": {
+            "osm_id": 10961034390,
+            "latitude": 34.25942779961124,
+            "longitude": -118.46648829999998
+        },
+        "Jersey Mike's Subs": {
+            "osm_id": 10961034392,
+            "latitude": 34.25939829961125,
+            "longitude": -118.46630229999997
+        },
+        "California Fish Grill": {
+            "osm_id": 10961034395,
+            "latitude": 34.25906959961122,
+            "longitude": -118.46616909999997
+        }
+    },
+    "84": {
+        "Super Mex": {
+            "osm_id": 3358864563,
+            "latitude": 33.8112525995963,
+            "longitude": -118.1069484
+        },
+        "Gelato": {
+            "osm_id": 5040076625,
+            "latitude": 33.71275429959398,
+            "longitude": -118.0632776
+        }
+    },
+    "85": {
+        "Chopsticks Chinese Cuisine": {
+            "osm_id": 9288998854,
+            "latitude": 32.98213559958773,
+            "longitude": -117.0610061
+        },
+        "The Original Pancake House": {
+            "osm_id": 9359626181,
+            "latitude": 32.982292199587725,
+            "longitude": -117.061208
+        },
+        "Pacific Pizza": {
+            "osm_id": 9288998853,
+            "latitude": 32.982214299587724,
+            "longitude": -117.06111219999998
+        }
+    },
+    "86": {
+        "Snooze an AM Eatery": {
+            "osm_id": 3708711425,
+            "latitude": 32.953130999587856,
+            "longitude": -117.232687
+        },
+        "FedEx": {
+            "osm_id": 3708719325,
+            "latitude": 32.95346399958786,
+            "longitude": -117.23287
+        }
+    },
+    "87": {
+        "Diego Cardoso": {
+            "osm_id": 4209859291,
+            "latitude": 34.04209899960309,
+            "longitude": -118.2511317
+        },
+        "TBLA Catering & Cafe": {
+            "osm_id": 4096413391,
+            "latitude": 34.04176299960309,
+            "longitude": -118.25132029999999
+        }
+    },
+    "88": {
+        "Taco Bell": {
+            "osm_id": 365356532,
+            "latitude": 33.17297699958751,
+            "longitude": -117.2533674
+        },
+        "Pizza Hut Express": {
+            "osm_id": 3624029017,
+            "latitude": 33.68189639959333,
+            "longitude": -117.66845139999998
+        }
+    },
+    "89": {
+        "Pomme Frite": {
+            "osm_id": 3230853219,
+            "latitude": 33.820280499596535,
+            "longitude": -116.54654460000002
+        },
+        "Moxie": {
+            "osm_id": 3230853214,
+            "latitude": 33.820152899596515,
+            "longitude": -116.54660530000001
+        }
+    },
+    "90": {
+        "LensCrafters": {
+            "osm_id": 5517350001,
+            "latitude": 34.13814829960649,
+            "longitude": -118.01257310000001
+        },
+        "La Colombe Coffee Roasters": {
+            "osm_id": 5287806627,
+            "latitude": 34.05959959960369,
+            "longitude": -118.4187233
+        },
+        "Cha Cha Matcha": {
+            "osm_id": 10297575877,
+            "latitude": 34.059539299603685,
+            "longitude": -118.41883139999999
+        }
+    },
+    "91": {
+        "Van Ness & Florence": {
+            "osm_id": 10308092678,
+            "latitude": 33.974425499600905,
+            "longitude": -118.31768749999999
+        },
+        "Hyde Park Miriam Matthews Branch Los Angeles Public Library": {
+            "osm_id": 368169846,
+            "latitude": 33.97479219960091,
+            "longitude": -118.3182262
+        }
+    },
+    "92": {
+        "Rio Azul Mexican Bar": {
+            "osm_id": 3230832327,
+            "latitude": 33.81915909959648,
+            "longitude": -116.54529410000002
+        },
+        "Rooster and the Pig": {
+            "osm_id": 4737291180,
+            "latitude": 33.819168699596496,
+            "longitude": -116.5450222
+        }
+    },
+    "93": {
+        "Sierra Madre Fire Department": {
+            "osm_id": 1666861741,
+            "latitude": 34.16159299960737,
+            "longitude": -118.05846319999998
+        },
+        "Sierra Madre Police Department": {
+            "osm_id": 1666862474,
+            "latitude": 34.16162409960736,
+            "longitude": -118.05833979999997
+        }
+    },
+    "94": {
+        "Howdy's": {
+            "osm_id": 9856598604,
+            "latitude": 34.03734069960293,
+            "longitude": -118.6863887
+        },
+        "Tesla Supercharger": {
+            "osm_id": 9856598605,
+            "latitude": 34.03731399960294,
+            "longitude": -118.68595700000002
+        }
+    },
+    "95": {
+        "U.S. Bank": {
+            "osm_id": 9377841710,
+            "latitude": 34.07293989960415,
+            "longitude": -118.3616787
+        },
+        "La Gran Terraza": {
+            "osm_id": 2660475357,
+            "latitude": 32.77267809958942,
+            "longitude": -117.1880919
+        }
+    },
+    "96": {
+        "Chinatown": {
+            "osm_id": 1428590909,
+            "latitude": 34.04933979960334,
+            "longitude": -117.24680290000002
+        },
+        "Spring & College": {
+            "osm_id": 4293434473,
+            "latitude": 34.06338549960381,
+            "longitude": -118.23613600000002
+        }
+    },
+    "97": {
+        "The UPS Store": {
+            "osm_id": 4567738216,
+            "latitude": 34.01474269960219,
+            "longitude": -117.744013
+        },
+        "Bella's": {
+            "osm_id": 6330868939,
+            "latitude": 33.944599999599994,
+            "longitude": -117.4155779
+        }
+    },
+    "98": {
+        "Baja Fresh": {
+            "osm_id": 5959814872,
+            "latitude": 33.4559967995896,
+            "longitude": -117.60463800000001
+        },
+        "Jamba": {
+            "osm_id": 9015500146,
+            "latitude": 34.073847799604174,
+            "longitude": -118.37610699999999
+        }
+    },
+    "99": {
+        "Poke Cafe": {
+            "osm_id": 6770856893,
+            "latitude": 33.61518719959204,
+            "longitude": -117.9308481
+        },
+        "Chihuahua": {
+            "osm_id": 1993315056,
+            "latitude": 33.61523449959203,
+            "longitude": -117.9307716
+        }
+    },
+    "100": {
+        "Family Dollar": {
+            "osm_id": 9016281495,
+            "latitude": 34.091229399604785,
+            "longitude": -117.43466669999998
+        },
+        "Subway": {
+            "osm_id": 4204698208,
+            "latitude": 34.088364899604684,
+            "longitude": -117.96000250000002
+        }
+    },
+    "101": {
+        "CosmoProf": {
+            "osm_id": 11536120450,
+            "latitude": 34.141981199606626,
+            "longitude": -118.2574424
+        },
+        "Chevron": {
+            "osm_id": 3968161058,
+            "latitude": 35.38388359968005,
+            "longitude": -119.1103429
+        }
+    },
+    "102": {
+        "Yucaipa Valley Pharmacy": {
+            "osm_id": 457759365,
+            "latitude": 34.03199009960275,
+            "longitude": -117.07538939999999
+        },
+        "Taco Village": {
+            "osm_id": 3922714412,
+            "latitude": 34.032062099602754,
+            "longitude": -117.07557319999997
+        }
+    },
+    "103": {
+        "17th-Pecan": {
+            "osm_id": 3964699234,
+            "latitude": 33.66811699959305,
+            "longitude": -118.00919400000001
+        },
+        "Redz": {
+            "osm_id": 605228437,
+            "latitude": 33.66782929959304,
+            "longitude": -118.00902839999998
+        }
+    },
+    "104": {
+        "Crenshaw & Slauson": {
+            "osm_id": 10043957323,
+            "latitude": 33.98842329960133,
+            "longitude": -118.331083
+        },
+        "KFC": {
+            "osm_id": 1474999158,
+            "latitude": 33.98846719960135,
+            "longitude": -118.3312536
+        }
+    },
+    "105": {
+        "Fountain & Edgemont": {
+            "osm_id": 8509192517,
+            "latitude": 34.095325399604924,
+            "longitude": -118.29626600000002
+        },
+        "Found Oyster": {
+            "osm_id": 9350170180,
+            "latitude": 34.09530469960493,
+            "longitude": -118.29585900000001
+        }
+    },
+    "106": {
+        "Louisa's Place": {
+            "osm_id": 2361746538,
+            "latitude": 35.280817599671956,
+            "longitude": -120.6615145
+        },
+        "Peet's Coffee": {
+            "osm_id": 696924353,
+            "latitude": 35.28087889967196,
+            "longitude": -120.6614055
+        }
+    },
+    "107": {
+        "Yucca Valley Christian School": {
+            "osm_id": 358841081,
+            "latitude": 34.11445219960562,
+            "longitude": -116.4580688
+        },
+        "Gateway Assembly of God": {
+            "osm_id": 358841055,
+            "latitude": 34.11419019960561,
+            "longitude": -116.45815399999996
+        }
+    },
+    "108": {
+        "7-Eleven": {
+            "osm_id": 9065686116,
+            "latitude": 34.12168579960589,
+            "longitude": -117.39607059999999
+        },
+        "Little Caesars": {
+            "osm_id": 4635835660,
+            "latitude": 34.158000999607225,
+            "longitude": -118.1317552
+        }
+    },
+    "109": {
+        "LB Fashion": {
+            "osm_id": 3560185090,
+            "latitude": 33.783133399595584,
+            "longitude": -118.15187239999999
+        },
+        "JJ Chinese Express": {
+            "osm_id": 5640830045,
+            "latitude": 33.7830757995956,
+            "longitude": -118.15149640000001
+        }
+    },
+    "110": {
+        "Metro by T-Mobile": {
+            "osm_id": 6811714552,
+            "latitude": 34.578882299626294,
+            "longitude": -118.126728
+        },
+        "El Carbonero": {
+            "osm_id": 6811714555,
+            "latitude": 34.578884199626316,
+            "longitude": -118.1264764
+        },
+        "Vietnamese Noodles": {
+            "osm_id": 6811714554,
+            "latitude": 34.57888489962631,
+            "longitude": -118.1265532
+        }
+    },
+    "111": {
+        "Beauty Box": {
+            "osm_id": 4929624641,
+            "latitude": 35.27955329967186,
+            "longitude": -120.66311289999997
+        },
+        "Black Sheep Bar & Grill": {
+            "osm_id": 705731525,
+            "latitude": 35.27950719967186,
+            "longitude": -120.6626807
+        },
+        "Creeky Tiki": {
+            "osm_id": 2487322299,
+            "latitude": 35.27978429967189,
+            "longitude": -120.66327549999998
+        }
+    },
+    "112": {
+        "Cielito Lindo": {
+            "osm_id": 3211936878,
+            "latitude": 34.05795729960362,
+            "longitude": -118.237396
+        },
+        "Juanitas": {
+            "osm_id": 4946281521,
+            "latitude": 34.057858499603626,
+            "longitude": -118.2375085
+        },
+        "El Rancho Grande": {
+            "osm_id": 4946281621,
+            "latitude": 34.05777229960363,
+            "longitude": -118.237576
+        }
+    },
+    "113": {
+        "Pistachio Cut And Color Bar": {
+            "osm_id": 8174312023,
+            "latitude": 33.10444379958744,
+            "longitude": -117.26793640000001
+        },
+        "Point Loma Credit Union": {
+            "osm_id": 960018326,
+            "latitude": 33.10435149958744,
+            "longitude": -117.2676491
+        }
+    },
+    "114": {
+        "Wells Fargo": {
+            "osm_id": 8579514574,
+            "latitude": 33.95262789960024,
+            "longitude": -118.18611159999998
+        },
+        "BrightCare Veterinary Group - Neurology": {
+            "osm_id": 10062708070,
+            "latitude": 33.58641359959152,
+            "longitude": -117.658068
+        }
+    },
+    "115": {
+        "South Coast Dental Specialties": {
+            "osm_id": 3705930580,
+            "latitude": 33.524959699590546,
+            "longitude": -117.714847
+        },
+        "WaBa Grill": {
+            "osm_id": 3705928429,
+            "latitude": 33.52485819959054,
+            "longitude": -117.71485
+        }
+    },
+    "116": {
+        "Wilshire/Normandie": {
+            "osm_id": 6215060949,
+            "latitude": 34.061725799603764,
+            "longitude": -118.30006790000002
+        },
+        "Woori": {
+            "osm_id": 10933394752,
+            "latitude": 34.06150569960375,
+            "longitude": -118.30170640000001
+        }
+    },
+    "117": {
+        "Firehouse Subs": {
+            "osm_id": 4639390126,
+            "latitude": 33.99017429960139,
+            "longitude": -117.92484509999998
+        },
+        "Burros & fries": {
+            "osm_id": 6670516959,
+            "latitude": 32.6775539995907,
+            "longitude": -117.0920964
+        },
+        "bluepok\u0113": {
+            "osm_id": 6670516966,
+            "latitude": 32.67741909959069,
+            "longitude": -117.09211370000001
+        }
+    },
+    "118": {
+        "Manchester Urgent Care": {
+            "osm_id": 6206090191,
+            "latitude": 33.95962549960045,
+            "longitude": -118.394423
+        },
+        "A La Carte Thai Bistro / Thai Dishes": {
+            "osm_id": 8300188882,
+            "latitude": 33.959447899600434,
+            "longitude": -118.39478350000002
+        }
+    },
+    "119": {
+        "The Greenspot Salad Company": {
+            "osm_id": 6758618581,
+            "latitude": 33.01591379958759,
+            "longitude": -117.11115799999999
+        },
+        "Los Primos Mexican Food": {
+            "osm_id": 7139649264,
+            "latitude": 33.015951499587594,
+            "longitude": -117.11085380000002
+        },
+        "Ika Sushi & Grill": {
+            "osm_id": 9030060781,
+            "latitude": 33.0158547995876,
+            "longitude": -117.1111858
+        }
+    },
+    "120": {
+        "English Premier League Club": {
+            "osm_id": 11367784763,
+            "latitude": 33.45340619958957,
+            "longitude": -117.0908693
+        },
+        "Restrooms": {
+            "osm_id": 11386039588,
+            "latitude": 33.45340509958956,
+            "longitude": -117.09070239999998
+        }
+    },
+    "121": {
+        "Temple of Deliverance Church": {
+            "osm_id": 358858983,
+            "latitude": 34.086585399604616,
+            "longitude": -117.28159110000001
+        },
+        "Point of Contact Ministries": {
+            "osm_id": 358858869,
+            "latitude": 34.086585399604616,
+            "longitude": -117.28159110000001
+        }
+    },
+    "122": {
+        "ABC Fitness Studio": {
+            "osm_id": 9139124148,
+            "latitude": 33.525232099590546,
+            "longitude": -117.71393540000001
+        },
+        "Citizens Business Bank": {
+            "osm_id": 3983303760,
+            "latitude": 33.52543359959055,
+            "longitude": -117.71375570000001
+        }
+    },
+    "123": {
+        "Redondough": {
+            "osm_id": 533781026,
+            "latitude": 33.85424249959741,
+            "longitude": -118.37991500000001
+        },
+        "Bistro Miyoda & Sushi Ichiriki": {
+            "osm_id": 1704063672,
+            "latitude": 33.854169599597405,
+            "longitude": -118.3797307
+        }
+    },
+    "124": {
+        "Supercuts": {
+            "osm_id": 4109913712,
+            "latitude": 33.566518899591195,
+            "longitude": -117.20427900000001
+        },
+        "Chase": {
+            "osm_id": 11210966465,
+            "latitude": 34.13935509960655,
+            "longitude": -117.98385149999999
+        }
+    },
+    "125": {
+        "Subway": {
+            "osm_id": 7574352434,
+            "latitude": 33.93063949959957,
+            "longitude": -118.415556
+        },
+        "Manila Sunset": {
+            "osm_id": 4777310798,
+            "latitude": 32.6773653995907,
+            "longitude": -117.0960414
+        }
+    },
+    "126": {
+        "Peking Chinese Restaurant": {
+            "osm_id": 10226689999,
+            "latitude": 33.90225489959875,
+            "longitude": -117.4771833
+        },
+        "Menchie's": {
+            "osm_id": 7317671793,
+            "latitude": 34.276849899611975,
+            "longitude": -119.21352339999999
+        }
+    },
+    "127": {
+        "Seven Star Cavern Wishing Well": {
+            "osm_id": 5322526883,
+            "latitude": 34.065593899603904,
+            "longitude": -118.2376151
+        },
+        "Hop Louies": {
+            "osm_id": 5322500508,
+            "latitude": 34.065409499603895,
+            "longitude": -118.23774519999998
+        },
+        "Blossom": {
+            "osm_id": 5341257646,
+            "latitude": 34.0656625996039,
+            "longitude": -118.237381
+        }
+    },
+    "128": {
+        "Sriracha Thai Restaurant": {
+            "osm_id": 6322390986,
+            "latitude": 33.827989799596715,
+            "longitude": -118.26304459999999
+        },
+        "East West Bank": {
+            "osm_id": 6298294418,
+            "latitude": 33.82762229959671,
+            "longitude": -118.263085
+        }
+    },
+    "129": {
+        "H&R Block": {
+            "osm_id": 2138298779,
+            "latitude": 32.74858279958972,
+            "longitude": -117.15923489999997
+        },
+        "Navy Federal Credit Union": {
+            "osm_id": 4044985815,
+            "latitude": 33.13338969958746,
+            "longitude": -117.1232155
+        }
+    },
+    "130": {
+        "Fast Trax": {
+            "osm_id": 5305551273,
+            "latitude": 35.25958349967033,
+            "longitude": -120.64376900000002
+        },
+        "Aloha Cafe": {
+            "osm_id": 5305551275,
+            "latitude": 35.2593245996703,
+            "longitude": -120.6437995
+        }
+    },
+    "131": {
+        "African Trading Company": {
+            "osm_id": 1884458512,
+            "latitude": 32.819056799588914,
+            "longitude": -117.17716660000002
+        },
+        "Fortune Cookie Express": {
+            "osm_id": 1884458492,
+            "latitude": 32.81904539958892,
+            "longitude": -117.1772269
+        }
+    },
+    "132": {
+        "Great Labels Designer Resale": {
+            "osm_id": 9750362246,
+            "latitude": 34.02489199960252,
+            "longitude": -118.49087009999997
+        },
+        "Dunkin'": {
+            "osm_id": 9750362243,
+            "latitude": 34.02500609960252,
+            "longitude": -118.49072800000002
+        }
+    },
+    "133": {
+        "Swift Smog": {
+            "osm_id": 8641818779,
+            "latitude": 34.0151350996022,
+            "longitude": -118.41414619999999
+        },
+        "Angel's Smog Master": {
+            "osm_id": 8905676445,
+            "latitude": 34.015179399602204,
+            "longitude": -118.41405900000001
+        }
+    },
+    "134": {
+        "Ashley HomeStore": {
+            "osm_id": 10236770749,
+            "latitude": 35.38305359968,
+            "longitude": -119.10148549999998
+        },
+        "Exer Urgent Care": {
+            "osm_id": 8347479205,
+            "latitude": 34.02781489960261,
+            "longitude": -118.39226099999998
+        }
+    },
+    "135": {
+        "Brea-Bracken": {
+            "osm_id": 10672314663,
+            "latitude": 33.9215581995993,
+            "longitude": -117.8978083
+        },
+        "Fertility Care": {
+            "osm_id": 2339219099,
+            "latitude": 33.92187549959932,
+            "longitude": -117.89802499999999
+        }
+    },
+    "136": {
+        "Ord & Spring": {
+            "osm_id": 9934794249,
+            "latitude": 34.0599821996037,
+            "longitude": -118.238111
+        },
+        "The Little Jewel of New Orleans": {
+            "osm_id": 4908362224,
+            "latitude": 34.0600860996037,
+            "longitude": -118.23819420000001
+        }
+    },
+    "137": {
+        "Soma": {
+            "osm_id": 5850036947,
+            "latitude": 33.69201079959355,
+            "longitude": -117.89298749999999
+        },
+        "Delhi Kitchen": {
+            "osm_id": 9854580284,
+            "latitude": 32.98235609958771,
+            "longitude": -117.075428
+        }
+    },
+    "138": {
+        "Blazing Smoke Shop": {
+            "osm_id": 10752412087,
+            "latitude": 33.61669769959207,
+            "longitude": -117.70907689999997
+        },
+        "Mi Jong Lo Han Kung Fu and Tai Chi": {
+            "osm_id": 10752354112,
+            "latitude": 33.616507599592055,
+            "longitude": -117.70891129999997
+        }
+    },
+    "139": {
+        "Mid-Wilshire": {
+            "osm_id": 7365301515,
+            "latitude": 34.05686159960359,
+            "longitude": -118.3458032
+        },
+        "Top Round Roast Beef": {
+            "osm_id": 6655857587,
+            "latitude": 34.05703769960359,
+            "longitude": -118.3455786
+        }
+    },
+    "140": {
+        "Guaranteed Rate": {
+            "osm_id": 9166250275,
+            "latitude": 34.108532799605406,
+            "longitude": -117.6709681
+        },
+        "Village Dental & Orthodontics": {
+            "osm_id": 9166250273,
+            "latitude": 34.108528499605406,
+            "longitude": -117.671207
+        }
+    },
+    "141": {
+        "Broadway & College": {
+            "osm_id": 9934823189,
+            "latitude": 34.06380879960383,
+            "longitude": -118.23746659999999
+        },
+        "Gigo's Cafe & Deli": {
+            "osm_id": 4121132651,
+            "latitude": 34.06380439960384,
+            "longitude": -118.23775399999997
+        }
+    },
+    "142": {
+        "Jim Duffy Architecture": {
+            "osm_id": 4940908580,
+            "latitude": 35.2774810996717,
+            "longitude": -120.6626807
+        },
+        "Starr Dawn PhD": {
+            "osm_id": 4940908579,
+            "latitude": 35.277503599671704,
+            "longitude": -120.66262799999998
+        }
+    },
+    "143": {
+        "AHTKY": {
+            "osm_id": 9501991980,
+            "latitude": 33.87361069959793,
+            "longitude": -118.3020351
+        },
+        "The Crab Shack": {
+            "osm_id": 9501991977,
+            "latitude": 33.87361239959794,
+            "longitude": -118.3018382
+        }
+    },
+    "144": {
+        "Belle Fleur": {
+            "osm_id": 10778498321,
+            "latitude": 33.59722709959171,
+            "longitude": -117.2411344
+        },
+        "Los Jilbertos": {
+            "osm_id": 10778497644,
+            "latitude": 33.59717789959172,
+            "longitude": -117.2410972
+        }
+    },
+    "145": {
+        "Sofa U Love": {
+            "osm_id": 5848139579,
+            "latitude": 34.16698989960757,
+            "longitude": -118.83387330000001
+        },
+        "Entre Nous French Bistro": {
+            "osm_id": 7490722085,
+            "latitude": 34.14482409960673,
+            "longitude": -118.15303889999998
+        }
+    },
+    "146": {
+        "Honey Donuts": {
+            "osm_id": 10048881655,
+            "latitude": 34.38465459961671,
+            "longitude": -118.5315219
+        },
+        "Neca's Kitchen": {
+            "osm_id": 10048881657,
+            "latitude": 34.38472649961672,
+            "longitude": -118.5315831
+        }
+    },
+    "147": {
+        "Q": {
+            "osm_id": 10055733716,
+            "latitude": 34.08389209960451,
+            "longitude": -117.29717860000001
+        },
+        "Wetzel's Pretzels": {
+            "osm_id": 6846203118,
+            "latitude": 32.65514259959104,
+            "longitude": -117.06571899999999
+        }
+    },
+    "148": {
+        "Link Central": {
+            "osm_id": 8694240357,
+            "latitude": 34.061167599603735,
+            "longitude": -118.44407599999997
+        },
+        "Fellow": {
+            "osm_id": 8946030725,
+            "latitude": 34.061154499603745,
+            "longitude": -118.44451939999999
+        }
+    },
+    "149": {
+        "Goodwill": {
+            "osm_id": 3281423161,
+            "latitude": 32.89228579958827,
+            "longitude": -117.20731350000001
+        },
+        "Peal Thai Noodle House": {
+            "osm_id": 938209091,
+            "latitude": 33.52483859959055,
+            "longitude": -117.1611459
+        },
+        "La Memela": {
+            "osm_id": 1195866165,
+            "latitude": 33.52476089959053,
+            "longitude": -117.16129999999998
+        }
+    },
+    "150": {
+        "Fun": {
+            "osm_id": 10924950157,
+            "latitude": 34.013052399602124,
+            "longitude": -118.4655928
+        },
+        "First Citizens Bank": {
+            "osm_id": 10924950158,
+            "latitude": 34.013192099602136,
+            "longitude": -118.46527769999997
+        }
+    },
+    "151": {
+        "Mile's New & Used Store": {
+            "osm_id": 2971065754,
+            "latitude": 34.260181799611274,
+            "longitude": -116.86245409999997
+        },
+        "Joel Bickler": {
+            "osm_id": 2971065748,
+            "latitude": 34.26026339961128,
+            "longitude": -116.862878
+        }
+    },
+    "152": {
+        "USPS": {
+            "osm_id": 6418834461,
+            "latitude": 34.448073199619714,
+            "longitude": -119.24342499999997
+        },
+        "76": {
+            "osm_id": 4236701689,
+            "latitude": 34.09200339960482,
+            "longitude": -117.9738085
+        }
+    },
+    "153": {
+        "Fridas Tacos": {
+            "osm_id": 4716874135,
+            "latitude": 34.14543069960676,
+            "longitude": -118.15121539999997
+        },
+        "Cafe 86": {
+            "osm_id": 4858604411,
+            "latitude": 34.145261399606746,
+            "longitude": -118.15127030000001
+        }
+    },
+    "154": {
+        "Benny's Tacos": {
+            "osm_id": 5540580323,
+            "latitude": 34.02338839960247,
+            "longitude": -118.49336919999999
+        },
+        "Kumon": {
+            "osm_id": 3960923718,
+            "latitude": 34.02047719960238,
+            "longitude": -118.40465920000001
+        }
+    },
+    "155": {
+        "Rodeo Cleaners": {
+            "osm_id": 2687982826,
+            "latitude": 34.0212037996024,
+            "longitude": -118.3563143
+        },
+        "US Bank": {
+            "osm_id": 10286155576,
+            "latitude": 34.0211193996024,
+            "longitude": -118.35604829999998
+        }
+    },
+    "156": {
+        "Dunkin'": {
+            "osm_id": 6776211959,
+            "latitude": 33.649932599592695,
+            "longitude": -117.839266
+        },
+        "Baskin Robins": {
+            "osm_id": 6703653142,
+            "latitude": 33.68001249959329,
+            "longitude": -117.66518349999998
+        }
+    },
+    "157": {
+        "The Bagel Shack": {
+            "osm_id": 3716087216,
+            "latitude": 33.61819449959209,
+            "longitude": -117.7041597
+        },
+        "OC Urgent Care": {
+            "osm_id": 3716087215,
+            "latitude": 33.61812979959209,
+            "longitude": -117.70424199999998
+        }
+    },
+    "158": {
+        "Pasha Dental": {
+            "osm_id": 8430443777,
+            "latitude": 34.01910289960233,
+            "longitude": -118.42176529999999
+        },
+        "Mia's Cafe": {
+            "osm_id": 10080333180,
+            "latitude": 34.01919529960234,
+            "longitude": -118.421593
+        },
+        "Ume Tea": {
+            "osm_id": 10080333179,
+            "latitude": 34.01917339960233,
+            "longitude": -118.42163369999999
+        }
+    },
+    "159": {
+        "Bellflower & Flower": {
+            "osm_id": 6356010741,
+            "latitude": 33.88190099959817,
+            "longitude": -118.12536100000001
+        },
+        "Chase": {
+            "osm_id": 9354718207,
+            "latitude": 33.88189339959817,
+            "longitude": -118.12503790000001
+        }
+    },
+    "160": {
+        "Honey Baked Ham": {
+            "osm_id": 596226049,
+            "latitude": 32.82111969958889,
+            "longitude": -117.18241899999998
+        },
+        "Vallerta Express": {
+            "osm_id": 654005566,
+            "latitude": 32.821341099588885,
+            "longitude": -117.18257280000002
+        }
+    },
+    "161": {
+        "Cox Solutions Store": {
+            "osm_id": 2134410933,
+            "latitude": 32.74950929958969,
+            "longitude": -117.15329569999997
+        },
+        "Aladdin": {
+            "osm_id": 11194524337,
+            "latitude": 32.7496108995897,
+            "longitude": -117.15330699999996
+        }
+    },
+    "162": {
+        "Little Caesars": {
+            "osm_id": 9432335294,
+            "latitude": 33.786934799595684,
+            "longitude": -117.82624049999998
+        },
+        "Ph\u1edf 99": {
+            "osm_id": 10226810207,
+            "latitude": 33.91499879959911,
+            "longitude": -117.4849485
+        },
+        "Costa Delmar": {
+            "osm_id": 10226810208,
+            "latitude": 33.91510619959911,
+            "longitude": -117.4850261
+        }
+    },
+    "163": {
+        "ChargePoint": {
+            "osm_id": 11527157846,
+            "latitude": 33.75707089959498,
+            "longitude": -118.11180410000001
+        },
+        "City Parking Lot 2": {
+            "osm_id": 775193507,
+            "latitude": 34.39815699961733,
+            "longitude": -119.5182949
+        }
+    },
+    "164": {
+        "7 Days Mart": {
+            "osm_id": 4107564333,
+            "latitude": 33.77500179959541,
+            "longitude": -118.17654669999999
+        },
+        "Subway": {
+            "osm_id": 4107564332,
+            "latitude": 33.7750006995954,
+            "longitude": -118.17663109999998
+        },
+        "China Express": {
+            "osm_id": 4107564327,
+            "latitude": 33.775024099595406,
+            "longitude": -118.17680410000001
+        },
+        "Domino's": {
+            "osm_id": 4107564328,
+            "latitude": 33.775017399595406,
+            "longitude": -118.1767277
+        }
+    },
+    "165": {
+        "Starbucks": {
+            "osm_id": 9289008461,
+            "latitude": 32.98093549958773,
+            "longitude": -117.06122559999997
+        },
+        "Bouchon": {
+            "osm_id": 7108513485,
+            "latitude": 34.42406079961855,
+            "longitude": -119.7058486
+        },
+        "Brasil Arts Caf\u00e9": {
+            "osm_id": 2366470406,
+            "latitude": 34.424238999618574,
+            "longitude": -119.70539699999998
+        }
+    },
+    "166": {
+        "Supercuts": {
+            "osm_id": 8185203929,
+            "latitude": 34.097788399605015,
+            "longitude": -118.28721610000001
+        },
+        "Pickles & Swiss": {
+            "osm_id": 6031493364,
+            "latitude": 34.43113429961888,
+            "longitude": -119.87421699999999
+        }
+    },
+    "167": {
+        "Santee Court Market": {
+            "osm_id": 4096326965,
+            "latitude": 34.042394499603105,
+            "longitude": -118.2504777
+        },
+        "Bronzed Aussie": {
+            "osm_id": 4101058482,
+            "latitude": 34.0427432996031,
+            "longitude": -118.25061640000001
+        },
+        "Pizza Hut": {
+            "osm_id": 4101060691,
+            "latitude": 34.042594399603104,
+            "longitude": -118.2506378
+        }
+    },
+    "168": {
+        "Closet Apparel": {
+            "osm_id": 6794311104,
+            "latitude": 32.54326089959302,
+            "longitude": -117.0433338
+        },
+        "Boba n More": {
+            "osm_id": 3016880269,
+            "latitude": 32.54334829959302,
+            "longitude": -117.04375729999998
+        }
+    },
+    "169": {
+        "Arco": {
+            "osm_id": 8301099737,
+            "latitude": 34.00772059960195,
+            "longitude": -118.4129883
+        },
+        "Los Panchos Taco Shop": {
+            "osm_id": 596895291,
+            "latitude": 32.79223519958919,
+            "longitude": -117.0816028
+        }
+    },
+    "170": {
+        "Redbox": {
+            "osm_id": 9797245894,
+            "latitude": 34.01149989960208,
+            "longitude": -118.41089009999999
+        },
+        "Bristol Warner Marketplace": {
+            "osm_id": 6422834065,
+            "latitude": 33.71788589959409,
+            "longitude": -117.88597499999999
+        }
+    },
+    "171": {
+        "First Class Pizza": {
+            "osm_id": 1180991024,
+            "latitude": 33.698339699593674,
+            "longitude": -117.74099070000001
+        },
+        "Wingstop": {
+            "osm_id": 10226921257,
+            "latitude": 33.905479599598834,
+            "longitude": -117.4939894
+        }
+    },
+    "172": {
+        "Star Burger": {
+            "osm_id": 5673600627,
+            "latitude": 33.80385719959611,
+            "longitude": -117.9146529
+        },
+        "Brewberry Cafe": {
+            "osm_id": 5673603424,
+            "latitude": 33.80400249959611,
+            "longitude": -117.914641
+        }
+    },
+    "173": {
+        "Fantastic Sams": {
+            "osm_id": 5735305944,
+            "latitude": 34.15055699960695,
+            "longitude": -118.00291
+        },
+        "Obi's Sushi": {
+            "osm_id": 9414338725,
+            "latitude": 32.810731599589,
+            "longitude": -117.11609310000001
+        }
+    },
+    "174": {
+        "Ying Li": {
+            "osm_id": 7397395488,
+            "latitude": 32.5543117995928,
+            "longitude": -117.05099959999997
+        },
+        "tropi Fruta": {
+            "osm_id": 7397395490,
+            "latitude": 32.5542581995928,
+            "longitude": -117.0508478
+        }
+    },
+    "175": {
+        "Quiznos": {
+            "osm_id": 2263086071,
+            "latitude": 34.05279799960345,
+            "longitude": -118.25693
+        },
+        "Chipotle": {
+            "osm_id": 1009389229,
+            "latitude": 33.18196059958753,
+            "longitude": -117.33160869999999
+        }
+    },
+    "176": {
+        "Hartwig Prayer Chapel": {
+            "osm_id": 358857809,
+            "latitude": 34.1302777996062,
+            "longitude": -117.88722219999997
+        },
+        "Azusa Pacific University": {
+            "osm_id": 358780099,
+            "latitude": 34.1304081996062,
+            "longitude": -117.88758380000002
+        }
+    },
+    "177": {
+        "RTR Express": {
+            "osm_id": 8300219118,
+            "latitude": 34.066860599603935,
+            "longitude": -118.27124400000001
+        },
+        "El Burrito Panzon": {
+            "osm_id": 8300219117,
+            "latitude": 34.06660139960393,
+            "longitude": -118.2709292
+        }
+    },
+    "178": {
+        "Saint Pauls Lutheran Church": {
+            "osm_id": 358827538,
+            "latitude": 34.06417729960384,
+            "longitude": -117.7361677
+        },
+        "Lutheran School": {
+            "osm_id": 358795831,
+            "latitude": 32.80018059958911,
+            "longitude": -117.2452086
+        }
+    },
+    "179": {
+        "Chipotle": {
+            "osm_id": 4995667189,
+            "latitude": 34.074017199604185,
+            "longitude": -117.205001
+        },
+        "The Coffee Bean & Tea Leaf": {
+            "osm_id": 5116078823,
+            "latitude": 34.062024199603776,
+            "longitude": -118.29110099999997
+        }
+    },
+    "180": {
+        "Wahoo's Fish Taco": {
+            "osm_id": 4692620149,
+            "latitude": 33.458950499589626,
+            "longitude": -117.65086300000002
+        },
+        "Chicken Dijon": {
+            "osm_id": 9048777781,
+            "latitude": 33.837190999596956,
+            "longitude": -118.34890339999997
+        },
+        "The Standing Room": {
+            "osm_id": 9048777783,
+            "latitude": 33.83714749959696,
+            "longitude": -118.3490261
+        },
+        "Ph\u1edf & Pok\u00e9": {
+            "osm_id": 9048777780,
+            "latitude": 33.83720469959696,
+            "longitude": -118.34883999999998
+        }
+    },
+    "181": {
+        "Everbowl": {
+            "osm_id": 9181471360,
+            "latitude": 32.956597199587854,
+            "longitude": -117.03820200000001
+        },
+        "El Burro Taco Shop": {
+            "osm_id": 11076247677,
+            "latitude": 33.590843899591604,
+            "longitude": -117.251788
+        }
+    },
+    "182": {
+        "California Coast Credit Union": {
+            "osm_id": 2345203167,
+            "latitude": 32.839108299588716,
+            "longitude": -116.98120599999999
+        },
+        "D'Lish Gourmet Pasta & Pizza": {
+            "osm_id": 9530955217,
+            "latitude": 32.63849769959132,
+            "longitude": -117.04947240000001
+        }
+    },
+    "183": {
+        "Zelzah/Chatsworth": {
+            "osm_id": 10629326069,
+            "latitude": 34.264647299611454,
+            "longitude": -118.52352629999997
+        },
+        "Little Free Library": {
+            "osm_id": 10717551651,
+            "latitude": 34.26468549961147,
+            "longitude": -118.52328520000002
+        }
+    },
+    "184": {
+        "bobaHi": {
+            "osm_id": 11047387239,
+            "latitude": 33.80260849959608,
+            "longitude": -118.32975219999997
+        },
+        "Dr. Smile": {
+            "osm_id": 4463341670,
+            "latitude": 33.802658299596075,
+            "longitude": -118.32987109999999
+        }
+    },
+    "185": {
+        "Veronica's Kitchen": {
+            "osm_id": 9525513803,
+            "latitude": 32.85345539958859,
+            "longitude": -116.6155406
+        },
+        "Descanso Post Office": {
+            "osm_id": 358845846,
+            "latitude": 32.853428899588586,
+            "longitude": -116.615811
+        }
+    },
+    "186": {
+        "Pasadena Christian School": {
+            "osm_id": 358826050,
+            "latitude": 34.18139469960812,
+            "longitude": -118.16007179999998
+        },
+        "Lincoln Avenue Presbyterian Church": {
+            "osm_id": 358825967,
+            "latitude": 34.181116899608114,
+            "longitude": -118.16007179999998
+        }
+    },
+    "187": {
+        "U.S. Bank": {
+            "osm_id": 4378804438,
+            "latitude": 33.77343069959536,
+            "longitude": -118.11949649999998
+        },
+        "Starbucks": {
+            "osm_id": 3179899925,
+            "latitude": 35.47558509968757,
+            "longitude": -120.65651269999998
+        }
+    },
+    "188": {
+        "Yum Yum Donuts": {
+            "osm_id": 10059097820,
+            "latitude": 34.023467199602464,
+            "longitude": -118.4616864
+        },
+        "Starbucks": {
+            "osm_id": 6983561861,
+            "latitude": 32.62909709959147,
+            "longitude": -117.0397829
+        },
+        "Vanitea": {
+            "osm_id": 6656081468,
+            "latitude": 32.62908749959147,
+            "longitude": -117.03959849999997
+        }
+    },
+    "189": {
+        "H&M": {
+            "osm_id": 6810258738,
+            "latitude": 34.60438519962768,
+            "longitude": -118.1531745
+        },
+        "McConnell's Fine Ice Creams": {
+            "osm_id": 2456191546,
+            "latitude": 35.281000699671964,
+            "longitude": -120.66298299999998
+        }
+    },
+    "190": {
+        "Sephora": {
+            "osm_id": 9451449844,
+            "latitude": 34.152969899607044,
+            "longitude": -118.6456582
+        },
+        "Fresh Brothers Pizza Calabasas": {
+            "osm_id": 9451449846,
+            "latitude": 34.15289549960704,
+            "longitude": -118.64595599999998
+        }
+    },
+    "191": {
+        "Village Pizzeria": {
+            "osm_id": 2521583225,
+            "latitude": 34.162717099607406,
+            "longitude": -118.05283700000001
+        },
+        "Wisteria": {
+            "osm_id": 5322655359,
+            "latitude": 34.16276739960741,
+            "longitude": -118.05247909999999
+        }
+    },
+    "192": {
+        "Mesa Barbershop": {
+            "osm_id": 4933000868,
+            "latitude": 32.91466099958811,
+            "longitude": -117.14609339999998
+        },
+        "Snowy Village Dessert Cafe": {
+            "osm_id": 6117157306,
+            "latitude": 32.914440299588115,
+            "longitude": -117.1462167
+        },
+        "Ding Tea": {
+            "osm_id": 4933000867,
+            "latitude": 32.91466099958811,
+            "longitude": -117.1460123
+        }
+    },
+    "193": {
+        "Jersey Mike's Subs": {
+            "osm_id": 7708999680,
+            "latitude": 32.83104339958879,
+            "longitude": -117.13048569999998
+        },
+        "Red Baron Pizza": {
+            "osm_id": 2972451686,
+            "latitude": 34.253703899611004,
+            "longitude": -116.8843801
+        },
+        "Restaurant & Sports Bar": {
+            "osm_id": 2972451687,
+            "latitude": 34.253738799611014,
+            "longitude": -116.88422869999997
+        }
+    },
+    "194": {
+        "Eye Care": {
+            "osm_id": 9206559780,
+            "latitude": 32.708716699590255,
+            "longitude": -117.01109419999997
+        },
+        "Sombrero Mexican Food": {
+            "osm_id": 9206559781,
+            "latitude": 32.708807399590235,
+            "longitude": -117.01112690000001
+        },
+        "Subway": {
+            "osm_id": 365356041,
+            "latitude": 32.70876219959024,
+            "longitude": -117.01111000000002
+        }
+    },
+    "195": {
+        "Cake supplies": {
+            "osm_id": 3939355377,
+            "latitude": 34.2012613996089,
+            "longitude": -118.6042019
+        },
+        "Follow Your Heart Cafe": {
+            "osm_id": 3840429389,
+            "latitude": 34.20140959960891,
+            "longitude": -118.60387299999998
+        }
+    },
+    "196": {
+        "Santa Monica & Gardner;Santa Monica / Gardner": {
+            "osm_id": 6276871623,
+            "latitude": 34.090859999604774,
+            "longitude": -118.35320599999997
+        },
+        "breakfast by salt\u2019s cure": {
+            "osm_id": 7090436187,
+            "latitude": 34.09062979960476,
+            "longitude": -118.35288450000002
+        }
+    },
+    "197": {
+        "Subway": {
+            "osm_id": 6209361035,
+            "latitude": 33.77381659959538,
+            "longitude": -117.00593009999999
+        },
+        "Pam's Donut & Ice Cream": {
+            "osm_id": 7341735659,
+            "latitude": 34.122179399605905,
+            "longitude": -117.322315
+        }
+    },
+    "198": {
+        "AT&T": {
+            "osm_id": 11342606220,
+            "latitude": 33.55740459959104,
+            "longitude": -117.2011439
+        },
+        "Ono Hawaiian BBQ": {
+            "osm_id": 9892963004,
+            "latitude": 34.0773167996043,
+            "longitude": -117.37077760000001
+        }
+    },
+    "199": {
+        "Jolanda's Cafe & Catering": {
+            "osm_id": 11303571605,
+            "latitude": 33.62089579959214,
+            "longitude": -117.70310570000001
+        },
+        "La Llorna Birria & Marisco": {
+            "osm_id": 10791203326,
+            "latitude": 33.62112409959215,
+            "longitude": -117.70336109999998
+        },
+        "Veggos": {
+            "osm_id": 10791212811,
+            "latitude": 33.62107739959215,
+            "longitude": -117.70330420000002
+        }
+    },
+    "200": {
+        "KoRyu Ramen San Pedro": {
+            "osm_id": 10863470399,
+            "latitude": 33.738858299594554,
+            "longitude": -118.28490260000001
+        },
+        "Senfuku Japannese Restaurant": {
+            "osm_id": 10863580564,
+            "latitude": 33.738868299594564,
+            "longitude": -118.28531029999999
+        },
+        "Sebastian's Mediterranean Cuisine": {
+            "osm_id": 10863532026,
+            "latitude": 33.738941899594565,
+            "longitude": -118.28514800000002
+        },
+        "Baramee Thai Restaurant": {
+            "osm_id": 10863516070,
+            "latitude": 33.73891289959457,
+            "longitude": -118.28478519999999
+        }
+    },
+    "201": {
+        "Bird Prick Tea & Herb": {
+            "osm_id": 4824070374,
+            "latitude": 34.145183599606746,
+            "longitude": -118.1520576
+        },
+        "Cheval Bistro": {
+            "osm_id": 2159763189,
+            "latitude": 34.14520069960675,
+            "longitude": -118.15242289999996
+        }
+    },
+    "202": {
+        "Crown Cleaners": {
+            "osm_id": 3001839822,
+            "latitude": 33.821889499596566,
+            "longitude": -118.10759599999999
+        },
+        "Bella's Pizza": {
+            "osm_id": 6057612392,
+            "latitude": 33.94464079959999,
+            "longitude": -117.41537249999999
+        }
+    },
+    "203": {
+        "Tokyo Chick": {
+            "osm_id": 4812129158,
+            "latitude": 34.145970799606786,
+            "longitude": -118.1456717
+        },
+        "Fogo de Ch\u00e3o": {
+            "osm_id": 4588406491,
+            "latitude": 34.14565519960676,
+            "longitude": -118.14577400000002
+        },
+        "O2 Sushi pasadena": {
+            "osm_id": 3180241466,
+            "latitude": 34.146020599606786,
+            "longitude": -118.14529579999999
+        }
+    },
+    "204": {
+        "Beach Cities Real Estate": {
+            "osm_id": 7039029668,
+            "latitude": 33.42610809958924,
+            "longitude": -117.6145713
+        },
+        "J'Adore Caf\u00e9": {
+            "osm_id": 7039029667,
+            "latitude": 33.426080099589235,
+            "longitude": -117.6146088
+        }
+    },
+    "205": {
+        "P.F. Chang's": {
+            "osm_id": 5469618855,
+            "latitude": 33.86163909959761,
+            "longitude": -118.09296800000001
+        },
+        "Kitchen Of Korea": {
+            "osm_id": 10030607337,
+            "latitude": 33.83296599959685,
+            "longitude": -118.34753589999997
+        },
+        "BJ's": {
+            "osm_id": 2898491815,
+            "latitude": 33.83261379959684,
+            "longitude": -118.34723680000002
+        }
+    },
+    "206": {
+        "Crunch Fitness": {
+            "osm_id": 10894771601,
+            "latitude": 33.575349199591344,
+            "longitude": -117.2027914
+        },
+        "Enterprise": {
+            "osm_id": 4572131793,
+            "latitude": 34.002218899601786,
+            "longitude": -117.8090555
+        }
+    },
+    "207": {
+        "Kreuzberg Coffee Company": {
+            "osm_id": 2293611915,
+            "latitude": 35.627875599700616,
+            "longitude": -120.69063829999999
+        },
+        "Thomas Hill Organics": {
+            "osm_id": 3833401358,
+            "latitude": 35.62804639970063,
+            "longitude": -120.69041349999999
+        }
+    },
+    "208": {
+        "Blick Art Materials": {
+            "osm_id": 6642540085,
+            "latitude": 34.045321999603196,
+            "longitude": -118.45297359999998
+        },
+        "Laemmle's Royal": {
+            "osm_id": 5405879622,
+            "latitude": 34.045388799603195,
+            "longitude": -118.452782
+        }
+    },
+    "209": {
+        "Clinica Medica Familiar De Santa Ana": {
+            "osm_id": 7356761703,
+            "latitude": 33.74957589959481,
+            "longitude": -117.8673566
+        },
+        "McFadden Public Market": {
+            "osm_id": 7356761702,
+            "latitude": 33.7492717995948,
+            "longitude": -117.86744680000001
+        }
+    },
+    "210": {
+        "Barber Shop": {
+            "osm_id": 6811714559,
+            "latitude": 34.57889919962632,
+            "longitude": -118.12596799999999
+        },
+        "Dentist": {
+            "osm_id": 7902254448,
+            "latitude": 33.859703499597565,
+            "longitude": -118.14376480000001
+        }
+    },
+    "211": {
+        "Wilshire & Barrington": {
+            "osm_id": 2076440723,
+            "latitude": 34.04928819960333,
+            "longitude": -118.461279
+        },
+        "Wood Ranch": {
+            "osm_id": 10181219261,
+            "latitude": 34.049091499603335,
+            "longitude": -118.46096929999997
+        }
+    },
+    "212": {
+        "Meridien Dental": {
+            "osm_id": 5209121413,
+            "latitude": 34.035499599602865,
+            "longitude": -118.472032
+        },
+        "Santa Monica Dentistry For Children": {
+            "osm_id": 5209121382,
+            "latitude": 34.03546659960287,
+            "longitude": -118.472127
+        }
+    },
+    "213": {
+        "Walgreens": {
+            "osm_id": 9251480259,
+            "latitude": 33.983151999601155,
+            "longitude": -117.73179709999998
+        },
+        "Korean Cultural Center": {
+            "osm_id": 368167487,
+            "latitude": 34.06261059960379,
+            "longitude": -118.34847059999998
+        }
+    },
+    "214": {
+        "Ugo": {
+            "osm_id": 5216141539,
+            "latitude": 34.015525499602205,
+            "longitude": -118.49598899999998
+        },
+        "Tender Greens": {
+            "osm_id": 8092162453,
+            "latitude": 34.023406799602476,
+            "longitude": -118.39521799999999
+        }
+    },
+    "215": {
+        "Union Bank": {
+            "osm_id": 11536116612,
+            "latitude": 34.15159199960699,
+            "longitude": -118.25476929999999
+        },
+        "Citibank": {
+            "osm_id": 1469734591,
+            "latitude": 34.43525809961909,
+            "longitude": -119.803956
+        }
+    },
+    "216": {
+        "Crisp Imaging": {
+            "osm_id": 3961992052,
+            "latitude": 34.025607499602536,
+            "longitude": -118.39541700000001
+        },
+        "India Sweets & Spices": {
+            "osm_id": 3961992053,
+            "latitude": 34.02556449960253,
+            "longitude": -118.3955288
+        }
+    },
+    "217": {
+        "Fred Loya Insurance": {
+            "osm_id": 10913744630,
+            "latitude": 34.07429309960418,
+            "longitude": -117.4353961
+        },
+        "Dave's Hot Chicken": {
+            "osm_id": 10913744631,
+            "latitude": 34.074177099604185,
+            "longitude": -117.4354054
+        }
+    },
+    "218": {
+        "Merkababe Designs": {
+            "osm_id": 10294220602,
+            "latitude": 33.53460429959069,
+            "longitude": -117.77756960000002
+        },
+        "The Laguna Coffee Company": {
+            "osm_id": 10294231617,
+            "latitude": 33.534617499590695,
+            "longitude": -117.7771502
+        }
+    },
+    "219": {
+        "Yogurtland": {
+            "osm_id": 4685792393,
+            "latitude": 33.61813419959209,
+            "longitude": -117.70165599999999
+        },
+        "Chipotle": {
+            "osm_id": 1694928602,
+            "latitude": 33.6508840995927,
+            "longitude": -117.7429244
+        },
+        "The Melt": {
+            "osm_id": 11026717244,
+            "latitude": 33.65092939959271,
+            "longitude": -117.74338840000001
+        }
+    },
+    "220": {
+        "Simply Salad": {
+            "osm_id": 11374434082,
+            "latitude": 34.04826499960331,
+            "longitude": -118.2468449
+        },
+        "The Coffee Bean & Tea Leaf": {
+            "osm_id": 1584153811,
+            "latitude": 34.045323099603195,
+            "longitude": -118.26041299999997
+        }
+    },
+    "221": {
+        "Crystal Arts": {
+            "osm_id": 1250664527,
+            "latitude": 33.81124489959629,
+            "longitude": -117.9188219
+        },
+        "The Gibson Girl Ice Cream Parlor": {
+            "osm_id": 1231986605,
+            "latitude": 33.811150599596296,
+            "longitude": -117.91913589999999
+        }
+    },
+    "222": {
+        "French Press Espresso Bar": {
+            "osm_id": 11488301335,
+            "latitude": 34.11550459960566,
+            "longitude": -117.7677234
+        },
+        "Chubby's Homemade Ice Cream": {
+            "osm_id": 11488301341,
+            "latitude": 34.11546059960565,
+            "longitude": -117.7677234
+        }
+    },
+    "223": {
+        "Rite Aid": {
+            "osm_id": 11402447433,
+            "latitude": 33.92657149959946,
+            "longitude": -118.2378466
+        },
+        "Rosa y Jos\u00e9": {
+            "osm_id": 9451449847,
+            "latitude": 34.15345809960706,
+            "longitude": -118.64428180000002
+        }
+    },
+    "224": {
+        "T-Mobile": {
+            "osm_id": 3733692360,
+            "latitude": 34.15512999960713,
+            "longitude": -118.466573
+        },
+        "Jimmy John's": {
+            "osm_id": 6776211963,
+            "latitude": 33.650591299592705,
+            "longitude": -117.83831920000002
+        },
+        "Nekter Juice Bar": {
+            "osm_id": 9659792320,
+            "latitude": 33.6503974995927,
+            "longitude": -117.8383032
+        },
+        "Pok\u00e9 Kai": {
+            "osm_id": 9659792319,
+            "latitude": 33.65038409959269,
+            "longitude": -117.83824120000001
+        }
+    },
+    "225": {
+        "Rhone": {
+            "osm_id": 1834815927,
+            "latitude": 33.615202199592034,
+            "longitude": -117.87682579999999
+        },
+        "Pressed Juicery": {
+            "osm_id": 10160399150,
+            "latitude": 33.61504519959203,
+            "longitude": -117.87711870000001
+        }
+    },
+    "226": {
+        "UCLA Gateway Plaza;Luskin / Gateway Plaza / Ackerman": {
+            "osm_id": 6356007095,
+            "latitude": 34.06934199960402,
+            "longitude": -118.445247
+        },
+        "Plateia": {
+            "osm_id": 9189145243,
+            "latitude": 34.06958779960404,
+            "longitude": -118.4455404
+        }
+    },
+    "227": {
+        "Enterprise": {
+            "osm_id": 445993580,
+            "latitude": 32.801576499589096,
+            "longitude": -117.23712299999998
+        },
+        "Et Voil\u00e0": {
+            "osm_id": 2908246026,
+            "latitude": 35.24833309966947,
+            "longitude": -120.68334550000002
+        },
+        "Ribline": {
+            "osm_id": 2908246024,
+            "latitude": 35.248385599669476,
+            "longitude": -120.6832476
+        }
+    },
+    "228": {
+        "American Eagle Outfitters": {
+            "osm_id": 1509392985,
+            "latitude": 32.76881049958948,
+            "longitude": -117.1473957
+        },
+        "Auntie Anne's": {
+            "osm_id": 8759214980,
+            "latitude": 34.059379899603684,
+            "longitude": -118.4198252
+        }
+    },
+    "229": {
+        "Blackbeard's": {
+            "osm_id": 8356232920,
+            "latitude": 34.04346879960314,
+            "longitude": -118.4456129
+        },
+        "Tempura House": {
+            "osm_id": 9742148507,
+            "latitude": 34.043566999603144,
+            "longitude": -118.44571399999995
+        }
+    },
+    "230": {
+        "Eyes of Westwood": {
+            "osm_id": 8866870495,
+            "latitude": 34.06246319960378,
+            "longitude": -118.4464509
+        },
+        "Taco Bell": {
+            "osm_id": 5044880022,
+            "latitude": 34.06272959960379,
+            "longitude": -118.4466237
+        },
+        "Primo's Donuts": {
+            "osm_id": 9265689495,
+            "latitude": 34.06244569960378,
+            "longitude": -118.44685790000001
+        }
+    },
+    "231": {
+        "Et Voil\u00e0": {
+            "osm_id": 2908246026,
+            "latitude": 35.24833309966947,
+            "longitude": -120.68334550000002
+        },
+        "Enterprise": {
+            "osm_id": 2908246019,
+            "latitude": 35.24851049966949,
+            "longitude": -120.68302700000001
+        }
+    },
+    "232": {
+        "National & Bagley": {
+            "osm_id": 7831489192,
+            "latitude": 34.031265399602724,
+            "longitude": -118.39617999999997
+        },
+        "FLO": {
+            "osm_id": 9392877361,
+            "latitude": 34.031423299602736,
+            "longitude": -118.3965493
+        }
+    },
+    "233": {
+        "Tacos Los Desvelados": {
+            "osm_id": 8910268689,
+            "latitude": 34.17244699960777,
+            "longitude": -118.2794388
+        },
+        "Yoga-urt": {
+            "osm_id": 4380750511,
+            "latitude": 34.17270299960778,
+            "longitude": -118.2795323
+        }
+    },
+    "234": {
+        "Advanced Skin Clinic & Surgery": {
+            "osm_id": 9153398348,
+            "latitude": 34.10219589960518,
+            "longitude": -117.6337287
+        },
+        "Cucamonga Valley Medical Group": {
+            "osm_id": 9153398345,
+            "latitude": 34.102125599605166,
+            "longitude": -117.63348919999999
+        },
+        "Mark Alwan, M.D. Obstetrics & Gynecology": {
+            "osm_id": 9153398346,
+            "latitude": 34.102062499605175,
+            "longitude": -117.63363099999997
+        },
+        "Basim Z. Abdelkarim, M.D. Gastroenterology & Liver Diseases": {
+            "osm_id": 9153398343,
+            "latitude": 34.10224739960518,
+            "longitude": -117.63356099999997
+        },
+        "The Neurology Group": {
+            "osm_id": 9153398344,
+            "latitude": 34.10218389960518,
+            "longitude": -117.63353479999999
+        },
+        "LabCorp": {
+            "osm_id": 9153398342,
+            "latitude": 34.10229239960518,
+            "longitude": -117.63359099999997
+        },
+        "Care for Womens Obstetrics & Gynecology": {
+            "osm_id": 9153398349,
+            "latitude": 34.10224349960518,
+            "longitude": -117.63376
+        },
+        "Parkside Medical Group": {
+            "osm_id": 9153398347,
+            "latitude": 34.10213469960517,
+            "longitude": -117.63368179999999
+        }
+    },
+    "235": {
+        "Cafe Hue": {
+            "osm_id": 7143027647,
+            "latitude": 32.814414499588956,
+            "longitude": -117.15391789999998
+        },
+        "Koon Thai Kitchen": {
+            "osm_id": 7280733473,
+            "latitude": 32.814560399588956,
+            "longitude": -117.15376769999999
+        }
+    },
+    "236": {
+        "News Connection": {
+            "osm_id": 6699713215,
+            "latitude": 34.0602329996037,
+            "longitude": -117.59626719999999
+        },
+        "Cross Grain Brewhouse": {
+            "osm_id": 6699713224,
+            "latitude": 34.06028539960371,
+            "longitude": -117.59867250000002
+        }
+    },
+    "237": {
+        "Walgreens": {
+            "osm_id": 587616127,
+            "latitude": 34.13218039960627,
+            "longitude": -117.61560050000001
+        },
+        "Fatburger": {
+            "osm_id": 11315868169,
+            "latitude": 34.01183269960209,
+            "longitude": -118.4827022
+        }
+    },
+    "238": {
+        "Mama D's": {
+            "osm_id": 9071654519,
+            "latitude": 33.87243849959792,
+            "longitude": -118.39480899999997
+        },
+        "Rabano": {
+            "osm_id": 9042262750,
+            "latitude": 33.87260719959791,
+            "longitude": -118.39488
+        },
+        "Best Donuts": {
+            "osm_id": 9071654520,
+            "latitude": 33.87253419959791,
+            "longitude": -118.394855
+        }
+    },
+    "239": {
+        "Central & California": {
+            "osm_id": 11536161301,
+            "latitude": 34.14958999960691,
+            "longitude": -118.25806369999998
+        },
+        "Starbucks": {
+            "osm_id": 11536161299,
+            "latitude": 34.14965729960692,
+            "longitude": -118.2581599
+        }
+    },
+    "240": {
+        "Mesa Nueva/Vela Parking Structure": {
+            "osm_id": 7965569384,
+            "latitude": 32.875908799588395,
+            "longitude": -117.2233845
+        },
+        "UCSD - Nuevo West": {
+            "osm_id": 6638889788,
+            "latitude": 32.87594869958839,
+            "longitude": -117.22370500000001
+        }
+    },
+    "241": {
+        "La Michoacana Premium": {
+            "osm_id": 6518152733,
+            "latitude": 33.71486819959403,
+            "longitude": -117.8843165
+        },
+        "La Michoacana": {
+            "osm_id": 6560526189,
+            "latitude": 33.71489349959404,
+            "longitude": -117.88438970000001
+        }
+    },
+    "242": {
+        "Vivi Eatery": {
+            "osm_id": 7041205841,
+            "latitude": 33.975460799600924,
+            "longitude": -117.34138729999997
+        },
+        "Ten Ren's Tea Time": {
+            "osm_id": 7041205842,
+            "latitude": 33.97546299960093,
+            "longitude": -117.34156969999998
+        }
+    },
+    "243": {
+        "Market Street & 22nd Street": {
+            "osm_id": 5897263900,
+            "latitude": 32.711649599590196,
+            "longitude": -117.144211
+        },
+        "Our Lady of Angels School": {
+            "osm_id": 358790141,
+            "latitude": 32.7117182995902,
+            "longitude": -117.14392129999999
+        }
+    },
+    "244": {
+        "Rossmore & Melrose": {
+            "osm_id": 6610471699,
+            "latitude": 34.0832451996045,
+            "longitude": -118.32651099999998
+        },
+        "Mario's Peruvian Restaurant": {
+            "osm_id": 455670372,
+            "latitude": 34.083184099604495,
+            "longitude": -118.32627859999997
+        }
+    },
+    "245": {
+        "Hour Glass Optical": {
+            "osm_id": 10742652216,
+            "latitude": 34.04148569960307,
+            "longitude": -118.47104829999998
+        },
+        "Urban Golf Performance": {
+            "osm_id": 10742652215,
+            "latitude": 34.04154669960307,
+            "longitude": -118.47095299999998
+        }
+    },
+    "246": {
+        "Total Tooth Fitness": {
+            "osm_id": 5209121385,
+            "latitude": 34.030466999602716,
+            "longitude": -118.48469130000001
+        },
+        "Emperors College of Traditional Oriental Medicine": {
+            "osm_id": 358858246,
+            "latitude": 34.0303007996027,
+            "longitude": -118.4850455
+        }
+    },
+    "247": {
+        "Thyme Cafe": {
+            "osm_id": 2461998176,
+            "latitude": 34.01185369960209,
+            "longitude": -118.46763559999995
+        },
+        "Ghisallo": {
+            "osm_id": 10592457284,
+            "latitude": 34.01171519960209,
+            "longitude": -118.4678822
+        }
+    },
+    "248": {
+        "European Wax Center": {
+            "osm_id": 10757296074,
+            "latitude": 33.6186413995921,
+            "longitude": -117.70220070000002
+        },
+        "Chicken BunBun": {
+            "osm_id": 9021351729,
+            "latitude": 34.037526199602944,
+            "longitude": -118.44047100000002
+        },
+        "Organico": {
+            "osm_id": 8809792896,
+            "latitude": 34.03789609960295,
+            "longitude": -118.440761
+        }
+    },
+    "249": {
+        "Art Printer": {
+            "osm_id": 11445797977,
+            "latitude": 33.9966550996016,
+            "longitude": -118.43061730000001
+        },
+        "The Corner Door": {
+            "osm_id": 8756227297,
+            "latitude": 33.99697649960161,
+            "longitude": -118.43062759999997
+        }
+    },
+    "250": {
+        "Ray's Pizza": {
+            "osm_id": 9630405562,
+            "latitude": 33.650653299592705,
+            "longitude": -117.83807499999999
+        },
+        "Tender Greens": {
+            "osm_id": 7192264987,
+            "latitude": 33.6503438995927,
+            "longitude": -117.838127
+        },
+        "ADYA": {
+            "osm_id": 7192264990,
+            "latitude": 33.6505570995927,
+            "longitude": -117.8379002
+        },
+        "Breakfast Republic": {
+            "osm_id": 9659800682,
+            "latitude": 33.650411099592695,
+            "longitude": -117.8377808
+        }
+    }
+}

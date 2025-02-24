@@ -1,0 +1,2937 @@
+{
+    "70": {
+        "The Holding Company": {
+            "osm_id": 365318089,
+            "latitude": 32.74750999958973,
+            "longitude": -117.2518187
+        },
+        "Cheswick\u2019s West": {
+            "osm_id": 596192426,
+            "latitude": 32.747450299589715,
+            "longitude": -117.25171049999999
+        },
+        "Tony\u2019s Newport Cafe": {
+            "osm_id": 365318126,
+            "latitude": 32.74738049958973,
+            "longitude": -117.25162080000001
+        },
+        "Sunshine Company": {
+            "osm_id": 365317803,
+            "latitude": 32.74735369958973,
+            "longitude": -117.25146600000001
+        }
+    },
+    "76": {
+        "Sesloc Federal Credit Union": {
+            "osm_id": 10205351961,
+            "latitude": 35.30027659967345,
+            "longitude": -120.65897479999997
+        },
+        "Chase": {
+            "osm_id": 4368702564,
+            "latitude": 35.300106199673436,
+            "longitude": -120.65882599999999
+        }
+    },
+    "189": {
+        "South Park Brewing": {
+            "osm_id": 4442511168,
+            "latitude": 32.721711099590074,
+            "longitude": -117.13007099999999
+        },
+        "Hamilton's Tavern": {
+            "osm_id": 965699425,
+            "latitude": 32.72175759959006,
+            "longitude": -117.1300702
+        }
+    },
+    "308": {
+        "Citibank": {
+            "osm_id": 2346873468,
+            "latitude": 34.058489099603655,
+            "longitude": -118.443991
+        },
+        "Union Bank": {
+            "osm_id": 2346873467,
+            "latitude": 34.058381799603644,
+            "longitude": -118.444244
+        }
+    },
+    "376": {
+        "Opus Bank": {
+            "osm_id": 3186139363,
+            "latitude": 34.146509099606796,
+            "longitude": -118.00114579999999
+        },
+        "PacTrans Federal Credit Union": {
+            "osm_id": 3186139364,
+            "latitude": 34.146742099606804,
+            "longitude": -118.0011516
+        }
+    },
+    "516": {
+        "Armed Forces Bank": {
+            "osm_id": 6925245321,
+            "latitude": 32.67923179959067,
+            "longitude": -117.1203503
+        },
+        "Navy Federal": {
+            "osm_id": 6913770541,
+            "latitude": 32.67913129959067,
+            "longitude": -117.1201109
+        }
+    },
+    "713": {
+        "Union Bank": {
+            "osm_id": 9576863031,
+            "latitude": 34.01718359960227,
+            "longitude": -118.49452719999996
+        },
+        "Pacific Western Bank": {
+            "osm_id": 9576863032,
+            "latitude": 34.01694189960226,
+            "longitude": -118.4942257
+        }
+    },
+    "724": {
+        "State Bank of India (California)": {
+            "osm_id": 10005211000,
+            "latitude": 33.87219059959791,
+            "longitude": -118.0632586
+        },
+        "Schools First Credit Union": {
+            "osm_id": 10005210999,
+            "latitude": 33.8722843995979,
+            "longitude": -118.063261
+        }
+    },
+    "732": {
+        "Wells Fargo": {
+            "osm_id": 5111904921,
+            "latitude": 34.06152659960375,
+            "longitude": -118.30214509999998
+        },
+        "Woori": {
+            "osm_id": 10933394752,
+            "latitude": 34.06150569960375,
+            "longitude": -118.30170640000001
+        }
+    },
+    "854": {
+        "Beyond Baroque Literary/Arts Center": {
+            "osm_id": 368167146,
+            "latitude": 33.991388899601425,
+            "longitude": -118.45888799999999
+        },
+        "Social and Public Art Resource Center": {
+            "osm_id": 10728948059,
+            "latitude": 33.99148679960143,
+            "longitude": -118.45860150000001
+        }
+    },
+    "904": {
+        "Pacific Western Bank": {
+            "osm_id": 3508005815,
+            "latitude": 34.05625829960358,
+            "longitude": -117.17991949999998
+        },
+        "Wells Fargo": {
+            "osm_id": 1368575170,
+            "latitude": 34.05626059960357,
+            "longitude": -117.17950999999998
+        }
+    },
+    "977": {
+        "Til-Two Club": {
+            "osm_id": 3843181070,
+            "latitude": 32.756199299589625,
+            "longitude": -117.09247280000001
+        },
+        "Recognize Cocktails": {
+            "osm_id": 365317571,
+            "latitude": 32.75628599958962,
+            "longitude": -117.09241799999998
+        }
+    },
+    "980": {
+        "Bonitas Bar and Grill": {
+            "osm_id": 365317457,
+            "latitude": 32.79030999958922,
+            "longitude": -116.97175199999998
+        },
+        "Dumonts": {
+            "osm_id": 365317491,
+            "latitude": 32.79037799958921,
+            "longitude": -116.971687
+        }
+    },
+    "1050": {
+        "One Door North": {
+            "osm_id": 365317593,
+            "latitude": 32.741553999589804,
+            "longitude": -117.13036610000002
+        },
+        "Bluefoot": {
+            "osm_id": 766269156,
+            "latitude": 32.74136109958981,
+            "longitude": -117.13037
+        },
+        "Modern Times: North Park Flavordome": {
+            "osm_id": 4254798063,
+            "latitude": 32.74156279958981,
+            "longitude": -117.129946
+        }
+    },
+    "1072": {
+        "Bank of America": {
+            "osm_id": 3417930443,
+            "latitude": 32.88034619958835,
+            "longitude": -117.23610599999998
+        },
+        "Wells Fargo": {
+            "osm_id": 6433429264,
+            "latitude": 32.880344799588364,
+            "longitude": -117.236022
+        },
+        "Chase": {
+            "osm_id": 446674599,
+            "latitude": 32.88034669958836,
+            "longitude": -117.23606299999999
+        }
+    },
+    "1075": {
+        "Precinct DTLA": {
+            "osm_id": 6486195544,
+            "latitude": 34.04983309960335,
+            "longitude": -118.2493274
+        },
+        "Chatterbox": {
+            "osm_id": 10744639084,
+            "latitude": 34.049916699603344,
+            "longitude": -118.24923569999999
+        }
+    },
+    "1201": {
+        "Small Bar": {
+            "osm_id": 6311891692,
+            "latitude": 32.761533599589555,
+            "longitude": -117.14644719999998
+        },
+        "Park & Rec": {
+            "osm_id": 596227912,
+            "latitude": 32.76126699958956,
+            "longitude": -117.1464936
+        }
+    },
+    "1234": {
+        "Oscars Cocktail Bar": {
+            "osm_id": 365317854,
+            "latitude": 32.7497845995897,
+            "longitude": -117.1025243
+        },
+        "Rainbow Bar and Grill": {
+            "osm_id": 365318023,
+            "latitude": 32.749809999589694,
+            "longitude": -117.10239799999997
+        }
+    },
+    "1242": {
+        "San Diego Eagle": {
+            "osm_id": 365317499,
+            "latitude": 32.74751649958973,
+            "longitude": -117.12869989999999
+        },
+        "Mike Hess Brewing": {
+            "osm_id": 596158252,
+            "latitude": 32.74770629958972,
+            "longitude": -117.12847899999998
+        }
+    },
+    "1292": {
+        "Scarlet Lady Saloon": {
+            "osm_id": 9176912201,
+            "latitude": 33.99460039960154,
+            "longitude": -118.3957547
+        },
+        "Stage 21": {
+            "osm_id": 8543216424,
+            "latitude": 33.99494649960154,
+            "longitude": -118.395788
+        }
+    },
+    "1360": {
+        "Sesloc Federal Credit Union": {
+            "osm_id": 10205351961,
+            "latitude": 35.30027659967345,
+            "longitude": -120.65897479999997
+        },
+        "Chase": {
+            "osm_id": 4368702564,
+            "latitude": 35.300106199673436,
+            "longitude": -120.65882599999999
+        }
+    },
+    "1376": {
+        "U.S. Bank": {
+            "osm_id": 4326425212,
+            "latitude": 33.63687089959243,
+            "longitude": -117.5911616
+        },
+        "Western Union": {
+            "osm_id": 4330462595,
+            "latitude": 33.636871799592434,
+            "longitude": -117.59138280000002
+        }
+    },
+    "1589": {
+        "Precinct DTLA": {
+            "osm_id": 6486195544,
+            "latitude": 34.04983309960335,
+            "longitude": -118.2493274
+        },
+        "Chatterbox": {
+            "osm_id": 10744639084,
+            "latitude": 34.049916699603344,
+            "longitude": -118.24923569999999
+        }
+    },
+    "1594": {
+        "The Holding Company": {
+            "osm_id": 365318089,
+            "latitude": 32.74750999958973,
+            "longitude": -117.2518187
+        },
+        "Cheswick\u2019s West": {
+            "osm_id": 596192426,
+            "latitude": 32.747450299589715,
+            "longitude": -117.25171049999999
+        },
+        "Tony\u2019s Newport Cafe": {
+            "osm_id": 365318126,
+            "latitude": 32.74738049958973,
+            "longitude": -117.25162080000001
+        },
+        "Sunshine Company": {
+            "osm_id": 365317803,
+            "latitude": 32.74735369958973,
+            "longitude": -117.25146600000001
+        }
+    },
+    "1691": {
+        "The Office": {
+            "osm_id": 365317883,
+            "latitude": 32.74918649958971,
+            "longitude": -117.13041920000002
+        },
+        "Coin-Op Game Room": {
+            "osm_id": 5430484523,
+            "latitude": 32.74902029958971,
+            "longitude": -117.13041920000002
+        }
+    },
+    "1728": {
+        "PB Shore Club": {
+            "osm_id": 596261552,
+            "latitude": 32.79419999958917,
+            "longitude": -117.25569000000002
+        },
+        "Ale House": {
+            "osm_id": 7124741385,
+            "latitude": 32.79431659958918,
+            "longitude": -117.2554016
+        }
+    },
+    "1752": {
+        "12": {
+            "osm_id": 5622964377,
+            "latitude": 33.70120519959373,
+            "longitude": -117.8905866
+        },
+        "11": {
+            "osm_id": 5618870780,
+            "latitude": 33.70140169959373,
+            "longitude": -117.8903844
+        }
+    },
+    "1793": {
+        "The Hatch Rotisserie & Bar": {
+            "osm_id": 5272586228,
+            "latitude": 35.62797369970062,
+            "longitude": -120.68925360000001
+        },
+        "Diablo Pase Wines": {
+            "osm_id": 5272586227,
+            "latitude": 35.62797859970062,
+            "longitude": -120.6893713
+        }
+    },
+    "1807": {
+        "JuneShine": {
+            "osm_id": 365318113,
+            "latitude": 32.755602899589626,
+            "longitude": -117.1287312
+        },
+        "Pariah Brewing Company": {
+            "osm_id": 6313226248,
+            "latitude": 32.75572189958962,
+            "longitude": -117.12875080000002
+        },
+        "Eppig Brewing North Park": {
+            "osm_id": 6313226249,
+            "latitude": 32.75584189958962,
+            "longitude": -117.1287317
+        }
+    },
+    "1835": {
+        "Johnny WAHOO! Golf Bar": {
+            "osm_id": 11060509646,
+            "latitude": 32.71086549959021,
+            "longitude": -117.159944
+        },
+        "Double Black Lounge Bar & Kitchen": {
+            "osm_id": 9215210426,
+            "latitude": 32.71092179959022,
+            "longitude": -117.1602994
+        }
+    },
+    "1868": {
+        "JuneShine": {
+            "osm_id": 365318113,
+            "latitude": 32.755602899589626,
+            "longitude": -117.1287312
+        },
+        "Pariah Brewing Company": {
+            "osm_id": 6313226248,
+            "latitude": 32.75572189958962,
+            "longitude": -117.12875080000002
+        },
+        "Eppig Brewing North Park": {
+            "osm_id": 6313226249,
+            "latitude": 32.75584189958962,
+            "longitude": -117.1287317
+        }
+    },
+    "1892": {
+        "Star Club": {
+            "osm_id": 365318070,
+            "latitude": 32.71447699959017,
+            "longitude": -117.16045499999998
+        },
+        "Gaslamp Tavern": {
+            "osm_id": 9215079083,
+            "latitude": 32.71452649959016,
+            "longitude": -117.16030790000002
+        }
+    },
+    "1896": {
+        "Wells Fargo Home Mortgage": {
+            "osm_id": 5282412720,
+            "latitude": 34.06726559960396,
+            "longitude": -118.39640340000001
+        },
+        "Torrey Pines Bank": {
+            "osm_id": 5282412719,
+            "latitude": 34.06726179960395,
+            "longitude": -118.39618389999997
+        }
+    },
+    "1930": {
+        "Chang Memorial Bench": {
+            "osm_id": 11474850151,
+            "latitude": 34.12930179960617,
+            "longitude": -118.29822799999998
+        },
+        "Mason Memorial Bench": {
+            "osm_id": 11474850154,
+            "latitude": 34.12937959960616,
+            "longitude": -118.2984246
+        },
+        "Sikand Memorial Bench": {
+            "osm_id": 11474850153,
+            "latitude": 34.12948459960616,
+            "longitude": -118.2984902
+        },
+        "Chien Memorial Bench": {
+            "osm_id": 11474850152,
+            "latitude": 34.129518699606166,
+            "longitude": -118.29832630000001
+        }
+    },
+    "1946": {
+        "Bank of America": {
+            "osm_id": 3417930443,
+            "latitude": 32.88034619958835,
+            "longitude": -117.23610599999998
+        },
+        "Wells Fargo": {
+            "osm_id": 6433429264,
+            "latitude": 32.880344799588364,
+            "longitude": -117.236022
+        },
+        "Chase": {
+            "osm_id": 446674599,
+            "latitude": 32.88034669958836,
+            "longitude": -117.23606299999999
+        }
+    },
+    "1991": {
+        "Wells Fargo": {
+            "osm_id": 3561883817,
+            "latitude": 33.956662799600345,
+            "longitude": -118.39580879999998
+        },
+        "Citibank": {
+            "osm_id": 10285296464,
+            "latitude": 33.957008599600364,
+            "longitude": -118.39595780000002
+        }
+    },
+    "2008": {
+        "Revolver Video Bar": {
+            "osm_id": 1028939711,
+            "latitude": 34.08552009960458,
+            "longitude": -118.38362159999997
+        },
+        "Fiesta Cantina": {
+            "osm_id": 2450176012,
+            "latitude": 34.08534309960458,
+            "longitude": -118.38396200000001
+        }
+    },
+    "2124": {
+        "Urban Bar & Grill": {
+            "osm_id": 3804821757,
+            "latitude": 32.71406389959017,
+            "longitude": -117.16000020000001
+        },
+        "analog bar": {
+            "osm_id": 3804832757,
+            "latitude": 32.713747999590176,
+            "longitude": -117.1599946
+        }
+    },
+    "2147": {
+        "Hong Kong Nite Club": {
+            "osm_id": 365317660,
+            "latitude": 32.71598399959014,
+            "longitude": -117.15531799999998
+        },
+        "El Dorado": {
+            "osm_id": 4272496829,
+            "latitude": 32.715862499590145,
+            "longitude": -117.1550644
+        }
+    },
+    "2208": {
+        "The Falls": {
+            "osm_id": 4317785191,
+            "latitude": 34.04524209960321,
+            "longitude": -118.2514183
+        },
+        "Spring St Bar": {
+            "osm_id": 4317785190,
+            "latitude": 34.045187499603195,
+            "longitude": -118.2514598
+        }
+    },
+    "2215": {
+        "Stone Brewing Tap Room": {
+            "osm_id": 5190989421,
+            "latitude": 32.70887019959024,
+            "longitude": -117.15752680000001
+        },
+        "Fairweather Rooftop Bar": {
+            "osm_id": 9506307219,
+            "latitude": 32.70896169959024,
+            "longitude": -117.15756189999999
+        }
+    },
+    "2279": {
+        "The Sycamore Den": {
+            "osm_id": 365318207,
+            "latitude": 32.763208299589536,
+            "longitude": -117.12087280000001
+        },
+        "The Ould Sod": {
+            "osm_id": 365317217,
+            "latitude": 32.763090999589544,
+            "longitude": -117.12120199999998
+        }
+    },
+    "2291": {
+        "Hong Kong Nite Club": {
+            "osm_id": 365317660,
+            "latitude": 32.71598399959014,
+            "longitude": -117.15531799999998
+        },
+        "El Dorado": {
+            "osm_id": 4272496829,
+            "latitude": 32.715862499590145,
+            "longitude": -117.1550644
+        }
+    },
+    "2320": {
+        "Citibank": {
+            "osm_id": 277839901,
+            "latitude": 32.86819829958846,
+            "longitude": -117.23209300000002
+        },
+        "Chase": {
+            "osm_id": 393631711,
+            "latitude": 32.86813639958846,
+            "longitude": -117.23236010000001
+        }
+    },
+    "2330": {
+        "Bank of America": {
+            "osm_id": 1949785430,
+            "latitude": 34.070625699604065,
+            "longitude": -118.444423
+        },
+        "Wells Fargo": {
+            "osm_id": 2393204881,
+            "latitude": 34.070624599604066,
+            "longitude": -118.444373
+        },
+        "Chase": {
+            "osm_id": 1949785590,
+            "latitude": 34.07070179960407,
+            "longitude": -118.44436200000001
+        }
+    },
+    "2384": {
+        "Garage Kitchen & Bar": {
+            "osm_id": 11060509643,
+            "latitude": 32.712207199590196,
+            "longitude": -117.16088140000001
+        },
+        "The Shout! House": {
+            "osm_id": 365317749,
+            "latitude": 32.71202379959019,
+            "longitude": -117.16087859999999
+        }
+    },
+    "2387": {
+        "Toronado": {
+            "osm_id": 965697545,
+            "latitude": 32.750857599589686,
+            "longitude": -117.1305052
+        },
+        "Redwing Bar and Grill": {
+            "osm_id": 365317148,
+            "latitude": 32.75066499958969,
+            "longitude": -117.13050899999999
+        }
+    },
+    "2554": {
+        "The Library": {
+            "osm_id": 4929649356,
+            "latitude": 35.278951199671816,
+            "longitude": -120.66401080000001
+        },
+        "Mother's Tavern": {
+            "osm_id": 4917413176,
+            "latitude": 35.27904569967181,
+            "longitude": -120.6639702
+        }
+    },
+    "2575": {
+        "SLO Credit Union": {
+            "osm_id": 4929502922,
+            "latitude": 35.28008779967188,
+            "longitude": -120.6594945
+        },
+        "Pacific Western Bank": {
+            "osm_id": 4929502924,
+            "latitude": 35.28030639967191,
+            "longitude": -120.6598261
+        }
+    },
+    "2581": {
+        "First Citizens Bank": {
+            "osm_id": 9301611689,
+            "latitude": 33.830860999596794,
+            "longitude": -118.34583699999999
+        },
+        "City National Bank": {
+            "osm_id": 9301611688,
+            "latitude": 33.830718599596786,
+            "longitude": -118.345967
+        }
+    },
+    "2592": {
+        "The Flamingo": {
+            "osm_id": 2363609917,
+            "latitude": 34.058341499603635,
+            "longitude": -117.18236749999997
+        },
+        "Romano's": {
+            "osm_id": 2363608979,
+            "latitude": 34.05821699960364,
+            "longitude": -117.18236190000002
+        }
+    },
+    "2717": {
+        "Erics": {
+            "osm_id": 365317345,
+            "latitude": 32.70722199959027,
+            "longitude": -116.997943
+        },
+        "La Barrita Bar": {
+            "osm_id": 11168597737,
+            "latitude": 32.70728889959027,
+            "longitude": -116.99797739999998
+        }
+    },
+    "2778": {
+        "Fernside": {
+            "osm_id": 766275192,
+            "latitude": 32.72635709959001,
+            "longitude": -117.12942579999999
+        },
+        "The South Park Abbey": {
+            "osm_id": 596759763,
+            "latitude": 32.726358999590005,
+            "longitude": -117.129436
+        }
+    },
+    "2783": {
+        "The Flamingo": {
+            "osm_id": 2363609917,
+            "latitude": 34.058341499603635,
+            "longitude": -117.18236749999997
+        },
+        "Romano's": {
+            "osm_id": 2363608979,
+            "latitude": 34.05821699960364,
+            "longitude": -117.18236190000002
+        }
+    },
+    "2826": {
+        "Carthay Circle Lounge": {
+            "osm_id": 1794117837,
+            "latitude": 33.8074025995962,
+            "longitude": -117.9189308
+        },
+        "1901": {
+            "osm_id": 1770175960,
+            "latitude": 33.807374099596196,
+            "longitude": -117.91907430000002
+        }
+    },
+    "2827": {
+        "Time Out Sports Tavern": {
+            "osm_id": 11404844857,
+            "latitude": 32.715886799590145,
+            "longitude": -117.1587609
+        },
+        "Beer Company": {
+            "osm_id": 4978438221,
+            "latitude": 32.71589419959014,
+            "longitude": -117.1590349
+        }
+    },
+    "2894": {
+        "BarrelHouse Brewing Co.": {
+            "osm_id": 4049015938,
+            "latitude": 35.280146199671904,
+            "longitude": -120.66322480000001
+        },
+        "Creeky Tiki": {
+            "osm_id": 2487322299,
+            "latitude": 35.27978429967189,
+            "longitude": -120.66327549999998
+        }
+    },
+    "2929": {
+        "Bank of America": {
+            "osm_id": 3322212227,
+            "latitude": 32.775792999589385,
+            "longitude": -117.07056200000001
+        },
+        "Chase": {
+            "osm_id": 3343030019,
+            "latitude": 32.775824499589376,
+            "longitude": -117.070561
+        },
+        "Wells Fargo": {
+            "osm_id": 3338977593,
+            "latitude": 32.77576259958939,
+            "longitude": -117.070561
+        }
+    },
+    "2934": {
+        "The Regal": {
+            "osm_id": 365318172,
+            "latitude": 32.76551659958951,
+            "longitude": -117.0181248
+        },
+        "Petes Place": {
+            "osm_id": 365317142,
+            "latitude": 32.765412099589504,
+            "longitude": -117.0184998
+        }
+    },
+    "2945": {
+        "Bar 107": {
+            "osm_id": 560066659,
+            "latitude": 34.04862559960331,
+            "longitude": -118.2476319
+        },
+        "Bar Ama": {
+            "osm_id": 5451344729,
+            "latitude": 34.0483578996033,
+            "longitude": -118.24773529999999
+        }
+    },
+    "3245": {
+        "W at Worthington's": {
+            "osm_id": 10148815289,
+            "latitude": 33.98144689960112,
+            "longitude": -117.37305440000002
+        },
+        "Downtown Experiment": {
+            "osm_id": 10148815290,
+            "latitude": 33.98160039960112,
+            "longitude": -117.37332259999997
+        }
+    },
+    "3247": {
+        "Pacific Western Bank": {
+            "osm_id": 3508005815,
+            "latitude": 34.05625829960358,
+            "longitude": -117.17991949999998
+        },
+        "Wells Fargo": {
+            "osm_id": 1368575170,
+            "latitude": 34.05626059960357,
+            "longitude": -117.17950999999998
+        }
+    },
+    "3360": {
+        "South Park Brewing": {
+            "osm_id": 4442511168,
+            "latitude": 32.721711099590074,
+            "longitude": -117.13007099999999
+        },
+        "Hamilton's Tavern": {
+            "osm_id": 965699425,
+            "latitude": 32.72175759959006,
+            "longitude": -117.1300702
+        }
+    },
+    "3394": {
+        "The Holding Company": {
+            "osm_id": 365318089,
+            "latitude": 32.74750999958973,
+            "longitude": -117.2518187
+        },
+        "Cheswick\u2019s West": {
+            "osm_id": 596192426,
+            "latitude": 32.747450299589715,
+            "longitude": -117.25171049999999
+        },
+        "Tony\u2019s Newport Cafe": {
+            "osm_id": 365318126,
+            "latitude": 32.74738049958973,
+            "longitude": -117.25162080000001
+        },
+        "Sunshine Company": {
+            "osm_id": 365317803,
+            "latitude": 32.74735369958973,
+            "longitude": -117.25146600000001
+        }
+    },
+    "3483": {
+        "U.S. Bank": {
+            "osm_id": 5635218821,
+            "latitude": 33.76190079959509,
+            "longitude": -118.07843209999999
+        },
+        "Chase": {
+            "osm_id": 5636294024,
+            "latitude": 33.76189459959509,
+            "longitude": -118.07816809999998
+        }
+    },
+    "3537": {
+        "Banamex": {
+            "osm_id": 3767766427,
+            "latitude": 32.57316349959245,
+            "longitude": -116.63029400000002
+        },
+        "HSBC (Global)": {
+            "osm_id": 3767648996,
+            "latitude": 32.573470499592446,
+            "longitude": -116.630316
+        }
+    },
+    "3566": {
+        "San Diego Eagle": {
+            "osm_id": 365317499,
+            "latitude": 32.74751649958973,
+            "longitude": -117.12869989999999
+        },
+        "Mike Hess Brewing": {
+            "osm_id": 596158252,
+            "latitude": 32.74770629958972,
+            "longitude": -117.12847899999998
+        }
+    },
+    "3661": {
+        "Bank of America": {
+            "osm_id": 3417930443,
+            "latitude": 32.88034619958835,
+            "longitude": -117.23610599999998
+        },
+        "Wells Fargo": {
+            "osm_id": 6433429264,
+            "latitude": 32.880344799588364,
+            "longitude": -117.236022
+        },
+        "Chase": {
+            "osm_id": 446674599,
+            "latitude": 32.88034669958836,
+            "longitude": -117.23606299999999
+        }
+    },
+    "3725": {
+        "Menagerie": {
+            "osm_id": 2412667661,
+            "latitude": 33.981397699601125,
+            "longitude": -117.3729325
+        },
+        "W at Worthington's": {
+            "osm_id": 10148815289,
+            "latitude": 33.98144689960112,
+            "longitude": -117.37305440000002
+        },
+        "Downtown Experiment": {
+            "osm_id": 10148815290,
+            "latitude": 33.98160039960112,
+            "longitude": -117.37332259999997
+        },
+        "Raincross Pub": {
+            "osm_id": 10148815288,
+            "latitude": 33.98130449960111,
+            "longitude": -117.3726949
+        }
+    },
+    "3742": {
+        "Carthay Circle Lounge": {
+            "osm_id": 1794117837,
+            "latitude": 33.8074025995962,
+            "longitude": -117.9189308
+        },
+        "1901": {
+            "osm_id": 1770175960,
+            "latitude": 33.807374099596196,
+            "longitude": -117.91907430000002
+        }
+    },
+    "3895": {
+        "Armed Forces Bank": {
+            "osm_id": 6925245321,
+            "latitude": 32.67923179959067,
+            "longitude": -117.1203503
+        },
+        "Navy Federal": {
+            "osm_id": 6913770541,
+            "latitude": 32.67913129959067,
+            "longitude": -117.1201109
+        }
+    },
+    "3912": {
+        "Gossip Grill": {
+            "osm_id": 1448557328,
+            "latitude": 32.74872779958971,
+            "longitude": -117.15290299999997
+        },
+        "Uptown Tavern": {
+            "osm_id": 1974495839,
+            "latitude": 32.7487222995897,
+            "longitude": -117.15259299999998
+        }
+    },
+    "3917": {
+        "The Hatch Rotisserie & Bar": {
+            "osm_id": 5272586228,
+            "latitude": 35.62797369970062,
+            "longitude": -120.68925360000001
+        },
+        "Diablo Pase Wines": {
+            "osm_id": 5272586227,
+            "latitude": 35.62797859970062,
+            "longitude": -120.6893713
+        }
+    },
+    "4015": {
+        "Baja Sharkeez": {
+            "osm_id": 5889680529,
+            "latitude": 34.41728989961823,
+            "longitude": -119.6964566
+        },
+        "The Red Piano": {
+            "osm_id": 5633534807,
+            "latitude": 34.417233499618234,
+            "longitude": -119.69636949999999
+        }
+    },
+    "4059": {
+        "Scarlet Lady Saloon": {
+            "osm_id": 9176912201,
+            "latitude": 33.99460039960154,
+            "longitude": -118.3957547
+        },
+        "Stage 21": {
+            "osm_id": 8543216424,
+            "latitude": 33.99494649960154,
+            "longitude": -118.395788
+        }
+    },
+    "4088": {
+        "Bank of America": {
+            "osm_id": 6346002011,
+            "latitude": 34.202798599608954,
+            "longitude": -118.4318844
+        },
+        "Western Union": {
+            "osm_id": 6346001994,
+            "latitude": 34.20246239960895,
+            "longitude": -118.43198600000001
+        }
+    },
+    "4115": {
+        "L.P.": {
+            "osm_id": 5644457037,
+            "latitude": 34.08215379960448,
+            "longitude": -118.3767682
+        },
+        "Meleose Rooftop": {
+            "osm_id": 6969879585,
+            "latitude": 34.08226269960446,
+            "longitude": -118.37696829999997
+        }
+    },
+    "4137": {
+        "U.S. Bank": {
+            "osm_id": 5635218821,
+            "latitude": 33.76190079959509,
+            "longitude": -118.07843209999999
+        },
+        "Chase": {
+            "osm_id": 5636294024,
+            "latitude": 33.76189459959509,
+            "longitude": -118.07816809999998
+        }
+    },
+    "4142": {
+        "Toronado": {
+            "osm_id": 965697545,
+            "latitude": 32.750857599589686,
+            "longitude": -117.1305052
+        },
+        "Redwing Bar and Grill": {
+            "osm_id": 365317148,
+            "latitude": 32.75066499958969,
+            "longitude": -117.13050899999999
+        }
+    },
+    "4212": {
+        "Hair Of The Dog": {
+            "osm_id": 3228950866,
+            "latitude": 33.82557569959666,
+            "longitude": -116.54659259999997
+        },
+        "The Tonga Hut": {
+            "osm_id": 3228950877,
+            "latitude": 33.82586989959667,
+            "longitude": -116.54662180000001
+        }
+    },
+    "4222": {
+        "Coldwell Banker": {
+            "osm_id": 1098383702,
+            "latitude": 34.07605439960424,
+            "longitude": -118.32399
+        },
+        "Wells Fargo": {
+            "osm_id": 1098382737,
+            "latitude": 34.075894499604246,
+            "longitude": -118.32398859999999
+        }
+    },
+    "4275": {
+        "First Citizens Bank": {
+            "osm_id": 9301611689,
+            "latitude": 33.830860999596794,
+            "longitude": -118.34583699999999
+        },
+        "City National Bank": {
+            "osm_id": 9301611688,
+            "latitude": 33.830718599596786,
+            "longitude": -118.345967
+        }
+    },
+    "4284": {
+        "Pixels": {
+            "osm_id": 10148815287,
+            "latitude": 33.981195599601115,
+            "longitude": -117.37253129999998
+        },
+        "Raincross Pub": {
+            "osm_id": 10148815288,
+            "latitude": 33.98130449960111,
+            "longitude": -117.3726949
+        }
+    },
+    "4336": {
+        "Bottlecraft": {
+            "osm_id": 6313226246,
+            "latitude": 32.748278399589715,
+            "longitude": -117.12977479999999
+        },
+        "Bar Pink": {
+            "osm_id": 365317516,
+            "latitude": 32.74795099958972,
+            "longitude": -117.129772
+        },
+        "Califronia Tap Room": {
+            "osm_id": 6313226245,
+            "latitude": 32.747658799589736,
+            "longitude": -117.1295605
+        },
+        "True North": {
+            "osm_id": 365317470,
+            "latitude": 32.747661499589725,
+            "longitude": -117.1298203
+        }
+    },
+    "4362": {
+        "The Falls": {
+            "osm_id": 4317785191,
+            "latitude": 34.04524209960321,
+            "longitude": -118.2514183
+        },
+        "Spring St Bar": {
+            "osm_id": 4317785190,
+            "latitude": 34.045187499603195,
+            "longitude": -118.2514598
+        }
+    },
+    "4393": {
+        "Coldwell Banker": {
+            "osm_id": 1098383702,
+            "latitude": 34.07605439960424,
+            "longitude": -118.32399
+        },
+        "Wells Fargo": {
+            "osm_id": 1098382737,
+            "latitude": 34.075894499604246,
+            "longitude": -118.32398859999999
+        }
+    },
+    "4494": {
+        "City National Bank": {
+            "osm_id": 10671449471,
+            "latitude": 34.0539811996035,
+            "longitude": -118.46495069999997
+        },
+        "Union Bank": {
+            "osm_id": 10671449477,
+            "latitude": 34.054063599603495,
+            "longitude": -118.46452079999997
+        }
+    },
+    "4497": {
+        "Lowboy": {
+            "osm_id": 11378679120,
+            "latitude": 34.07630979960426,
+            "longitude": -118.2567329
+        },
+        "Gold Room": {
+            "osm_id": 4166615846,
+            "latitude": 34.07647959960427,
+            "longitude": -118.2571172
+        }
+    },
+    "4509": {
+        "Golden Gopher": {
+            "osm_id": 6486288336,
+            "latitude": 34.0449459996032,
+            "longitude": -118.25627699999998
+        },
+        "broken shaker": {
+            "osm_id": 6810621785,
+            "latitude": 34.04471109960318,
+            "longitude": -118.25650880000002
+        }
+    },
+    "4565": {
+        "Bank of America": {
+            "osm_id": 3322212227,
+            "latitude": 32.775792999589385,
+            "longitude": -117.07056200000001
+        },
+        "Chase": {
+            "osm_id": 3343030019,
+            "latitude": 32.775824499589376,
+            "longitude": -117.070561
+        },
+        "Wells Fargo": {
+            "osm_id": 3338977593,
+            "latitude": 32.77576259958939,
+            "longitude": -117.070561
+        }
+    },
+    "4785": {
+        "Board Room": {
+            "osm_id": 365317909,
+            "latitude": 32.72866599958997,
+            "longitude": -117.16362799999999
+        },
+        "Cherrobomb": {
+            "osm_id": 6652600988,
+            "latitude": 32.72878729958997,
+            "longitude": -117.16358979999997
+        }
+    },
+    "4801": {
+        "Bonitas Bar and Grill": {
+            "osm_id": 365317457,
+            "latitude": 32.79030999958922,
+            "longitude": -116.97175199999998
+        },
+        "Dumonts": {
+            "osm_id": 365317491,
+            "latitude": 32.79037799958921,
+            "longitude": -116.971687
+        }
+    },
+    "4953": {
+        "9": {
+            "osm_id": 5492382209,
+            "latitude": 33.701884699593755,
+            "longitude": -117.89028190000002
+        },
+        "8": {
+            "osm_id": 5633942908,
+            "latitude": 33.701811799593735,
+            "longitude": -117.89070340000002
+        }
+    },
+    "5033": {
+        "Blackie's": {
+            "osm_id": 9291781368,
+            "latitude": 33.608968399591916,
+            "longitude": -117.92928420000001
+        },
+        "Beach Ball": {
+            "osm_id": 9440486913,
+            "latitude": 33.608916299591925,
+            "longitude": -117.92924369999999
+        }
+    },
+    "5131": {
+        "Garage Kitchen & Bar": {
+            "osm_id": 11060509643,
+            "latitude": 32.712207199590196,
+            "longitude": -117.16088140000001
+        },
+        "The Shout! House": {
+            "osm_id": 365317749,
+            "latitude": 32.71202379959019,
+            "longitude": -117.16087859999999
+        }
+    },
+    "5214": {
+        "First Financial Credit Union": {
+            "osm_id": 3184175950,
+            "latitude": 34.141541599606605,
+            "longitude": -118.13208130000001
+        },
+        "Simplicity Bank": {
+            "osm_id": 3184175962,
+            "latitude": 34.14146259960661,
+            "longitude": -118.1320745
+        }
+    },
+    "5316": {
+        "Bank of America": {
+            "osm_id": 5746413701,
+            "latitude": 32.74670759958973,
+            "longitude": -117.2505261
+        },
+        "Wells Fargo": {
+            "osm_id": 5746413702,
+            "latitude": 32.74687109958974,
+            "longitude": -117.25079949999997
+        }
+    },
+    "5406": {
+        "State Bank of India (California)": {
+            "osm_id": 10005211000,
+            "latitude": 33.87219059959791,
+            "longitude": -118.0632586
+        },
+        "Schools First Credit Union": {
+            "osm_id": 10005210999,
+            "latitude": 33.8722843995979,
+            "longitude": -118.063261
+        }
+    },
+    "5410": {
+        "The Luau": {
+            "osm_id": 11168777437,
+            "latitude": 32.76854499958947,
+            "longitude": -117.0442581
+        },
+        "Tommys Place": {
+            "osm_id": 365318080,
+            "latitude": 32.768445999589474,
+            "longitude": -117.044277
+        }
+    },
+    "5515": {
+        "Lowboy": {
+            "osm_id": 11378679120,
+            "latitude": 34.07630979960426,
+            "longitude": -118.2567329
+        },
+        "Gold Room": {
+            "osm_id": 4166615846,
+            "latitude": 34.07647959960427,
+            "longitude": -118.2571172
+        }
+    },
+    "5521": {
+        "Fernside": {
+            "osm_id": 766275192,
+            "latitude": 32.72635709959001,
+            "longitude": -117.12942579999999
+        },
+        "The South Park Abbey": {
+            "osm_id": 596759763,
+            "latitude": 32.726358999590005,
+            "longitude": -117.129436
+        }
+    },
+    "5565": {
+        "Wells Fargo Home Mortgage": {
+            "osm_id": 5282412720,
+            "latitude": 34.06726559960396,
+            "longitude": -118.39640340000001
+        },
+        "Torrey Pines Bank": {
+            "osm_id": 5282412719,
+            "latitude": 34.06726179960395,
+            "longitude": -118.39618389999997
+        }
+    },
+    "5581": {
+        "Wells Fargo": {
+            "osm_id": 5767088597,
+            "latitude": 33.97687549960098,
+            "longitude": -118.416762
+        },
+        "Chase": {
+            "osm_id": 5767088598,
+            "latitude": 33.97686989960097,
+            "longitude": -118.41675699999999
+        }
+    },
+    "5592": {
+        "Johnny WAHOO! Golf Bar": {
+            "osm_id": 11060509646,
+            "latitude": 32.71086549959021,
+            "longitude": -117.159944
+        },
+        "Double Black Lounge Bar & Kitchen": {
+            "osm_id": 9215210426,
+            "latitude": 32.71092179959022,
+            "longitude": -117.1602994
+        }
+    },
+    "5637": {
+        "Bank of America": {
+            "osm_id": 3417930443,
+            "latitude": 32.88034619958835,
+            "longitude": -117.23610599999998
+        },
+        "Wells Fargo": {
+            "osm_id": 6433429264,
+            "latitude": 32.880344799588364,
+            "longitude": -117.236022
+        },
+        "Chase": {
+            "osm_id": 446674599,
+            "latitude": 32.88034669958836,
+            "longitude": -117.23606299999999
+        }
+    },
+    "5648": {
+        "Union Bank": {
+            "osm_id": 1469734594,
+            "latitude": 34.435151899619086,
+            "longitude": -119.80395
+        },
+        "Citibank": {
+            "osm_id": 1469734591,
+            "latitude": 34.43525809961909,
+            "longitude": -119.803956
+        }
+    },
+    "5700": {
+        "Revolver Video Bar": {
+            "osm_id": 1028939711,
+            "latitude": 34.08552009960458,
+            "longitude": -118.38362159999997
+        },
+        "Fiesta Cantina": {
+            "osm_id": 2450176012,
+            "latitude": 34.08534309960458,
+            "longitude": -118.38396200000001
+        }
+    },
+    "5726": {
+        "BarrelHouse Brewing Co.": {
+            "osm_id": 4049015938,
+            "latitude": 35.280146199671904,
+            "longitude": -120.66322480000001
+        },
+        "Bull's Tavern": {
+            "osm_id": 2456191249,
+            "latitude": 35.28021419967191,
+            "longitude": -120.6629863
+        },
+        "Creeky Tiki": {
+            "osm_id": 2487322299,
+            "latitude": 35.27978429967189,
+            "longitude": -120.66327549999998
+        }
+    },
+    "5980": {
+        "Pixels": {
+            "osm_id": 10148815287,
+            "latitude": 33.981195599601115,
+            "longitude": -117.37253129999998
+        },
+        "Menagerie": {
+            "osm_id": 2412667661,
+            "latitude": 33.981397699601125,
+            "longitude": -117.3729325
+        },
+        "W at Worthington's": {
+            "osm_id": 10148815289,
+            "latitude": 33.98144689960112,
+            "longitude": -117.37305440000002
+        },
+        "Raincross Pub": {
+            "osm_id": 10148815288,
+            "latitude": 33.98130449960111,
+            "longitude": -117.3726949
+        }
+    },
+    "6039": {
+        "City National Bank": {
+            "osm_id": 10671449471,
+            "latitude": 34.0539811996035,
+            "longitude": -118.46495069999997
+        },
+        "Union Bank": {
+            "osm_id": 10671449477,
+            "latitude": 34.054063599603495,
+            "longitude": -118.46452079999997
+        }
+    },
+    "6060": {
+        "Bank of America": {
+            "osm_id": 277839880,
+            "latitude": 32.868298299588446,
+            "longitude": -117.231669
+        },
+        "Citibank": {
+            "osm_id": 277839901,
+            "latitude": 32.86819829958846,
+            "longitude": -117.23209300000002
+        }
+    },
+    "6069": {
+        "Wells Fargo In-branch ATM": {
+            "osm_id": 11033321536,
+            "latitude": 33.617912299592085,
+            "longitude": -117.70523739999999
+        },
+        "Wells Fargo External ATM": {
+            "osm_id": 10754024643,
+            "latitude": 33.61783949959208,
+            "longitude": -117.70519620000002
+        }
+    },
+    "6071": {
+        "Bottlecraft": {
+            "osm_id": 6313226246,
+            "latitude": 32.748278399589715,
+            "longitude": -117.12977479999999
+        },
+        "Bar Pink": {
+            "osm_id": 365317516,
+            "latitude": 32.74795099958972,
+            "longitude": -117.129772
+        }
+    },
+    "6080": {
+        "Bank of America": {
+            "osm_id": 1949785430,
+            "latitude": 34.070625699604065,
+            "longitude": -118.444423
+        },
+        "Wells Fargo": {
+            "osm_id": 2393204881,
+            "latitude": 34.070624599604066,
+            "longitude": -118.444373
+        },
+        "Chase": {
+            "osm_id": 1949785590,
+            "latitude": 34.07070179960407,
+            "longitude": -118.44436200000001
+        }
+    },
+    "6199": {
+        "Wescom": {
+            "osm_id": 9138951618,
+            "latitude": 34.07056999960406,
+            "longitude": -118.44437729999999
+        },
+        "University Credit Union": {
+            "osm_id": 1949785450,
+            "latitude": 34.07072179960408,
+            "longitude": -118.4441906
+        }
+    },
+    "6201": {
+        "PB Shore Club": {
+            "osm_id": 596261552,
+            "latitude": 32.79419999958917,
+            "longitude": -117.25569000000002
+        },
+        "Ale House": {
+            "osm_id": 7124741385,
+            "latitude": 32.79431659958918,
+            "longitude": -117.2554016
+        }
+    },
+    "6237": {
+        "The Holding Company": {
+            "osm_id": 365318089,
+            "latitude": 32.74750999958973,
+            "longitude": -117.2518187
+        },
+        "Cheswick\u2019s West": {
+            "osm_id": 596192426,
+            "latitude": 32.747450299589715,
+            "longitude": -117.25171049999999
+        },
+        "Tony\u2019s Newport Cafe": {
+            "osm_id": 365318126,
+            "latitude": 32.74738049958973,
+            "longitude": -117.25162080000001
+        },
+        "Sunshine Company": {
+            "osm_id": 365317803,
+            "latitude": 32.74735369958973,
+            "longitude": -117.25146600000001
+        }
+    },
+    "6302": {
+        "Chang Memorial Bench": {
+            "osm_id": 11474850151,
+            "latitude": 34.12930179960617,
+            "longitude": -118.29822799999998
+        },
+        "Mason Memorial Bench": {
+            "osm_id": 11474850154,
+            "latitude": 34.12937959960616,
+            "longitude": -118.2984246
+        },
+        "Sikand Memorial Bench": {
+            "osm_id": 11474850153,
+            "latitude": 34.12948459960616,
+            "longitude": -118.2984902
+        },
+        "Chien Memorial Bench": {
+            "osm_id": 11474850152,
+            "latitude": 34.129518699606166,
+            "longitude": -118.29832630000001
+        }
+    },
+    "6416": {
+        "18": {
+            "osm_id": 5620892093,
+            "latitude": 33.70264329959377,
+            "longitude": -117.8910604
+        },
+        "19": {
+            "osm_id": 5620892103,
+            "latitude": 33.70290829959376,
+            "longitude": -117.8913037
+        }
+    },
+    "6562": {
+        "Citibank": {
+            "osm_id": 5282413028,
+            "latitude": 34.06735069960395,
+            "longitude": -118.39820599999997
+        },
+        "Bank of the West": {
+            "osm_id": 5282413027,
+            "latitude": 34.06744159960397,
+            "longitude": -118.3980519
+        }
+    },
+    "6600": {
+        "Hair Of The Dog": {
+            "osm_id": 3228950866,
+            "latitude": 33.82557569959666,
+            "longitude": -116.54659259999997
+        },
+        "Desert Fox Bar": {
+            "osm_id": 3228924587,
+            "latitude": 33.825314999596664,
+            "longitude": -116.5465995
+        }
+    },
+    "6612": {
+        "U.S. Bank": {
+            "osm_id": 3485329494,
+            "latitude": 35.12080929966007,
+            "longitude": -120.60154719999998
+        },
+        "Chase": {
+            "osm_id": 3485329493,
+            "latitude": 35.12091889966008,
+            "longitude": -120.6017819
+        }
+    },
+    "6635": {
+        "18": {
+            "osm_id": 5620892093,
+            "latitude": 33.70264329959377,
+            "longitude": -117.8910604
+        },
+        "19": {
+            "osm_id": 5620892103,
+            "latitude": 33.70290829959376,
+            "longitude": -117.8913037
+        }
+    },
+    "6670": {
+        "Mina Lounge": {
+            "osm_id": 9215079101,
+            "latitude": 32.7120342995902,
+            "longitude": -117.159412
+        },
+        "Side Bar": {
+            "osm_id": 9215079100,
+            "latitude": 32.7116846995902,
+            "longitude": -117.1593897
+        }
+    },
+    "6849": {
+        "The Library": {
+            "osm_id": 4929649356,
+            "latitude": 35.278951199671816,
+            "longitude": -120.66401080000001
+        },
+        "Mother's Tavern": {
+            "osm_id": 4917413176,
+            "latitude": 35.27904569967181,
+            "longitude": -120.6639702
+        }
+    },
+    "6875": {
+        "Telesis Community Credit Union": {
+            "osm_id": 7115175293,
+            "latitude": 34.28350279961226,
+            "longitude": -118.71824600000001
+        },
+        "Premier America Credit Union": {
+            "osm_id": 7115175294,
+            "latitude": 34.28338689961225,
+            "longitude": -118.71830470000002
+        }
+    },
+    "6879": {
+        "One Door North": {
+            "osm_id": 365317593,
+            "latitude": 32.741553999589804,
+            "longitude": -117.13036610000002
+        },
+        "Modern Times: North Park Flavordome": {
+            "osm_id": 4254798063,
+            "latitude": 32.74156279958981,
+            "longitude": -117.129946
+        }
+    },
+    "6918": {
+        "Chang Memorial Bench": {
+            "osm_id": 11474850151,
+            "latitude": 34.12930179960617,
+            "longitude": -118.29822799999998
+        },
+        "Mason Memorial Bench": {
+            "osm_id": 11474850154,
+            "latitude": 34.12937959960616,
+            "longitude": -118.2984246
+        },
+        "Sikand Memorial Bench": {
+            "osm_id": 11474850153,
+            "latitude": 34.12948459960616,
+            "longitude": -118.2984902
+        },
+        "Chien Memorial Bench": {
+            "osm_id": 11474850152,
+            "latitude": 34.129518699606166,
+            "longitude": -118.29832630000001
+        }
+    },
+    "6932": {
+        "Chase": {
+            "osm_id": 9313114373,
+            "latitude": 33.90216799959874,
+            "longitude": -118.3840212
+        },
+        "City National Bank": {
+            "osm_id": 4936121702,
+            "latitude": 33.90217729959874,
+            "longitude": -118.38364099999998
+        }
+    },
+    "6977": {
+        "Motherlode": {
+            "osm_id": 1028939685,
+            "latitude": 34.08386119960452,
+            "longitude": -118.38516000000001
+        },
+        "Tom Tom Bar": {
+            "osm_id": 5207270063,
+            "latitude": 34.08405419960453,
+            "longitude": -118.38487020000001
+        }
+    },
+    "7136": {
+        "Banamex": {
+            "osm_id": 3767766427,
+            "latitude": 32.57316349959245,
+            "longitude": -116.63029400000002
+        },
+        "HSBC (Global)": {
+            "osm_id": 3767648996,
+            "latitude": 32.573470499592446,
+            "longitude": -116.630316
+        }
+    },
+    "7209": {
+        "SchoolsFirst Federal Credit Union": {
+            "osm_id": 4882463847,
+            "latitude": 34.136434599606424,
+            "longitude": -118.13248449999998
+        },
+        "California Credit Union": {
+            "osm_id": 10683754063,
+            "latitude": 34.13678659960643,
+            "longitude": -118.13250119999996
+        }
+    },
+    "7219": {
+        "Wells Fargo": {
+            "osm_id": 3561883817,
+            "latitude": 33.956662799600345,
+            "longitude": -118.39580879999998
+        },
+        "Citibank": {
+            "osm_id": 10285296464,
+            "latitude": 33.957008599600364,
+            "longitude": -118.39595780000002
+        }
+    },
+    "7237": {
+        "Far East Rock": {
+            "osm_id": 365318064,
+            "latitude": 32.58363599959226,
+            "longitude": -117.11226699999997
+        },
+        "Silver Sands": {
+            "osm_id": 365318119,
+            "latitude": 32.58364599959227,
+            "longitude": -117.11204499999998
+        }
+    },
+    "7362": {
+        "Rough Draft Brewing Company": {
+            "osm_id": 8870930724,
+            "latitude": 32.949745699587886,
+            "longitude": -117.23387970000002
+        },
+        "North Pine Brewing": {
+            "osm_id": 8873711080,
+            "latitude": 32.94951849958789,
+            "longitude": -117.2338768
+        }
+    },
+    "7497": {
+        "Citibank": {
+            "osm_id": 2346873468,
+            "latitude": 34.058489099603655,
+            "longitude": -118.443991
+        },
+        "Union Bank": {
+            "osm_id": 2346873467,
+            "latitude": 34.058381799603644,
+            "longitude": -118.444244
+        }
+    },
+    "7511": {
+        "The Office": {
+            "osm_id": 365317883,
+            "latitude": 32.74918649958971,
+            "longitude": -117.13041920000002
+        },
+        "Coin-Op Game Room": {
+            "osm_id": 5430484523,
+            "latitude": 32.74902029958971,
+            "longitude": -117.13041920000002
+        }
+    },
+    "7550": {
+        "Kensington Brewing Company": {
+            "osm_id": 6970728340,
+            "latitude": 32.76308839958953,
+            "longitude": -117.1075905
+        },
+        "Kensington Club": {
+            "osm_id": 365317793,
+            "latitude": 32.763004999589526,
+            "longitude": -117.107695
+        }
+    },
+    "7557": {
+        "Motherlode": {
+            "osm_id": 1028939685,
+            "latitude": 34.08386119960452,
+            "longitude": -118.38516000000001
+        },
+        "Tom Tom Bar": {
+            "osm_id": 5207270063,
+            "latitude": 34.08405419960453,
+            "longitude": -118.38487020000001
+        }
+    },
+    "7576": {
+        "First Financial Credit Union": {
+            "osm_id": 3184175950,
+            "latitude": 34.141541599606605,
+            "longitude": -118.13208130000001
+        },
+        "Simplicity Bank": {
+            "osm_id": 3184175962,
+            "latitude": 34.14146259960661,
+            "longitude": -118.1320745
+        }
+    },
+    "7674": {
+        "Union Bank": {
+            "osm_id": 1672439229,
+            "latitude": 34.42972399961883,
+            "longitude": -119.87422499999998
+        },
+        "Key Point Credit Union": {
+            "osm_id": 1672439407,
+            "latitude": 34.429545399618824,
+            "longitude": -119.8738614
+        }
+    },
+    "7684": {
+        "Pit Stop Sports Bar": {
+            "osm_id": 365317895,
+            "latitude": 32.95613069958785,
+            "longitude": -117.05306129999998
+        },
+        "The Olde Carriage Tavern": {
+            "osm_id": 6222359919,
+            "latitude": 32.95600599958785,
+            "longitude": -117.05307569999998
+        }
+    },
+    "7715": {
+        "Chase": {
+            "osm_id": 6262454651,
+            "latitude": 33.78164269959555,
+            "longitude": -118.1138633
+        },
+        "Bank of America": {
+            "osm_id": 6262454664,
+            "latitude": 33.78159739959557,
+            "longitude": -118.113813
+        }
+    },
+    "7757": {
+        "Pit Stop Sports Bar": {
+            "osm_id": 365317895,
+            "latitude": 32.95613069958785,
+            "longitude": -117.05306129999998
+        },
+        "The Olde Carriage Tavern": {
+            "osm_id": 6222359919,
+            "latitude": 32.95600599958785,
+            "longitude": -117.05307569999998
+        }
+    },
+    "7784": {
+        "Union Bank": {
+            "osm_id": 1672439229,
+            "latitude": 34.42972399961883,
+            "longitude": -119.87422499999998
+        },
+        "Key Point Credit Union": {
+            "osm_id": 1672439407,
+            "latitude": 34.429545399618824,
+            "longitude": -119.8738614
+        }
+    },
+    "7806": {
+        "Wells Fargo": {
+            "osm_id": 5629661812,
+            "latitude": 34.14113869960659,
+            "longitude": -118.22506900000002
+        },
+        "Bank of America": {
+            "osm_id": 5629661811,
+            "latitude": 34.14107309960659,
+            "longitude": -118.22487999999998
+        }
+    },
+    "8091": {
+        "Charles Schwab": {
+            "osm_id": 3785830198,
+            "latitude": 34.18460399960825,
+            "longitude": -118.605353
+        },
+        "Wells Fargo": {
+            "osm_id": 3935087984,
+            "latitude": 34.18495219960827,
+            "longitude": -118.60536399999997
+        }
+    },
+    "8176": {
+        "Citibank": {
+            "osm_id": 5282413028,
+            "latitude": 34.06735069960395,
+            "longitude": -118.39820599999997
+        },
+        "Bank of the West": {
+            "osm_id": 5282413027,
+            "latitude": 34.06744159960397,
+            "longitude": -118.3980519
+        }
+    },
+    "8229": {
+        "Aro Latin": {
+            "osm_id": 6422124318,
+            "latitude": 34.11562639960567,
+            "longitude": -118.15637309999998
+        },
+        "Griffin's of Kinsale": {
+            "osm_id": 3134132928,
+            "latitude": 34.115634299605674,
+            "longitude": -118.15677920000002
+        }
+    },
+    "8248": {
+        "Baja Sharkeez": {
+            "osm_id": 5889680529,
+            "latitude": 34.41728989961823,
+            "longitude": -119.6964566
+        },
+        "The Red Piano": {
+            "osm_id": 5633534807,
+            "latitude": 34.417233499618234,
+            "longitude": -119.69636949999999
+        }
+    },
+    "8361": {
+        "The Luau": {
+            "osm_id": 11168777437,
+            "latitude": 32.76854499958947,
+            "longitude": -117.0442581
+        },
+        "Tommys Place": {
+            "osm_id": 365318080,
+            "latitude": 32.768445999589474,
+            "longitude": -117.044277
+        }
+    },
+    "8365": {
+        "Casablanca Lounge": {
+            "osm_id": 9215079087,
+            "latitude": 32.714109399590164,
+            "longitude": -117.16032909999998
+        },
+        "Urban Bar & Grill": {
+            "osm_id": 3804821757,
+            "latitude": 32.71406389959017,
+            "longitude": -117.16000020000001
+        },
+        "Trailer Park After Dark": {
+            "osm_id": 9215079086,
+            "latitude": 32.714241199590155,
+            "longitude": -117.15999650000002
+        }
+    },
+    "8483": {
+        "Wells Fargo": {
+            "osm_id": 5629661812,
+            "latitude": 34.14113869960659,
+            "longitude": -118.22506900000002
+        },
+        "Bank of America": {
+            "osm_id": 5629661811,
+            "latitude": 34.14107309960659,
+            "longitude": -118.22487999999998
+        }
+    },
+    "8500": {
+        "Charles Schwab": {
+            "osm_id": 3785830198,
+            "latitude": 34.18460399960825,
+            "longitude": -118.605353
+        },
+        "Wells Fargo": {
+            "osm_id": 3935087984,
+            "latitude": 34.18495219960827,
+            "longitude": -118.60536399999997
+        }
+    },
+    "8504": {
+        "Hair Of The Dog": {
+            "osm_id": 3228950866,
+            "latitude": 33.82557569959666,
+            "longitude": -116.54659259999997
+        },
+        "The Tonga Hut": {
+            "osm_id": 3228950877,
+            "latitude": 33.82586989959667,
+            "longitude": -116.54662180000001
+        },
+        "Desert Fox Bar": {
+            "osm_id": 3228924587,
+            "latitude": 33.825314999596664,
+            "longitude": -116.5465995
+        }
+    },
+    "8591": {
+        "Bank of America": {
+            "osm_id": 277839880,
+            "latitude": 32.868298299588446,
+            "longitude": -117.231669
+        },
+        "Citibank": {
+            "osm_id": 277839901,
+            "latitude": 32.86819829958846,
+            "longitude": -117.23209300000002
+        },
+        "Chase": {
+            "osm_id": 393631711,
+            "latitude": 32.86813639958846,
+            "longitude": -117.23236010000001
+        }
+    },
+    "8664": {
+        "Kensington Brewing Company": {
+            "osm_id": 6970728340,
+            "latitude": 32.76308839958953,
+            "longitude": -117.1075905
+        },
+        "Kensington Club": {
+            "osm_id": 365317793,
+            "latitude": 32.763004999589526,
+            "longitude": -117.107695
+        }
+    },
+    "8672": {
+        "Wescom": {
+            "osm_id": 9138951618,
+            "latitude": 34.07056999960406,
+            "longitude": -118.44437729999999
+        },
+        "University Credit Union": {
+            "osm_id": 1949785450,
+            "latitude": 34.07072179960408,
+            "longitude": -118.4441906
+        }
+    },
+    "8733": {
+        "Bank of Hope": {
+            "osm_id": 5116078822,
+            "latitude": 34.06157159960376,
+            "longitude": -118.2918844
+        },
+        "Wells Fargo": {
+            "osm_id": 5116078821,
+            "latitude": 34.06162379960376,
+            "longitude": -118.29213709999999
+        }
+    },
+    "8776": {
+        "Til-Two Club": {
+            "osm_id": 3843181070,
+            "latitude": 32.756199299589625,
+            "longitude": -117.09247280000001
+        },
+        "Recognize Cocktails": {
+            "osm_id": 365317571,
+            "latitude": 32.75628599958962,
+            "longitude": -117.09241799999998
+        }
+    },
+    "8825": {
+        "Telesis Community Credit Union": {
+            "osm_id": 7115175293,
+            "latitude": 34.28350279961226,
+            "longitude": -118.71824600000001
+        },
+        "Premier America Credit Union": {
+            "osm_id": 7115175294,
+            "latitude": 34.28338689961225,
+            "longitude": -118.71830470000002
+        }
+    },
+    "8982": {
+        "Bank of America": {
+            "osm_id": 3322212227,
+            "latitude": 32.775792999589385,
+            "longitude": -117.07056200000001
+        },
+        "Chase": {
+            "osm_id": 3343030019,
+            "latitude": 32.775824499589376,
+            "longitude": -117.070561
+        },
+        "Wells Fargo": {
+            "osm_id": 3338977593,
+            "latitude": 32.77576259958939,
+            "longitude": -117.070561
+        }
+    },
+    "9011": {
+        "Star Club": {
+            "osm_id": 365318070,
+            "latitude": 32.71447699959017,
+            "longitude": -117.16045499999998
+        },
+        "Gaslamp Tavern": {
+            "osm_id": 9215079083,
+            "latitude": 32.71452649959016,
+            "longitude": -117.16030790000002
+        }
+    },
+    "9042": {
+        "American Junkie": {
+            "osm_id": 5211691722,
+            "latitude": 32.7120994995902,
+            "longitude": -117.16031410000001
+        },
+        "Ginger\u2019s": {
+            "osm_id": 9215079099,
+            "latitude": 32.7117495995902,
+            "longitude": -117.16030299999997
+        }
+    },
+    "9047": {
+        "Vino Volo": {
+            "osm_id": 5642659021,
+            "latitude": 33.67906049959328,
+            "longitude": -117.86188059999999
+        },
+        "United Club": {
+            "osm_id": 5642659221,
+            "latitude": 33.67912559959327,
+            "longitude": -117.86183810000001
+        }
+    },
+    "9085": {
+        "12": {
+            "osm_id": 5622964377,
+            "latitude": 33.70120519959373,
+            "longitude": -117.8905866
+        },
+        "11": {
+            "osm_id": 5618870780,
+            "latitude": 33.70140169959373,
+            "longitude": -117.8903844
+        }
+    },
+    "9168": {
+        "Blackie's": {
+            "osm_id": 9291781368,
+            "latitude": 33.608968399591916,
+            "longitude": -117.92928420000001
+        },
+        "Beach Ball": {
+            "osm_id": 9440486913,
+            "latitude": 33.608916299591925,
+            "longitude": -117.92924369999999
+        }
+    },
+    "9332": {
+        "Wells Fargo": {
+            "osm_id": 5767088597,
+            "latitude": 33.97687549960098,
+            "longitude": -118.416762
+        },
+        "Chase": {
+            "osm_id": 5767088598,
+            "latitude": 33.97686989960097,
+            "longitude": -118.41675699999999
+        }
+    },
+    "9349": {
+        "Wells Fargo In-branch ATM": {
+            "osm_id": 11033321536,
+            "latitude": 33.617912299592085,
+            "longitude": -117.70523739999999
+        },
+        "Wells Fargo External ATM": {
+            "osm_id": 10754024643,
+            "latitude": 33.61783949959208,
+            "longitude": -117.70519620000002
+        }
+    },
+    "9383": {
+        "Casablanca Lounge": {
+            "osm_id": 9215079087,
+            "latitude": 32.714109399590164,
+            "longitude": -117.16032909999998
+        },
+        "Urban Bar & Grill": {
+            "osm_id": 3804821757,
+            "latitude": 32.71406389959017,
+            "longitude": -117.16000020000001
+        },
+        "Trailer Park After Dark": {
+            "osm_id": 9215079086,
+            "latitude": 32.714241199590155,
+            "longitude": -117.15999650000002
+        },
+        "analog bar": {
+            "osm_id": 3804832757,
+            "latitude": 32.713747999590176,
+            "longitude": -117.1599946
+        }
+    },
+    "9400": {
+        "Oscars Cocktail Bar": {
+            "osm_id": 365317854,
+            "latitude": 32.7497845995897,
+            "longitude": -117.1025243
+        },
+        "Rainbow Bar and Grill": {
+            "osm_id": 365318023,
+            "latitude": 32.749809999589694,
+            "longitude": -117.10239799999997
+        }
+    },
+    "9447": {
+        "U.S. Bank": {
+            "osm_id": 3485329494,
+            "latitude": 35.12080929966007,
+            "longitude": -120.60154719999998
+        },
+        "Chase": {
+            "osm_id": 3485329493,
+            "latitude": 35.12091889966008,
+            "longitude": -120.6017819
+        }
+    },
+    "9459": {
+        "Mina Lounge": {
+            "osm_id": 9215079101,
+            "latitude": 32.7120342995902,
+            "longitude": -117.159412
+        },
+        "Side Bar": {
+            "osm_id": 9215079100,
+            "latitude": 32.7116846995902,
+            "longitude": -117.1593897
+        }
+    },
+    "9510": {
+        "Board Room": {
+            "osm_id": 365317909,
+            "latitude": 32.72866599958997,
+            "longitude": -117.16362799999999
+        },
+        "Cherrobomb": {
+            "osm_id": 6652600988,
+            "latitude": 32.72878729958997,
+            "longitude": -117.16358979999997
+        }
+    },
+    "9582": {
+        "Bank of America": {
+            "osm_id": 6346002011,
+            "latitude": 34.202798599608954,
+            "longitude": -118.4318844
+        },
+        "Western Union": {
+            "osm_id": 6346001994,
+            "latitude": 34.20246239960895,
+            "longitude": -118.43198600000001
+        }
+    },
+    "9657": {
+        "Bar Pink": {
+            "osm_id": 365317516,
+            "latitude": 32.74795099958972,
+            "longitude": -117.129772
+        },
+        "Califronia Tap Room": {
+            "osm_id": 6313226245,
+            "latitude": 32.747658799589736,
+            "longitude": -117.1295605
+        },
+        "True North": {
+            "osm_id": 365317470,
+            "latitude": 32.747661499589725,
+            "longitude": -117.1298203
+        }
+    },
+    "9660": {
+        "Library Bar": {
+            "osm_id": 2164968669,
+            "latitude": 34.10127599960514,
+            "longitude": -118.3418004
+        },
+        "Tropicana Bar": {
+            "osm_id": 2164968703,
+            "latitude": 34.101272099605154,
+            "longitude": -118.34165949999998
+        }
+    },
+    "9691": {
+        "The Sycamore Den": {
+            "osm_id": 365318207,
+            "latitude": 32.763208299589536,
+            "longitude": -117.12087280000001
+        },
+        "The Ould Sod": {
+            "osm_id": 365317217,
+            "latitude": 32.763090999589544,
+            "longitude": -117.12120199999998
+        }
+    },
+    "9762": {
+        "American Junkie": {
+            "osm_id": 5211691722,
+            "latitude": 32.7120994995902,
+            "longitude": -117.16031410000001
+        },
+        "Ginger\u2019s": {
+            "osm_id": 9215079099,
+            "latitude": 32.7117495995902,
+            "longitude": -117.16030299999997
+        }
+    },
+    "9771": {
+        "Seventy7 Lounge": {
+            "osm_id": 9968370869,
+            "latitude": 34.0244016996025,
+            "longitude": -118.39487320000002
+        },
+        "Rocco's Tavern": {
+            "osm_id": 1771061776,
+            "latitude": 34.024598499602504,
+            "longitude": -118.39461
+        }
+    },
+    "9866": {
+        "Erics": {
+            "osm_id": 365317345,
+            "latitude": 32.70722199959027,
+            "longitude": -116.997943
+        },
+        "La Barrita Bar": {
+            "osm_id": 11168597737,
+            "latitude": 32.70728889959027,
+            "longitude": -116.99797739999998
+        }
+    },
+    "9971": {
+        "Rough Draft Brewing Company": {
+            "osm_id": 8870930724,
+            "latitude": 32.949745699587886,
+            "longitude": -117.23387970000002
+        },
+        "North Pine Brewing": {
+            "osm_id": 8873711080,
+            "latitude": 32.94951849958789,
+            "longitude": -117.2338768
+        }
+    },
+    "10029": {
+        "JuneShine": {
+            "osm_id": 365318113,
+            "latitude": 32.755602899589626,
+            "longitude": -117.1287312
+        },
+        "Pariah Brewing Company": {
+            "osm_id": 6313226248,
+            "latitude": 32.75572189958962,
+            "longitude": -117.12875080000002
+        },
+        "Eppig Brewing North Park": {
+            "osm_id": 6313226249,
+            "latitude": 32.75584189958962,
+            "longitude": -117.1287317
+        }
+    },
+    "10202": {
+        "Opus Bank": {
+            "osm_id": 3186139363,
+            "latitude": 34.146509099606796,
+            "longitude": -118.00114579999999
+        },
+        "PacTrans Federal Credit Union": {
+            "osm_id": 3186139364,
+            "latitude": 34.146742099606804,
+            "longitude": -118.0011516
+        }
+    },
+    "10221": {
+        "One Door North": {
+            "osm_id": 365317593,
+            "latitude": 32.741553999589804,
+            "longitude": -117.13036610000002
+        },
+        "Bluefoot": {
+            "osm_id": 766269156,
+            "latitude": 32.74136109958981,
+            "longitude": -117.13037
+        }
+    },
+    "10402": {
+        "Stone Brewing Tap Room": {
+            "osm_id": 5190989421,
+            "latitude": 32.70887019959024,
+            "longitude": -117.15752680000001
+        },
+        "Fairweather Rooftop Bar": {
+            "osm_id": 9506307219,
+            "latitude": 32.70896169959024,
+            "longitude": -117.15756189999999
+        }
+    },
+    "10417": {
+        "Bar Pink": {
+            "osm_id": 365317516,
+            "latitude": 32.74795099958972,
+            "longitude": -117.129772
+        },
+        "Califronia Tap Room": {
+            "osm_id": 6313226245,
+            "latitude": 32.747658799589736,
+            "longitude": -117.1295605
+        },
+        "True North": {
+            "osm_id": 365317470,
+            "latitude": 32.747661499589725,
+            "longitude": -117.1298203
+        }
+    },
+    "10425": {
+        "Tropical Savor Bar & Grill": {
+            "osm_id": 9215079092,
+            "latitude": 32.71302999959019,
+            "longitude": -117.16090659999999
+        },
+        "Taste and Thirst": {
+            "osm_id": 597046679,
+            "latitude": 32.712900599590185,
+            "longitude": -117.16089
+        }
+    },
+    "10483": {
+        "Bank of America": {
+            "osm_id": 3322212227,
+            "latitude": 32.775792999589385,
+            "longitude": -117.07056200000001
+        },
+        "Chase": {
+            "osm_id": 3343030019,
+            "latitude": 32.775824499589376,
+            "longitude": -117.070561
+        },
+        "Wells Fargo": {
+            "osm_id": 3338977593,
+            "latitude": 32.77576259958939,
+            "longitude": -117.070561
+        }
+    },
+    "10531": {
+        "Bank of America": {
+            "osm_id": 1949785430,
+            "latitude": 34.070625699604065,
+            "longitude": -118.444423
+        },
+        "Wells Fargo": {
+            "osm_id": 2393204881,
+            "latitude": 34.070624599604066,
+            "longitude": -118.444373
+        },
+        "Chase": {
+            "osm_id": 1949785590,
+            "latitude": 34.07070179960407,
+            "longitude": -118.44436200000001
+        }
+    },
+    "10655": {
+        "Chase": {
+            "osm_id": 9313114373,
+            "latitude": 33.90216799959874,
+            "longitude": -118.3840212
+        },
+        "City National Bank": {
+            "osm_id": 4936121702,
+            "latitude": 33.90217729959874,
+            "longitude": -118.38364099999998
+        }
+    },
+    "10715": {
+        "U.S. Bank": {
+            "osm_id": 4326425212,
+            "latitude": 33.63687089959243,
+            "longitude": -117.5911616
+        },
+        "Western Union": {
+            "osm_id": 4330462595,
+            "latitude": 33.636871799592434,
+            "longitude": -117.59138280000002
+        }
+    },
+    "10817": {
+        "Bar 107": {
+            "osm_id": 560066659,
+            "latitude": 34.04862559960331,
+            "longitude": -118.2476319
+        },
+        "Bar Ama": {
+            "osm_id": 5451344729,
+            "latitude": 34.0483578996033,
+            "longitude": -118.24773529999999
+        }
+    },
+    "10849": {
+        "Union Bank": {
+            "osm_id": 1469734594,
+            "latitude": 34.435151899619086,
+            "longitude": -119.80395
+        },
+        "Citibank": {
+            "osm_id": 1469734591,
+            "latitude": 34.43525809961909,
+            "longitude": -119.803956
+        }
+    },
+    "10870": {
+        "Chill Bar": {
+            "osm_id": 3942562118,
+            "latitude": 33.82085179959654,
+            "longitude": -116.5448535
+        },
+        "Spurline": {
+            "osm_id": 3942556059,
+            "latitude": 33.82087059959654,
+            "longitude": -116.54505660000001
+        }
+    },
+    "10981": {
+        "L.P.": {
+            "osm_id": 5644457037,
+            "latitude": 34.08215379960448,
+            "longitude": -118.3767682
+        },
+        "Meleose Rooftop": {
+            "osm_id": 6969879585,
+            "latitude": 34.08226269960446,
+            "longitude": -118.37696829999997
+        }
+    },
+    "11020": {
+        "Chill Bar": {
+            "osm_id": 3942562118,
+            "latitude": 33.82085179959654,
+            "longitude": -116.5448535
+        },
+        "Spurline": {
+            "osm_id": 3942556059,
+            "latitude": 33.82087059959654,
+            "longitude": -116.54505660000001
+        }
+    },
+    "11075": {
+        "Chang Memorial Bench": {
+            "osm_id": 11474850151,
+            "latitude": 34.12930179960617,
+            "longitude": -118.29822799999998
+        },
+        "Mason Memorial Bench": {
+            "osm_id": 11474850154,
+            "latitude": 34.12937959960616,
+            "longitude": -118.2984246
+        },
+        "Sikand Memorial Bench": {
+            "osm_id": 11474850153,
+            "latitude": 34.12948459960616,
+            "longitude": -118.2984902
+        },
+        "Chien Memorial Bench": {
+            "osm_id": 11474850152,
+            "latitude": 34.129518699606166,
+            "longitude": -118.29832630000001
+        }
+    },
+    "11098": {
+        "Union Bank": {
+            "osm_id": 9576863031,
+            "latitude": 34.01718359960227,
+            "longitude": -118.49452719999996
+        },
+        "Pacific Western Bank": {
+            "osm_id": 9576863032,
+            "latitude": 34.01694189960226,
+            "longitude": -118.4942257
+        }
+    },
+    "11186": {
+        "Aro Latin": {
+            "osm_id": 6422124318,
+            "latitude": 34.11562639960567,
+            "longitude": -118.15637309999998
+        },
+        "Griffin's of Kinsale": {
+            "osm_id": 3134132928,
+            "latitude": 34.115634299605674,
+            "longitude": -118.15677920000002
+        }
+    },
+    "11237": {
+        "SLO Credit Union": {
+            "osm_id": 4929502922,
+            "latitude": 35.28008779967188,
+            "longitude": -120.6594945
+        },
+        "Pacific Western Bank": {
+            "osm_id": 4929502924,
+            "latitude": 35.28030639967191,
+            "longitude": -120.6598261
+        }
+    },
+    "11239": {
+        "BarrelHouse Brewing Co.": {
+            "osm_id": 4049015938,
+            "latitude": 35.280146199671904,
+            "longitude": -120.66322480000001
+        },
+        "Bull's Tavern": {
+            "osm_id": 2456191249,
+            "latitude": 35.28021419967191,
+            "longitude": -120.6629863
+        }
+    },
+    "11241": {
+        "9": {
+            "osm_id": 5492382209,
+            "latitude": 33.701884699593755,
+            "longitude": -117.89028190000002
+        },
+        "8": {
+            "osm_id": 5633942908,
+            "latitude": 33.701811799593735,
+            "longitude": -117.89070340000002
+        }
+    },
+    "11274": {
+        "Gallopin In": {
+            "osm_id": 365318130,
+            "latitude": 32.66488199959088,
+            "longitude": -117.09321299999998
+        },
+        "Machete Beer House": {
+            "osm_id": 8232815545,
+            "latitude": 32.664814799590886,
+            "longitude": -117.09318380000002
+        }
+    },
+    "11282": {
+        "SchoolsFirst Federal Credit Union": {
+            "osm_id": 4882463847,
+            "latitude": 34.136434599606424,
+            "longitude": -118.13248449999998
+        },
+        "California Credit Union": {
+            "osm_id": 10683754063,
+            "latitude": 34.13678659960643,
+            "longitude": -118.13250119999996
+        }
+    },
+    "11315": {
+        "Bank of Hope": {
+            "osm_id": 5116078822,
+            "latitude": 34.06157159960376,
+            "longitude": -118.2918844
+        },
+        "Wells Fargo": {
+            "osm_id": 5116078821,
+            "latitude": 34.06162379960376,
+            "longitude": -118.29213709999999
+        }
+    },
+    "11327": {
+        "Bank of America": {
+            "osm_id": 5746413701,
+            "latitude": 32.74670759958973,
+            "longitude": -117.2505261
+        },
+        "Wells Fargo": {
+            "osm_id": 5746413702,
+            "latitude": 32.74687109958974,
+            "longitude": -117.25079949999997
+        }
+    },
+    "11335": {
+        "Golden Gopher": {
+            "osm_id": 6486288336,
+            "latitude": 34.0449459996032,
+            "longitude": -118.25627699999998
+        },
+        "broken shaker": {
+            "osm_id": 6810621785,
+            "latitude": 34.04471109960318,
+            "longitude": -118.25650880000002
+        }
+    },
+    "11384": {
+        "Gossip Grill": {
+            "osm_id": 1448557328,
+            "latitude": 32.74872779958971,
+            "longitude": -117.15290299999997
+        },
+        "Uptown Tavern": {
+            "osm_id": 1974495839,
+            "latitude": 32.7487222995897,
+            "longitude": -117.15259299999998
+        }
+    },
+    "11504": {
+        "Tropical Savor Bar & Grill": {
+            "osm_id": 9215079092,
+            "latitude": 32.71302999959019,
+            "longitude": -117.16090659999999
+        },
+        "Taste and Thirst": {
+            "osm_id": 597046679,
+            "latitude": 32.712900599590185,
+            "longitude": -117.16089
+        }
+    },
+    "11619": {
+        "Wells Fargo": {
+            "osm_id": 4224888194,
+            "latitude": 34.12600989960603,
+            "longitude": -118.05467200000001
+        },
+        "Wachovia Bank": {
+            "osm_id": 856084998,
+            "latitude": 34.12586209960603,
+            "longitude": -118.0546147
+        }
+    },
+    "11681": {
+        "Wells Fargo": {
+            "osm_id": 4224888194,
+            "latitude": 34.12600989960603,
+            "longitude": -118.05467200000001
+        },
+        "Wachovia Bank": {
+            "osm_id": 856084998,
+            "latitude": 34.12586209960603,
+            "longitude": -118.0546147
+        }
+    },
+    "11767": {
+        "Casablanca Lounge": {
+            "osm_id": 9215079087,
+            "latitude": 32.714109399590164,
+            "longitude": -117.16032909999998
+        },
+        "Urban Bar & Grill": {
+            "osm_id": 3804821757,
+            "latitude": 32.71406389959017,
+            "longitude": -117.16000020000001
+        },
+        "Trailer Park After Dark": {
+            "osm_id": 9215079086,
+            "latitude": 32.714241199590155,
+            "longitude": -117.15999650000002
+        }
+    },
+    "11869": {
+        "Beyond Baroque Literary/Arts Center": {
+            "osm_id": 368167146,
+            "latitude": 33.991388899601425,
+            "longitude": -118.45888799999999
+        },
+        "Social and Public Art Resource Center": {
+            "osm_id": 10728948059,
+            "latitude": 33.99148679960143,
+            "longitude": -118.45860150000001
+        }
+    },
+    "11905": {
+        "Time Out Sports Tavern": {
+            "osm_id": 11404844857,
+            "latitude": 32.715886799590145,
+            "longitude": -117.1587609
+        },
+        "Beer Company": {
+            "osm_id": 4978438221,
+            "latitude": 32.71589419959014,
+            "longitude": -117.1590349
+        }
+    },
+    "12001": {
+        "The Regal": {
+            "osm_id": 365318172,
+            "latitude": 32.76551659958951,
+            "longitude": -117.0181248
+        },
+        "Petes Place": {
+            "osm_id": 365317142,
+            "latitude": 32.765412099589504,
+            "longitude": -117.0184998
+        }
+    },
+    "12023": {
+        "Wells Fargo": {
+            "osm_id": 5111904921,
+            "latitude": 34.06152659960375,
+            "longitude": -118.30214509999998
+        },
+        "Woori": {
+            "osm_id": 10933394752,
+            "latitude": 34.06150569960375,
+            "longitude": -118.30170640000001
+        }
+    },
+    "12121": {
+        "Far East Rock": {
+            "osm_id": 365318064,
+            "latitude": 32.58363599959226,
+            "longitude": -117.11226699999997
+        },
+        "Silver Sands": {
+            "osm_id": 365318119,
+            "latitude": 32.58364599959227,
+            "longitude": -117.11204499999998
+        }
+    },
+    "12125": {
+        "Vino Volo": {
+            "osm_id": 5642659021,
+            "latitude": 33.67906049959328,
+            "longitude": -117.86188059999999
+        },
+        "United Club": {
+            "osm_id": 5642659221,
+            "latitude": 33.67912559959327,
+            "longitude": -117.86183810000001
+        }
+    },
+    "12156": {
+        "Seventy7 Lounge": {
+            "osm_id": 9968370869,
+            "latitude": 34.0244016996025,
+            "longitude": -118.39487320000002
+        },
+        "Rocco's Tavern": {
+            "osm_id": 1771061776,
+            "latitude": 34.024598499602504,
+            "longitude": -118.39461
+        }
+    },
+    "12199": {
+        "Chase": {
+            "osm_id": 6262454651,
+            "latitude": 33.78164269959555,
+            "longitude": -118.1138633
+        },
+        "Bank of America": {
+            "osm_id": 6262454664,
+            "latitude": 33.78159739959557,
+            "longitude": -118.113813
+        }
+    },
+    "12237": {
+        "Gallopin In": {
+            "osm_id": 365318130,
+            "latitude": 32.66488199959088,
+            "longitude": -117.09321299999998
+        },
+        "Machete Beer House": {
+            "osm_id": 8232815545,
+            "latitude": 32.664814799590886,
+            "longitude": -117.09318380000002
+        }
+    },
+    "12244": {
+        "Menagerie": {
+            "osm_id": 2412667661,
+            "latitude": 33.981397699601125,
+            "longitude": -117.3729325
+        },
+        "W at Worthington's": {
+            "osm_id": 10148815289,
+            "latitude": 33.98144689960112,
+            "longitude": -117.37305440000002
+        },
+        "Raincross Pub": {
+            "osm_id": 10148815288,
+            "latitude": 33.98130449960111,
+            "longitude": -117.3726949
+        }
+    },
+    "12473": {
+        "Library Bar": {
+            "osm_id": 2164968669,
+            "latitude": 34.10127599960514,
+            "longitude": -118.3418004
+        },
+        "Tropicana Bar": {
+            "osm_id": 2164968703,
+            "latitude": 34.101272099605154,
+            "longitude": -118.34165949999998
+        }
+    },
+    "12489": {
+        "Small Bar": {
+            "osm_id": 6311891692,
+            "latitude": 32.761533599589555,
+            "longitude": -117.14644719999998
+        },
+        "Park & Rec": {
+            "osm_id": 596227912,
+            "latitude": 32.76126699958956,
+            "longitude": -117.1464936
+        }
+    }
+}

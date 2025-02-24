@@ -1,0 +1,51 @@
+ID,Question,Answer
+1,What amenity is available at Michigan Avenue Bridge Dock?,ferry_terminal
+2,What amenity is present in Willis Tower/Union Station Water Taxi Terminal?,ferry_terminal
+3,What amenity is available in Midewin National Tallgrass Prairie @ South Chicago Road?,parking
+4,What amenity is present in Leisure Village?,parking
+5,What amenity is available at Deland Cemetery?,grave_yard
+6,What amenity is available in Busse Forest South?,parking
+7,What amenity is present within Citgo?,fuel
+8,What amenity can be found at Mobil?,fuel
+9,What amenity is available at Storefront Theater?,theatre
+10,What amenity can be found at Auditorium Theatre?,theatre
+11,What amenity can be found in Centrue Bank?,bank
+12,What amenity is available in Beck's?,fuel
+13,What amenity is present within McDonald's?,fast_food
+14,What amenity is present within Wise Guys?,restaurant
+15,What amenity is featured at Shell?,fuel
+16,What amenity is featured at Pizza Hut?,restaurant
+17,What amenity is present within Amcore Bank?,bank
+18,What amenity is available in Citizens First National Bank?,bank
+19,What amenity is present within Master Stirfry?,restaurant
+20,What amenity is available at Jalapenos?,restaurant
+21,What amenity is featured at Temple Judea Mizpah?,place_of_worship
+22,What amenity can be found at Chipotle?,fast_food
+23,What amenity can be found at Panera Bread?,fast_food
+24,What amenity is available in Lincoln Park Postal Store?,post_office
+25,What amenity is present in Siam Terrace?,restaurant
+26,What amenity can be found at Downtown Urbana Post Office?,post_office
+27,What amenity is present in Schnucks Express?,fuel
+28,What amenity is featured at BMO?,bank
+29,What amenity is present in McDonald's?,fast_food
+30,What amenity is available at Subway?,fast_food
+31,What amenity is featured at Jollibee?,fast_food
+32,What amenity is present in Einstein Bros. Bagels?,fast_food
+33,What amenity is available in Bubba Gump Shrimp Company?,restaurant
+34,What amenity is present within CVS Pharmacy?,pharmacy
+35,What amenity is present within McDonald's?,fast_food
+36,What amenity can be found at Noodles & Company?,restaurant
+37,What amenity can be found at Subway?,fast_food
+38,What amenity can be found in Dunkin'?,fast_food
+39,What amenity is available in Yen Yen?,restaurant
+40,What amenity is available in Pompei Pizza & Pasta?,restaurant
+41,What amenity is featured at Domino's?,fast_food
+42,What amenity can be found in Buffalo Restaurant & Ice Cream Parlor?,restaurant
+43,What amenity can be found at Mobil?,fuel
+44,What amenity is featured at Branko's Submarines?,restaurant
+45,What amenity is present within Starbucks?,cafe
+46,What amenity is featured at Neofuturists?,theatre
+47,What amenity can be found at BP?,fuel
+48,What amenity is featured at Navy Pier IMAX Theatre?,cinema
+49,What amenity is present in Sbarro?,fast_food
+50,What amenity is available at Pizano's Pizza & Pasta?,restaurant

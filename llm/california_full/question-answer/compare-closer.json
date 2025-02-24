@@ -1,0 +1,1379 @@
+{
+    "1": {
+        "Golden Era Productions": {
+            "osm_id": 54383999,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Jack in the Box": {
+            "osm_id": 60794627,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Yoshinoya": {
+            "osm_id": 72448982,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "2": {
+        "Jack in the Box": {
+            "osm_id": 72448995,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "The Vault": {
+            "osm_id": 92261749,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Royal Falconer": {
+            "osm_id": 92276492,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "3": {
+        "Darby's American Cantina": {
+            "osm_id": 92276809,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Circle K & Minimart": {
+            "osm_id": 97044219,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Benjarong Thai Cuisine": {
+            "osm_id": 97045590,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "4": {
+        "Myung GA Tofu and Korean BBQ": {
+            "osm_id": 98195675,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Party House Restaurant": {
+            "osm_id": 98197574,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Pho Ha Vietnamese Restaurant": {
+            "osm_id": 98199129,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "5": {
+        "\u1e3eU": {
+            "osm_id": 98640668,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Ocean Pho": {
+            "osm_id": 98641153,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Arco": {
+            "osm_id": 98659556,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "6": {
+        "Taylor's Cocktail Lounge": {
+            "osm_id": 105912772,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Boiler Room": {
+            "osm_id": 105913520,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Balboa Island Ferry": {
+            "osm_id": 122670487,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "7": {
+        "Balboa Island Ferry": {
+            "osm_id": 122945728,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "YMCA of the Foothills": {
+            "osm_id": 123774379,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Lot D": {
+            "osm_id": 130102937,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "8": {
+        "Outdoor Theatre": {
+            "osm_id": 131182701,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Ramona Bowl": {
+            "osm_id": 150934166,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Camp Irwin Owen": {
+            "osm_id": 150949361,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "9": {
+        "Wellington Heights": {
+            "osm_id": 150959728,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Laguna Hills Mobile Home Estates": {
+            "osm_id": 150969684,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Chevron": {
+            "osm_id": 192554739,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "10": {
+        "Aquinas High School": {
+            "osm_id": 206209276,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Westchester-Loyola Village Branch Library": {
+            "osm_id": 243805625,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Wells Fargo": {
+            "osm_id": 245505455,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "11": {
+        "The Abbey": {
+            "osm_id": 256884236,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Pho Dakao": {
+            "osm_id": 259901778,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "CVS Pharmacy": {
+            "osm_id": 259916222,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "12": {
+        "Wells Fargo": {
+            "osm_id": 267988248,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "City Of San Gabriel Police Department": {
+            "osm_id": 268376953,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Chevron": {
+            "osm_id": 273539535,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "13": {
+        "Chipotle": {
+            "osm_id": 273593654,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Congregation Beth Israel": {
+            "osm_id": 273596533,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Leucadia": {
+            "osm_id": 273607070,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "14": {
+        "Subarashi": {
+            "osm_id": 273607369,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "World": {
+            "osm_id": 274190443,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Shell": {
+            "osm_id": 274191047,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "15": {
+        "Mobil": {
+            "osm_id": 274191409,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Thai Time III": {
+            "osm_id": 274193511,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Tapioca Express": {
+            "osm_id": 274358074,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "16": {
+        "Rite Aid": {
+            "osm_id": 274361347,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Carl's Jr. / The Green Burrito": {
+            "osm_id": 274362142,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Clairemont Auto Care": {
+            "osm_id": 274363014,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "17": {
+        "Sipz Fusion Cafe": {
+            "osm_id": 274363369,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "California Mission Inn": {
+            "osm_id": 274828246,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Chevron Mission Car Wash": {
+            "osm_id": 274830997,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "18": {
+        "Los Primos Mexican Food": {
+            "osm_id": 276539525,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Shanghai Cafe": {
+            "osm_id": 276540072,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "The Daily Bagel": {
+            "osm_id": 276540129,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "19": {
+        "Yokohama Sushi": {
+            "osm_id": 276597746,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Bank of America": {
+            "osm_id": 277839880,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Citibank": {
+            "osm_id": 277839901,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "20": {
+        "Pete's Coffee and Tea": {
+            "osm_id": 277840055,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Snooze": {
+            "osm_id": 277840140,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Flying J": {
+            "osm_id": 277853749,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "21": {
+        "Hope Christian Fellowship": {
+            "osm_id": 281655901,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Dead Horse Trailhead": {
+            "osm_id": 281860423,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Arco": {
+            "osm_id": 281881093,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "22": {
+        "Chevron": {
+            "osm_id": 288561875,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Los Angeles County Fire Department Station #23": {
+            "osm_id": 297744290,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Cafe 222": {
+            "osm_id": 297819169,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "23": {
+        "Los Angeles County Fire Department Station #31": {
+            "osm_id": 298257651,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "LB Fire Station #5": {
+            "osm_id": 298293424,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "L B Fire Station #17": {
+            "osm_id": 298293943,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "24": {
+        "Long Beach Fire Department Station #11": {
+            "osm_id": 298297119,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Long Beach Fire Department Station #6": {
+            "osm_id": 298305230,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Terminal Island Fire Station": {
+            "osm_id": 298305489,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "25": {
+        "Long Beach Fire Station #3": {
+            "osm_id": 298472149,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Long Beach Fire Station #4": {
+            "osm_id": 298474987,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Long Beach Fire Station #7": {
+            "osm_id": 298480095,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "26": {
+        "Long Beach Fire Station #13": {
+            "osm_id": 298535537,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Long Beach Fire Station #14": {
+            "osm_id": 298537270,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Long Beach Fire Station #15": {
+            "osm_id": 298539823,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "27": {
+        "Oak View Post Office": {
+            "osm_id": 301462760,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Bank of America": {
+            "osm_id": 302985237,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "NewLife Christian Fellowship": {
+            "osm_id": 303203108,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "28": {
+        "Bank of the West": {
+            "osm_id": 304679029,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Applebee's": {
+            "osm_id": 311580454,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Round Table Pizza": {
+            "osm_id": 311585827,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "29": {
+        "Dave's Hot Chicken": {
+            "osm_id": 311585931,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Fuddruckers": {
+            "osm_id": 311586015,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "El Torito": {
+            "osm_id": 311587997,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "30": {
+        "Red Lobster": {
+            "osm_id": 311589729,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Gurudwara San Diego": {
+            "osm_id": 317463702,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Roberto's Taco Shop": {
+            "osm_id": 317481692,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "31": {
+        "Jack in the Box": {
+            "osm_id": 319641071,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "The Hat": {
+            "osm_id": 319641072,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Starbucks": {
+            "osm_id": 319781294,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "32": {
+        "Yoshinoya": {
+            "osm_id": 319781337,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Ono Hawaiian BBQ": {
+            "osm_id": 319781486,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Togo's": {
+            "osm_id": 319781742,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "33": {
+        "Baskin-Robbins": {
+            "osm_id": 319781810,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Pepe's": {
+            "osm_id": 319781886,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Little Caesars": {
+            "osm_id": 319781987,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "34": {
+        "Rose Donuts": {
+            "osm_id": 319781992,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "H. Salt": {
+            "osm_id": 319782048,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Taco Bell": {
+            "osm_id": 319782358,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "35": {
+        "El Pollo Loco": {
+            "osm_id": 319782438,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Del Taco": {
+            "osm_id": 319782498,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Mamma's Brick Oven Pizza & Pasta": {
+            "osm_id": 319782536,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "36": {
+        "Jack in the Box": {
+            "osm_id": 319782553,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Top's": {
+            "osm_id": 319782575,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Roadhouse": {
+            "osm_id": 320217137,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "37": {
+        "Orange Chicken": {
+            "osm_id": 320217160,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Shiki Seafood Buffet": {
+            "osm_id": 320217380,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "El Pollo Loco": {
+            "osm_id": 320609859,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "38": {
+        "McDonald's": {
+            "osm_id": 320610117,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Carl's Jr.": {
+            "osm_id": 320610363,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "El Pollo Loco": {
+            "osm_id": 320632941,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "39": {
+        "Jack in the Box": {
+            "osm_id": 320633103,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "McDonald's": {
+            "osm_id": 320633253,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Starbucks": {
+            "osm_id": 320635840,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "40": {
+        "Saint Lukes Catholic Church": {
+            "osm_id": 321117738,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Walgreens": {
+            "osm_id": 330362382,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "CVS Pharmacy": {
+            "osm_id": 330362558,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "41": {
+        "Chevron": {
+            "osm_id": 330362638,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Mobil": {
+            "osm_id": 330362675,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Chase": {
+            "osm_id": 330362819,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "42": {
+        "Kaya Japanese Seafood": {
+            "osm_id": 330363353,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Petrillo's": {
+            "osm_id": 330363785,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "76": {
+            "osm_id": 330364040,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "43": {
+        "Jamba": {
+            "osm_id": 330364574,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Arco": {
+            "osm_id": 330364612,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Starbucks": {
+            "osm_id": 330365429,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "44": {
+        "Bella Italia": {
+            "osm_id": 331119502,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "El Taco": {
+            "osm_id": 331119529,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Clearman's Galley": {
+            "osm_id": 331119530,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "45": {
+        "Ruth's Chris Steak House": {
+            "osm_id": 331299119,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "San Gabriel Union Church": {
+            "osm_id": 337027429,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Wells Fargo": {
+            "osm_id": 339167501,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "46": {
+        "Barbusa": {
+            "osm_id": 339168755,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Subway": {
+            "osm_id": 341443274,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Sunland-Tujunga Library": {
+            "osm_id": 344327189,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "47": {
+        "Hidden Springs Cafe (closed)": {
+            "osm_id": 344369815,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Monte Cristo": {
+            "osm_id": 344369828,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Clear Creek Fire Station": {
+            "osm_id": 344433409,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "48": {
+        "Saint Anthonys Church and School": {
+            "osm_id": 344668949,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Baja Fresh": {
+            "osm_id": 344723703,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Jersey Mike's Subs": {
+            "osm_id": 344723888,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "49": {
+        "Shell": {
+            "osm_id": 344724678,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Taco Bell": {
+            "osm_id": 344727689,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Pizza Hut": {
+            "osm_id": 344727935,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "50": {
+        "Chilao": {
+            "osm_id": 344743063,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Big Tujunga Station": {
+            "osm_id": 344980631,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Sunland-Tujunga Municipal Building": {
+            "osm_id": 346301139,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "51": {
+        "kingsburg kitchen": {
+            "osm_id": 347009908,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Pasadena First Church of the Nazarene": {
+            "osm_id": 347240465,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Popeyes": {
+            "osm_id": 347714113,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "52": {
+        "Petrillos Pizza": {
+            "osm_id": 347717171,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Hakata Ramen": {
+            "osm_id": 347717938,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Mission 76": {
+            "osm_id": 347719574,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "53": {
+        "Hong Yei": {
+            "osm_id": 347726451,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Fillmore Branch Ventura County Library": {
+            "osm_id": 348158961,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Rite Aid": {
+            "osm_id": 348183372,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "54": {
+        "Circle K": {
+            "osm_id": 348183509,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "7-Eleven": {
+            "osm_id": 348183510,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Fire Department": {
+            "osm_id": 348183981,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "55": {
+        "Shell": {
+            "osm_id": 348184786,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Fenner Camp": {
+            "osm_id": 348247522,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Rock n' Fish": {
+            "osm_id": 348318838,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "56": {
+        "Big Wang's": {
+            "osm_id": 349338599,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Cafe Etc.": {
+            "osm_id": 349338821,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Baja Fresh": {
+            "osm_id": 349339405,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "57": {
+        "Chipotle": {
+            "osm_id": 349340479,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Luscious Dumplings \u6f64\u8c50\u5143\u9903\u5b50": {
+            "osm_id": 349382273,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Jerry's Famous Deli": {
+            "osm_id": 350742224,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "58": {
+        "Bossa Nova": {
+            "osm_id": 350766338,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Gould Mesa Trail Camp": {
+            "osm_id": 351493860,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Camp Hi-Hill": {
+            "osm_id": 351566474,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "59": {
+        "La Jolla Presbyterian": {
+            "osm_id": 351916273,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Mormon Rocks": {
+            "osm_id": 351918282,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Deep Creek Hot Springs": {
+            "osm_id": 351981470,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "60": {
+        "Beverly Hills Public Library": {
+            "osm_id": 352502734,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Einstein Bros. Bagels": {
+            "osm_id": 353135500,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "The Wits End": {
+            "osm_id": 353135501,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "61": {
+        "The Thai Grill": {
+            "osm_id": 353135502,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Backdoor Bakery": {
+            "osm_id": 353942124,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Pizza Hut": {
+            "osm_id": 353942568,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "62": {
+        "Subway": {
+            "osm_id": 354910320,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Chiquita's Mexican Food": {
+            "osm_id": 356140998,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Flicks": {
+            "osm_id": 356358180,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "63": {
+        "Pok\u00e9z": {
+            "osm_id": 356534762,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Brand Family Gravesite": {
+            "osm_id": 357629867,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Acacia School": {
+            "osm_id": 358779415,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "64": {
+        "Jane Addams Elementary School": {
+            "osm_id": 358779446,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Aggeler High School": {
+            "osm_id": 358779466,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Alamo School": {
+            "osm_id": 358779498,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "65": {
+        "Alcott Elementary School": {
+            "osm_id": 358779511,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Aldama Elementary School": {
+            "osm_id": 358779518,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Aliso School": {
+            "osm_id": 358779546,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "66": {
+        "All Saints School": {
+            "osm_id": 358779550,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "All Souls Catholic School": {
+            "osm_id": 358779558,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Allen Avenue Elementary School": {
+            "osm_id": 358779563,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "67": {
+        "Ella B Allen-Ann Daly Elementary School": {
+            "osm_id": 358779568,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Alpine Elementary School": {
+            "osm_id": 358779608,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Alta Loma Elementary School": {
+            "osm_id": 358779618,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "68": {
+        "Alta School": {
+            "osm_id": 358779627,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Alvarado Intermediate School": {
+            "osm_id": 358779635,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Alverno Heights Academy": {
+            "osm_id": 358779637,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "69": {
+        "Alvin Elementary School": {
+            "osm_id": 358779640,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Alvord Continuation High School": {
+            "osm_id": 358779645,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Amar School": {
+            "osm_id": 358779650,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "70": {
+        "Amherst School": {
+            "osm_id": 358779674,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "William Anderson Elementary School": {
+            "osm_id": 358779729,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Annunciation School": {
+            "osm_id": 358779780,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "71": {
+        "Anthony School": {
+            "osm_id": 358779805,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Anza School": {
+            "osm_id": 358779815,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Apperson Elementary School": {
+            "osm_id": 358779821,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "72": {
+        "Aragon Avenue Elementary School": {
+            "osm_id": 358779829,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Arcadia Christian School": {
+            "osm_id": 358779842,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Arizona Middle School": {
+            "osm_id": 358779886,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "73": {
+        "Arlington Heights Elementary School": {
+            "osm_id": 358779895,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Arminta Elementary School": {
+            "osm_id": 358779906,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Arroyo School": {
+            "osm_id": 358779963,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "74": {
+        "Art Center School": {
+            "osm_id": 358779983,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Artesia School": {
+            "osm_id": 358780002,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Ascension School": {
+            "osm_id": 358780007,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "75": {
+        "Ascension School": {
+            "osm_id": 358780011,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Assumption School": {
+            "osm_id": 358780032,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Asuncion School": {
+            "osm_id": 358780037,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "76": {
+        "Avenue School": {
+            "osm_id": 358780070,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Azusa Pacific University": {
+            "osm_id": 358780099,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Baker Elementary School": {
+            "osm_id": 358780140,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "77": {
+        "Jenny T Baker Elementary Shcool": {
+            "osm_id": 358780144,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Bakersfield Junior Academy": {
+            "osm_id": 358780156,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Baldwin Park Christian School": {
+            "osm_id": 358780205,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "78": {
+        "Baldwin School": {
+            "osm_id": 358780215,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Baldwin Stocker Elementary School": {
+            "osm_id": 358780220,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Cajon Valley Union School District": {
+            "osm_id": 358780235,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "79": {
+        "Bancroft Community School": {
+            "osm_id": 358780249,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Banning School": {
+            "osm_id": 358780268,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Baptist Day School": {
+            "osm_id": 358780285,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "80": {
+        "Baptist Day School": {
+            "osm_id": 358780290,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Baptist Theological Seminary": {
+            "osm_id": 358780293,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Barbara Webster Elementary School": {
+            "osm_id": 358780296,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    },
+    "81": {
+        "Barrett School": {
+            "osm_id": 358780321,
+            "latitude": 33.83377319959687,
+            "longitude": -116.98780989999999
+        },
+        "Bassett School": {
+            "osm_id": 358780390,
+            "latitude": 34.0772158996043,
+            "longitude": -118.15158199999998
+        },
+        "Bellflower Adult Education Center": {
+            "osm_id": 358780405,
+            "latitude": 34.07621689960426,
+            "longitude": -118.21601899999999
+        }
+    }
+}

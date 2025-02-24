@@ -1,0 +1,352 @@
+{
+    "1": {
+        "L1A": {
+            "osm_id": 279230521,
+            "latitude": -87.89849599999998,
+            "longitude": 41.97734100048456
+        }
+    },
+    "2": {
+        "Elgin": {
+            "osm_id": 153599677,
+            "latitude": -88.28109939999999,
+            "longitude": 42.037260000488985
+        }
+    },
+    "3": {
+        "Commercial & 100th Street": {
+            "osm_id": 7196609775,
+            "latitude": -87.5510039,
+            "longitude": 41.7132246004632
+        }
+    },
+    "4": {
+        "Dollar General": {
+            "osm_id": 4867129513,
+            "latitude": -88.28271529999999,
+            "longitude": 42.34795490050932
+        }
+    },
+    "5": {
+        "Phillipino": {
+            "osm_id": 8023220059,
+            "latitude": -87.9546563,
+            "longitude": 42.09619640049317
+        }
+    },
+    "6": {
+        "BRANDT": {
+            "osm_id": 10635572499,
+            "latitude": -88.5256121,
+            "longitude": 40.74533430036272
+        }
+    },
+    "7": {
+        "Kampenville": {
+            "osm_id": 153755893,
+            "latitude": -89.6028749,
+            "longitude": 38.01949539998474
+        }
+    },
+    "8": {
+        "North Ave & Kimball/Homan WB": {
+            "osm_id": 6662923961,
+            "latitude": -87.7122732,
+            "longitude": 41.910165700479396
+        }
+    },
+    "9": {
+        "Grand & Riverside": {
+            "osm_id": 11332321421,
+            "latitude": -87.92375329999999,
+            "longitude": 42.37313920051077
+        }
+    },
+    "10": {
+        "Cedarville Cemetery": {
+            "osm_id": 354099194,
+            "latitude": -89.6418061,
+            "longitude": 42.38394330051138
+        }
+    },
+    "11": {
+        "K16": {
+            "osm_id": 279230439,
+            "latitude": -87.8972472,
+            "longitude": 41.973952600484296
+        }
+    },
+    "12": {
+        "Western & Harrison": {
+            "osm_id": 8038783256,
+            "latitude": -87.68629759999999,
+            "longitude": 41.87367110047653
+        }
+    },
+    "13": {
+        "Lighthouse Cove": {
+            "osm_id": 3607374410,
+            "latitude": -88.19865669999999,
+            "longitude": 41.27561480042173
+        }
+    },
+    "14": {
+        "Vicente Guerrero": {
+            "osm_id": 10155717485,
+            "latitude": -87.6644951,
+            "longitude": 41.85359670047492
+        }
+    },
+    "15": {
+        "Easton Fountain": {
+            "osm_id": 9671526338,
+            "latitude": -89.600046,
+            "longitude": 40.69855190035712
+        }
+    },
+    "16": {
+        "Saint Luke Roman Catholic Congregation": {
+            "osm_id": 773252502,
+            "latitude": -89.26001229999999,
+            "longitude": 40.712626700358804
+        }
+    },
+    "17": {
+        "Crab Orchard Wildlife Viewing Area": {
+            "osm_id": 2921402846,
+            "latitude": -89.0579337,
+            "longitude": 37.69444759993951
+        }
+    },
+    "18": {
+        "127th Street & Michigan": {
+            "osm_id": 3921500794,
+            "latitude": -87.6197999,
+            "longitude": 41.663549900458854
+        }
+    },
+    "19": {
+        "House": {
+            "osm_id": 7524803672,
+            "latitude": -88.1828407,
+            "longitude": 41.57466720045085
+        }
+    },
+    "20": {
+        "Milton Christian Church": {
+            "osm_id": 8272489345,
+            "latitude": -90.64729379999999,
+            "longitude": 39.5636526002068
+        }
+    },
+    "21": {
+        "Redeemer Evangelical Lutheran Church": {
+            "osm_id": 354249880,
+            "latitude": -87.8386828,
+            "longitude": 42.37974400051116
+        }
+    },
+    "22": {
+        "Casa Blanca Realtors": {
+            "osm_id": 5670701249,
+            "latitude": -88.27437419999998,
+            "longitude": 42.048476100489786
+        }
+    },
+    "23": {
+        "Balbo & State": {
+            "osm_id": 5826774215,
+            "latitude": -87.6273494,
+            "longitude": 41.873102100476466
+        }
+    },
+    "24": {
+        "Michigan & 111th Street": {
+            "osm_id": 7251979369,
+            "latitude": -87.62104969999999,
+            "longitude": 41.692865900461435
+        }
+    },
+    "25": {
+        "The Church of Jesus Christ of Latter-day Saints": {
+            "osm_id": 354214061,
+            "latitude": -90.0153939,
+            "longitude": 40.55948310034011
+        }
+    },
+    "26": {
+        "Lincoln & Jersey": {
+            "osm_id": 5902642694,
+            "latitude": -87.7113606,
+            "longitude": 41.99290030048573
+        }
+    },
+    "27": {
+        "Chicago & Hoyne WB": {
+            "osm_id": 6502500131,
+            "latitude": -87.6798204,
+            "longitude": 41.89596620047828
+        }
+    },
+    "28": {
+        "Goodwin at Materials Research Lab": {
+            "osm_id": 5883110284,
+            "latitude": -88.22377909999999,
+            "longitude": 40.11169070028233
+        }
+    },
+    "29": {
+        "Cicero & 65th Street": {
+            "osm_id": 4245700417,
+            "latitude": -87.7423286,
+            "longitude": 41.77423830046838
+        }
+    },
+    "30": {
+        "Subway": {
+            "osm_id": 4381316269,
+            "latitude": -88.1105901,
+            "longitude": 41.778263600468726
+        }
+    },
+    "31": {
+        "Saint Germaine Church": {
+            "osm_id": 354283891,
+            "latitude": -87.7292183,
+            "longitude": 41.715110800463364
+        }
+    },
+    "32": {
+        "Moraine Valley Baptist Church": {
+            "osm_id": 354203706,
+            "latitude": -87.7753297,
+            "longitude": 41.661977500458725
+        }
+    },
+    "33": {
+        "Kings Lake": {
+            "osm_id": 354178274,
+            "latitude": -89.04339839999999,
+            "longitude": 38.56838220006331
+        }
+    },
+    "34": {
+        "Goldens Point Church": {
+            "osm_id": 354106270,
+            "latitude": -91.32820599999998,
+            "longitude": 40.462543800327985
+        }
+    },
+    "35": {
+        "Halsted & 119th Street": {
+            "osm_id": 5885598606,
+            "latitude": -87.64195529999999,
+            "longitude": 41.67750800046011
+        }
+    },
+    "36": {
+        "3500 W Howard St": {
+            "osm_id": 11184895608,
+            "latitude": -87.7142573,
+            "longitude": 42.019142100487656
+        }
+    },
+    "37": {
+        "Willow & Naperville": {
+            "osm_id": 9765678641,
+            "latitude": -88.1028189,
+            "longitude": 41.86315970047568
+        }
+    },
+    "38": {
+        "America's Financial Choice": {
+            "osm_id": 2616483632,
+            "latitude": -88.2565482,
+            "longitude": 40.130525800284865
+        }
+    },
+    "39": {
+        "Fullerton & Karlov EB": {
+            "osm_id": 6765407457,
+            "latitude": -87.72937039999998,
+            "longitude": 41.9243588004805
+        }
+    },
+    "40": {
+        "DV2 37": {
+            "osm_id": 10833452459,
+            "latitude": -87.62922759999998,
+            "longitude": 41.85694690047519
+        }
+    },
+    "41": {
+        "Central City Baptist Church": {
+            "osm_id": 354226029,
+            "latitude": -89.1299254,
+            "longitude": 38.54449060005986
+        }
+    },
+    "42": {
+        "Banburry Fair": {
+            "osm_id": 7118216429,
+            "latitude": -88.1866099,
+            "longitude": 41.99212050048567
+        }
+    },
+    "43": {
+        "Lawrence & Chatham": {
+            "osm_id": 10012273365,
+            "latitude": -89.687163,
+            "longitude": 39.79394900023906
+        }
+    },
+    "44": {
+        "Charlottesville Cemetery": {
+            "osm_id": 354100270,
+            "latitude": -87.7494722,
+            "longitude": 38.83643440010218
+        }
+    },
+    "45": {
+        "Halsted & Marquette": {
+            "osm_id": 4426041997,
+            "latitude": -87.64448079999998,
+            "longitude": 41.77236170046823
+        }
+    },
+    "46": {
+        "AT&T": {
+            "osm_id": 9398307524,
+            "latitude": -87.6214489,
+            "longitude": 41.88537180047745
+        }
+    },
+    "47": {
+        "Paradise Cemetery": {
+            "osm_id": 354128983,
+            "latitude": -88.9392273,
+            "longitude": 38.60115960006807
+        }
+    },
+    "48": {
+        "First Congregational Church": {
+            "osm_id": 354209753,
+            "latitude": -89.6573938,
+            "longitude": 40.49379490033191
+        }
+    },
+    "49": {
+        "Skokie Blvd & Gross Point": {
+            "osm_id": 3601993699,
+            "latitude": -87.7466965,
+            "longitude": 42.05033360048992
+        }
+    },
+    "50": {
+        "North Riverside Health Center": {
+            "osm_id": 7986883825,
+            "latitude": -87.80526569999999,
+            "longitude": 41.85537170047505
+        }
+    }
+}
